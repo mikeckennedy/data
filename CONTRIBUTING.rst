@@ -124,7 +124,7 @@ these resources:
 
 *Related URLs*
 
-I there are other resources available and related to the video (slide decks, etc),
+If there are other resources available and related to the video (slide decks, etc),
 it is suggested that they are referenced in the ``related_urls`` array of URLs
 rather than in the description.
 
@@ -151,6 +151,10 @@ If you added a lot of data and don't want to run the above command for each file
 you can use the following command to re-serialize the whole repo::
 
     $ python tools/reserialize.py --all .
+
+.. note:: Before using the tools, you should install some packages. In order to
+   obtain them, you can run the following command::
+       $ pip install -r tools/requirements.txt
 
 Finally, video JSON files should go in a directory called ``videos`` that is
 itself inside a category directory. For example::
@@ -199,7 +203,6 @@ pyvideo's collection, take the following steps:
 #. Fork this repo if you haven't already.
 #. Clone from your forked repo.
 #. Add your category directory (containing the JSON files) into the root of the repo.
-#. Add yourself as a contributor in the `CONTRIBUTORS.rst <https://github.com/pyvideo/data/blob/master/CONTRIBUTORS.rst>`_ file.
 #. Commit your changes and push them up to your fork.
 #. Issue a Pull Request of your changes to this repo.
 

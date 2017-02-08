@@ -64,10 +64,11 @@ def check_render_rest(data_root, verbose=False):
                 if error and level >= INVALID_ERROR_LEVEL:
                     valid = False
 
-                if error and verbose:
-                    msg = 'ReST validation error:\n\tFile:{}\n\tKey:{}'
-                    print(msg.format(file_path, field), flush=True)
-                    print('\t', error, sep='', flush=True)
+                if error:
+                    msg = 'ReST validation error (level {level}):\n\tFile: {fp}\n\tKey: {key}'
+                    print(msg.format(fp=file_path, key=field, level=level), flush=True)
+                    if verbose:
+                        print('\t', error, sep='', flush=True)
 
     if not valid:
         sys.exit(1)
