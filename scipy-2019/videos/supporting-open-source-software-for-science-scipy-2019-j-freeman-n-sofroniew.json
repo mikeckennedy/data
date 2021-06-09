@@ -1,0 +1,26 @@
+{
+  "copyright_text": null,
+  "description": "I'll describe how we are supporting the open-source community through grantmaking, software development, and collaboration, including both domain-specific tools and cross-cutting foundational infrastructure.",
+  "duration": 1761,
+  "language": "eng",
+  "recorded": "2019-07-13",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.scipy2019.scipy.org/confschedule"
+    }
+  ],
+  "speakers": [
+    "J. Freeman",
+    "N. Sofroniew"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/Zu_MmxdEW0M/maxresdefault.jpg",
+  "title": "Supporting Open Source Software for Science",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=Zu_MmxdEW0M"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "copyright_text": null,
+  "description": "To combat complex challenges such as plastic pollution, we require a\nproper understanding on characteristics of the problem through time and\nspace. This is one of the problems that the Ocean Cleanup tackles. In\nthe past two years, we supported them in developing a deep learning\nsolution to monitor river plastic. The system is now ready for global\nscaling.\n\nMarine plastics are a widespread concern to the environment because of\nits negative impact the marine ecosystem and human health. Quantifying\nplastic pollution in rivers is essential to mitigate the negative\nimpact, but challenging to realize due to lack of availability of\nscalable monitoring methods. Together with The Ocean Cleanup, we went\nthrough the journey of installing cameras, labeling data, training\nobject detection models and more. Currently, our paper on the study has\nbeen submitted, and the cameras, cloud architecture and models are\nalmost ready for scaling. Our talk will take you along our journey,\nsharing what we have learned.\n\nAt `Soda science <https://www.sodascience.nl/>`__, we aim to create\nsocial impact through data science by partnering with challenge experts,\nsuch as The Ocean Cleanup.\n",
+  "duration": 1821,
+  "language": "eng",
+  "recorded": "2019-11-30",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://pydata.org/eindhoven2019/schedule/"
+    }
+  ],
+  "speakers": [
+    "Colin van Lieshout",
+    "Joery de Vos"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/i4Y3H36QckU/maxresdefault.jpg",
+  "title": "Automated river plastic monitoring using deep learning",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=i4Y3H36QckU"
+    }
+  ]
+}

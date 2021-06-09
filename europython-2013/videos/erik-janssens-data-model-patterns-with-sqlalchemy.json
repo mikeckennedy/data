@@ -1,0 +1,31 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2828,
+  "language": "eng",
+  "recorded": "2013-07-03",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.pycon.it/en/ep2013/"
+    }
+  ],
+  "speakers": [
+    "Erik Janssens"
+  ],
+  "tags": [
+    "sql",
+    "sqlalchemy",
+    "metaprogramming",
+    "orm",
+    "database"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/m5Udg79uiMo/hqdefault.jpg",
+  "title": "Data model patterns with SQLAlchemy",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=m5Udg79uiMo"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 3759,
+  "language": "spa",
+  "recorded": "2018-02-09",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://2018.pycon.co/#tab-2018-02-09"
+    }
+  ],
+  "speakers": [
+    "Naomi Ceder"
+  ],
+  "tags": [
+    "keynote"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/ao0bmtaoeJQ/hqdefault.jpg",
+  "title": "Antipatterns for Inclusion",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=ao0bmtaoeJQ"
+    }
+  ]
+}

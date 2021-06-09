@@ -1,0 +1,33 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2226,
+  "language": null,
+  "recorded": "2018-11-14",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "http://pyparis.org/static/pdf/Schedule-PyParis-2018.pdf"
+    },
+    {
+      "label": "Conference web",
+      "url": "http://pyparis.org/"
+    },
+    {
+      "label": "slides",
+      "url": "http://pyparis.org/static/slides/Patrick%20Arminio-1cba4f64.pdf"
+    }
+  ],
+  "speakers": [
+    "Patrick Arminio"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/IA1TuKfVTlg/maxresdefault.jpg",
+  "title": "GraphQL in Python and Django",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=IA1TuKfVTlg"
+    }
+  ]
+}

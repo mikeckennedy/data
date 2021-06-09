@@ -9,16 +9,20 @@
   "quality_notes": "",
   "recorded": "2011-08-22",
   "slug": "lightning-talks-saturday",
-  "speakers": [],
+  "speakers": [
+    "Various speakers"
+  ],
   "summary": "Lightning talks. See the whiteboard in the foyer for signup.\n",
-  "tags": [],
-  "thumbnail_url": "http://i.ytimg.com/vi/mNy83D7Rhoo/hqdefault.jpg",
+  "tags": [
+    "lightning talks"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/mNy83D7Rhoo/hqdefault.jpg",
   "title": "Lightning talks: Saturday",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=mNy83D7Rhoo"
+      "url": "https://www.youtube.com/watch?v=mNy83D7Rhoo"
     }
   ]
 }

@@ -7,7 +7,7 @@
   "id": 84,
   "language": "eng",
   "quality_notes": "",
-  "recorded": null,
+  "recorded": "2011-09-05",
   "slug": "djangocon-2011--benevolent-designer-for-life--39-",
   "speakers": [
     "Idan Gazit"
@@ -26,11 +26,6 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/pyvideo_84___benevolent-designer-for-life-s-keynote-designers-make-it-go-to-eleven"
-    },
-    {
-      "length": null,
-      "type": "mp4",
-      "url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/84_benevolent-designer-for-life-s-keynote-designers-make-it-go-to-eleven.m4v"
     }
   ]
 }

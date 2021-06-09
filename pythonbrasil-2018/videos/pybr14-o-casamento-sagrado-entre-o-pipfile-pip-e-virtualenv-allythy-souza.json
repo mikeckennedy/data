@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1187,
+  "language": "por",
+  "recorded": "2018-10-17",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://2018.pythonbrasil.org.br/programacao"
+    }
+  ],
+  "speakers": [
+    "Allythy Souza"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/vUB2VLvvj6E/hqdefault.jpg",
+  "title": "O casamento sagrado entre o Pipfile, pip e Virtualenv",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=vUB2VLvvj6E"
+    }
+  ]
+}

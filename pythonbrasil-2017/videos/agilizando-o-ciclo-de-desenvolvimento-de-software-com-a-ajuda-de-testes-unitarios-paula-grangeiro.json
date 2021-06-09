@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2090,
+  "language": "por",
+  "recorded": "2017-10-06",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "http://2017.pythonbrasil.org.br/#schedule"
+    }
+  ],
+  "speakers": [
+    "Paula Grangeiro"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/pGsknj45X-I/maxresdefault.jpg",
+  "title": "Agilizando o ciclo de desenvolvimento de software com a ajuda de testes unit\u00e1rios",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=pGsknj45X-I"
+    }
+  ]
+}

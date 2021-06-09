@@ -1,7 +1,7 @@
 {
   "alias": "video/2141/statistical-data-analysis-in-python-scipy2013-tu-8",
   "category": "SciPy 2013",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2141,
@@ -17,13 +17,13 @@
   "tags": [
     "Tech"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/YZDtBEEZuAk/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/YZDtBEEZuAk/hqdefault.jpg",
   "title": "Statistical Data Analysis in Python, SciPy2013 Tutorial, Part 3 of 4",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=YZDtBEEZuAk"
+      "url": "https://www.youtube.com/watch?v=YZDtBEEZuAk"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "alias": "video/2679/opening-statements-pycon-2014-20140411",
   "category": "PyCon US 2014",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2679,
@@ -14,13 +14,13 @@
   ],
   "summary": "",
   "tags": [],
-  "thumbnail_url": "http://i1.ytimg.com/vi/L_LLYTm-QnM/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/L_LLYTm-QnM/hqdefault.jpg",
   "title": "Opening Statements - PyCon 2014 (2014/04/11)",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=L_LLYTm-QnM"
+      "url": "https://www.youtube.com/watch?v=L_LLYTm-QnM"
     }
   ]
 }

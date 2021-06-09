@@ -14,17 +14,17 @@
   ],
   "summary": "PyConZA by the Numbers: Gustav Praekelt's lightning talk at the opening\nof PyConZA 2012.\n",
   "tags": [
+    "lightning talks",
     "pyconza",
     "pyconza2012",
     "python"
   ],
-  "thumbnail_url": "http://archive.org/download/pyconza2012-opening/pyconza2012-opening.thumbs/pyconza2012-opening_000057.jpg",
+  "thumbnail_url": "https://archive.org/download/pyconza2012-opening/pyconza2012-opening.thumbs/pyconza2012-opening_000057.jpg",
   "title": "PyConZA 2012: PyConZA by the Numbers",
   "videos": [
     {
-      "length": null,
       "type": "ogv",
-      "url": "http://archive.org/download/pyconza2012-opening/pyconza2012-opening.ogv"
+      "url": "https://archive.org/download/pyconza2012-opening/pyconza2012-opening.ogv"
     }
   ]
 }

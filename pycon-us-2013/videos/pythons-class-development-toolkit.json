@@ -16,11 +16,10 @@
   "tags": [
     "talk"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/HTLu2DFOdTg/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/HTLu2DFOdTg/hqdefault.jpg",
   "title": "Python's Class Development Toolkit",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Pythons_Class_Development_Tool.mp4?Signature=Uv5WTjJ6EmwLYVN0VyTWGOtFAUc%3D&Expires=1363810786&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

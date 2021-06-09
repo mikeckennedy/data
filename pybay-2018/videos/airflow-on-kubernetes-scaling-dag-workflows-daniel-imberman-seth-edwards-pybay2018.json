@@ -1,0 +1,26 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2240,
+  "language": "eng",
+  "recorded": "2018-08-18",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://pybay.com/schedule/"
+    }
+  ],
+  "speakers": [
+    "Daniel Imberman",
+    "Seth Edwards"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/A0gKV1r7w8M/maxresdefault.jpg",
+  "title": "Airflow on Kubernetes - Scaling DAG Workflows",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=A0gKV1r7w8M"
+    }
+  ]
+}

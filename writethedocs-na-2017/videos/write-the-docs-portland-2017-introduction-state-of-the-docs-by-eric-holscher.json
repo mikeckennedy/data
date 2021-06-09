@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1407,
+  "language": "eng",
+  "recorded": "2017-05-15",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "http://www.writethedocs.org/conf/na/2017/"
+    }
+  ],
+  "speakers": [
+    "Eric Holscher"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/2LTsqJdUKiI/maxresdefault.jpg",
+  "title": "Introduction & State of the Docs",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=2LTsqJdUKiI"
+    }
+  ]
+}

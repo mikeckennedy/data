@@ -1,7 +1,7 @@
 {
   "alias": "video/1966/a-rapidly-adaptable-imaging-measurement-platfor",
   "category": "SciPy 2013",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 1966,
@@ -14,13 +14,13 @@
   "tags": [
     "Tech"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/DDIW2rKxrbI/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/DDIW2rKxrbI/hqdefault.jpg",
   "title": "A Rapidly-Adaptable Imaging & Measurement Platform for Cancer Research; SciPy 2013 Presentation",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=DDIW2rKxrbI"
+      "url": "https://www.youtube.com/watch?v=DDIW2rKxrbI"
     }
   ]
 }

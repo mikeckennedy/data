@@ -1,0 +1,29 @@
+{
+  "copyright_text": null,
+  "description": "pilas-engine es un motor para hacer videojuegos de manera divertida,\ndid\u00e1ctica e interactiva. Actualmente le est\u00e1 permitiendo a muchos\nadolecentes a descubrir por ellos mismos el potencias de sus\ncomputadoras, la programaci\u00f3n y python.\n",
+  "duration": 2496,
+  "language": "spa",
+  "recorded": "2012-11-17",
+  "related_urls": [
+    {
+      "label": "Event schedule",
+      "url": "https://web.archive.org/web/20140626165416/http://ar.pycon.org/2012/schedule/index"
+    },
+    {
+      "label": "PyCon Argentina 2012 Brouchure",
+      "url": "https://es.scribd.com/document/116769116/PyCon-Argentina-2012-Brouchure"
+    }
+  ],
+  "speakers": [
+    "Hugo Ruscitti"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/sQhxjLoJlZs/maxresdefault.jpg",
+  "title": "pilas-engine, haciendo juegos en medio de la revoluci\u00f3n",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=sQhxjLoJlZs"
+    }
+  ]
+}

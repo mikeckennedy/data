@@ -1,0 +1,33 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1249,
+  "language": null,
+  "recorded": "2018-11-14",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "http://pyparis.org/static/pdf/Schedule-PyParis-2018.pdf"
+    },
+    {
+      "label": "Conference web",
+      "url": "http://pyparis.org/"
+    },
+    {
+      "label": "slides",
+      "url": "http://pyparis.org/static/slides/Arthur%20Lutz-a4abc73a.pdf"
+    }
+  ],
+  "speakers": [
+    "Arthur Lutz"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/BnU8uWQNST0/maxresdefault.jpg",
+  "title": "Python tooling for continuous deployment",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=BnU8uWQNST0"
+    }
+  ]
+}

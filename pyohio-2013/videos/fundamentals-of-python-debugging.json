@@ -16,13 +16,13 @@
   "tags": [
     "tutorial"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/7KLWszUrVn0/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/7KLWszUrVn0/hqdefault.jpg",
   "title": "Fundamentals of Python Debugging",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=7KLWszUrVn0"
+      "url": "https://www.youtube.com/watch?v=7KLWszUrVn0"
     }
   ]
 }

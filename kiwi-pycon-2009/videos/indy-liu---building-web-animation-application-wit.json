@@ -7,7 +7,7 @@
   "id": 110,
   "language": "eng",
   "quality_notes": "",
-  "recorded": null,
+  "recorded": "2009-11-07",
   "slug": "indy-liu---building-web-animation-application-wit",
   "speakers": [
     "Indy Liu"
@@ -27,11 +27,6 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/pyvideo_110___indy-liu-building-web-animation-application-with-python-ogre"
-    },
-    {
-      "length": null,
-      "type": "flv",
-      "url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/110_indy-liu-building-web-animation-application-with-python-ogre.flv"
     }
   ]
 }

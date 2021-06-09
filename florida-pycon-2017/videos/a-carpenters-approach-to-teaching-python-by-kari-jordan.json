@@ -1,0 +1,16 @@
+{
+  "description": "Using evidence from Data and Software Carpentry\u2019s training impact\nsurveys, this presentation explores training as a way to onboard\nindividuals to use Python. Attendees will walk away with a perspective\non training approaches and a feeling of empowerment to build a diverse\nPython community through training. The only prerequisite knowledge you\nneed is your own desire to achieve equity in the Python community.",
+  "language": "eng",
+  "recorded": "2017-10-07",
+  "speakers": [
+    "Kari Jordan"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/f4Cl2RTeUgk/hqdefault.jpg",
+  "title": "A Carpenter's Approach to Teaching Python",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=f4Cl2RTeUgk"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "",
+  "duration": 1138,
+  "language": "eng",
+  "recorded": "2017-03-26",
+  "related_urls": [
+    {
+      "label": "Group web",
+      "url": "http://pyninsula.org/"
+    },
+    {
+      "label": "Group meeting schedule",
+      "url": "https://www.meetup.com/Pyninsula-Python-Peninsula-Meetup/"
+    }
+  ],
+  "speakers": [
+    "Ashwini Oruganti"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/oC5bejvdrLM/maxresdefault.jpg",
+  "title": "pyca/tls",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=oC5bejvdrLM"
+    }
+  ]
+}

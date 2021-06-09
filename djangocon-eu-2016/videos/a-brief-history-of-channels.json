@@ -8,11 +8,12 @@
   "tags": [
     "django"
   ],
+  "thumbnail_url": "https://i.vimeocdn.com/video/702189586.jpg",
   "title": "A Brief History of Channels",
   "videos": [
     {
-      "type": "wistia",
-      "url": "https://fast.wistia.com/embed/iframe/h643dwrafs"
+      "type": "vimeo",
+      "url": "https://vimeo.com/271033995"
     }
   ]
 }

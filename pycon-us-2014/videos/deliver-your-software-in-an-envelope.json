@@ -1,7 +1,7 @@
 {
   "alias": "video/2632/deliver-your-software-in-an-envelope",
   "category": "PyCon US 2014",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2632,
@@ -15,13 +15,13 @@
   ],
   "summary": "Guaranteed behavior makes software modules useful. Software guarantees\nare commonly incomplete with good reason: promises that are narrow and\nfew are most easily kept across wide ranges of platforms and long times.\nWe define the space of a module's allowed behavior to be its \"behavioral\nenvelope\" and show that thinking and speaking in terms of envelopes\neases maintenance and makes APIs delightful.\n",
   "tags": [],
-  "thumbnail_url": "http://i1.ytimg.com/vi/mTj297sGzxw/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/mTj297sGzxw/hqdefault.jpg",
   "title": "Deliver Your Software In An Envelope",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=mTj297sGzxw"
+      "url": "https://www.youtube.com/watch?v=mTj297sGzxw"
     }
   ]
 }

@@ -1,0 +1,33 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2425,
+  "language": null,
+  "recorded": "2018-11-14",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "http://pyparis.org/static/pdf/Schedule-PyParis-2018.pdf"
+    },
+    {
+      "label": "Conference web",
+      "url": "http://pyparis.org/"
+    },
+    {
+      "label": "slides",
+      "url": "https://natim.github.io/django-slides/asyncio-io-cpu-bound-en/#/"
+    }
+  ],
+  "speakers": [
+    "R\u00e9my Hubscher"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/eJBbM3RpEUI/maxresdefault.jpg",
+  "title": "How to use AsyncIO to make the most of a CPU Bound and IO Bound software with Python 3.7",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=eJBbM3RpEUI"
+    }
+  ]
+}

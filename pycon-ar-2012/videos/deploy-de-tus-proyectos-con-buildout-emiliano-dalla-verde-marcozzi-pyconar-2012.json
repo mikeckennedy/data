@@ -1,0 +1,29 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "Buildout es un sistema de construcci\u00f3n de entornos para nuestro software\nbasado en Python, para la creaci\u00f3n, montaje y despliegue de nuestras\naplicaciones, algunas de las cuales pueden estar o no basadas en Python.\nPor ejemplo, podes instalar Apache y tu aplicaci\u00f3n Django utilizando\nBuildout, permitiendote replicar el entorno que configuraste en\ncualquier m\u00e1quina / servidor.\n",
+  "duration": 3019,
+  "language": "spa",
+  "recorded": "2012-11-17",
+  "related_urls": [
+    {
+      "label": "Event schedule",
+      "url": "https://web.archive.org/web/20140626165416/http://ar.pycon.org/2012/schedule/index"
+    },
+    {
+      "label": "PyCon Argentina 2012 Brouchure",
+      "url": "https://es.scribd.com/document/116769116/PyCon-Argentina-2012-Brouchure"
+    }
+  ],
+  "speakers": [
+    "Emiliano Dalla Verde Marcozzi"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/WYswWQfwjlc/maxresdefault.jpg",
+  "title": "Deploy de tus proyectos con Buildout",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=WYswWQfwjlc"
+    }
+  ]
+}

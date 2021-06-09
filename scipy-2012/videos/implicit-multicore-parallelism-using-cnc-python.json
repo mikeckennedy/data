@@ -21,11 +21,10 @@
   "tags": [
     "hpc"
   ],
-  "thumbnail_url": "http://i3.ytimg.com/vi/ZC2pm2b_Sks/hqdefault.jpg",
+  "thumbnail_url": "https://i3.ytimg.com/vi/ZC2pm2b_Sks/hqdefault.jpg",
   "title": "Implicit Multicore Parallelism using CnC-Python",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Implicit_Multicore_Parallelism_using_CnCPython.mp4?Signature=yyqfWPhoAeEggj1Sg1RiEE6k5jQ%3D&Expires=1346381702&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

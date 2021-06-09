@@ -1,7 +1,7 @@
 {
   "alias": "video/2002/reproducible-documents-with-pythontex-scipy-2013",
   "category": "SciPy 2013",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2002,
@@ -14,13 +14,13 @@
   "tags": [
     "Tech"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/G-UDHc2UVOg/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/G-UDHc2UVOg/hqdefault.jpg",
   "title": "Reproducible Documents with PythonTeX; SciPy 2013 Presentation",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=G-UDHc2UVOg"
+      "url": "https://www.youtube.com/watch?v=G-UDHc2UVOg"
     }
   ]
 }

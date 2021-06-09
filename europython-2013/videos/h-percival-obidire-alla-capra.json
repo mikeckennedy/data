@@ -1,0 +1,30 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2316,
+  "language": "ita",
+  "recorded": "2013-07-02",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.pycon.it/en/ep2013/"
+    }
+  ],
+  "speakers": [
+    "Harry Percival"
+  ],
+  "tags": [
+    "testing",
+    "selenium",
+    "tdd",
+    "django"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/u0L3DuAPOVw/hqdefault.jpg",
+  "title": "Obidire alla capra! TDD con Python i Selenium",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=u0L3DuAPOVw"
+    }
+  ]
+}

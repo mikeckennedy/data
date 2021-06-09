@@ -1,7 +1,7 @@
 {
   "alias": "video/2115/graphterm-a-notebook-like-graphical-terminal-int-1",
   "category": "SciPy 2013",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2115,
@@ -14,13 +14,13 @@
   "tags": [
     "Tech"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/nO0ceHmTlDQ/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/nO0ceHmTlDQ/hqdefault.jpg",
   "title": "GraphTerm: A notebook-like graphical terminal interface; SciPy 2013 Presentation",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=nO0ceHmTlDQ"
+      "url": "https://www.youtube.com/watch?v=nO0ceHmTlDQ"
     }
   ]
 }

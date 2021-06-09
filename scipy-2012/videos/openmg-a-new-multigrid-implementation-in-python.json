@@ -17,11 +17,10 @@
   "tags": [
     "hpc"
   ],
-  "thumbnail_url": "http://i3.ytimg.com/vi/R-FO_PX7a_I/hqdefault.jpg",
+  "thumbnail_url": "https://i3.ytimg.com/vi/R-FO_PX7a_I/hqdefault.jpg",
   "title": "OpenMG: A New Multigrid Implementation in Python",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/OpenMG_A_New_Multigrid_Implementation_in_Python.mp4?Signature=kNN3vhu1YxcbCBNjVmWtEKMogcg%3D&Expires=1346381424&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

@@ -1,0 +1,29 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "\u00bfC\u00f3mo se implementa Python como lenguaje de programaci\u00f3n? Algunos\ndetalles de CPython. Otras implementaciones, sobre Java y .NET, Python\nen Python. Puntos que hay que resolver para implementar un lenguaje como\nPython (estructura interna de los objetos, datos de metaprogramaci\u00f3n,\nrecolecci\u00f3n de basura). Revisi\u00f3n de una implementaci\u00f3n en C#.\n",
+  "duration": 2999,
+  "language": "spa",
+  "recorded": "2012-11-17",
+  "related_urls": [
+    {
+      "label": "Event schedule",
+      "url": "https://web.archive.org/web/20140626165416/http://ar.pycon.org/2012/schedule/index"
+    },
+    {
+      "label": "PyCon Argentina 2012 Brouchure",
+      "url": "https://es.scribd.com/document/116769116/PyCon-Argentina-2012-Brouchure"
+    }
+  ],
+  "speakers": [
+    "Angel J. Lopez"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/2OlJkt7oaTI/maxresdefault.jpg",
+  "title": "Implementando Python",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=2OlJkt7oaTI"
+    }
+  ]
+}

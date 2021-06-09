@@ -16,13 +16,13 @@
   "tags": [
     "talk"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/uza3AMUOESk/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/uza3AMUOESk/hqdefault.jpg",
   "title": "Single Artifact Deployments for Python Applications",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=uza3AMUOESk"
+      "url": "https://www.youtube.com/watch?v=uza3AMUOESk"
     }
   ]
 }

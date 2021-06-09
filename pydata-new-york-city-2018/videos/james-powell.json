@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2265,
+  "language": "eng",
+  "recorded": "2018-08-17",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://pydata.org/nyc2018/schedule/"
+    }
+  ],
+  "speakers": [
+    "James Powell"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/65_-6kEAq58/maxresdefault.jpg",
+  "title": "dot dot dot",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=65_-6kEAq58"
+    }
+  ]
+}

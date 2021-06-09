@@ -1,0 +1,27 @@
+{
+  "copyright_text": null,
+  "description": "The shape of the tool determines the outcome of the result. A story about developing a volumetric 3D modeling and animation tool for creating virtual and physical sculptures using VTK, Numpy and PyQt told through the tool itself. ",
+  "duration": 1467,
+  "language": "eng",
+  "recorded": "2019-10-31",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "http://www.pycon.se/index.html#talks"
+    }
+  ],
+  "speakers": [
+    "Victor Nyberg"
+  ],
+  "tags": [
+    "3d"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/GIQDUPVAIv4/maxresdefault.jpg",
+  "title": "Volumetric sculpting - Shaping a dynamic chisel",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=GIQDUPVAIv4"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "alias": "video/1990/iris-cartopy-python-packages-for-atmospheric-a",
   "category": "SciPy 2013",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 1990,
@@ -14,13 +14,13 @@
   "tags": [
     "Tech"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/MW9wmGsscrs/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/MW9wmGsscrs/hqdefault.jpg",
   "title": "Iris & Cartopy: Python packages for Atmospheric and Oceanographic science; SciPy 2013 Presentation",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=MW9wmGsscrs"
+      "url": "https://www.youtube.com/watch?v=MW9wmGsscrs"
     }
   ]
 }

@@ -1,0 +1,29 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "| The Python web framework Django can handle extremely high levels of\n  traffic\u2026 with appropriate design and support. We\u2019ll go over techniques\n  to keep your Django site from being crushed under high load.\n| Topics include:\n\n-  Schema/model design\n-  Caching\n-  Efficient view function design\n-  Caching\n-  Template design for high performance\n-  Caching\n-  Database tuning and sharding\n-  Caching\n\nWe\u2019ll also discuss caching.\n",
+  "duration": 3558,
+  "language": "eng",
+  "recorded": "2012-11-17",
+  "related_urls": [
+    {
+      "label": "Event schedule",
+      "url": "https://web.archive.org/web/20140626165416/http://ar.pycon.org/2012/schedule/index"
+    },
+    {
+      "label": "PyCon Argentina 2012 Brouchure",
+      "url": "https://es.scribd.com/document/116769116/PyCon-Argentina-2012-Brouchure"
+    }
+  ],
+  "speakers": [
+    "Christophe Pettus"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/gBT4uxtSkFY/maxresdefault.jpg",
+  "title": "Django under massive loads",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=gBT4uxtSkFY"
+    }
+  ]
+}

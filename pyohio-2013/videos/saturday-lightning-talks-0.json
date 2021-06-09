@@ -13,12 +13,21 @@
     "https://www.gittip.com"
   ],
   "slug": "saturday-lightning-talks-0",
-  "speakers": [],
+  "speakers": [
+    "Ron DuPlain",
+    "Chad Whitacre",
+    "Larry Hastings",
+    "Joe Shaw",
+    "Ann Elliott",
+    "Christopher Felton",
+    "Eric Welch",
+    "Brad Montgomery"
+  ],
   "summary": "PyOhio 2013 Saturday Lightning Talks\n",
   "tags": [
-    "lightning"
+    "lightning talks"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/m3MiCx5Tgxw/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/m3MiCx5Tgxw/hqdefault.jpg",
   "title": "Saturday Lightning Talks",
   "videos": [
     {

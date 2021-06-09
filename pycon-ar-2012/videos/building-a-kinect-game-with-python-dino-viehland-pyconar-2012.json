@@ -1,0 +1,29 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "This talk will show you how to develop a game using Kinect from Python.\nI'll start w/ an introduction to the Kinect API including skeleton\ntracking, normal video, depth video, and audio APIs including speech\nrecognition. I\u2019ll then show how the Kinect APIs can be incorporated into\na game using PyGame. After the talk you\u2019ll be able to start developing\nyour own Python based Kinect games!\n",
+  "duration": 2276,
+  "language": "eng",
+  "recorded": "2012-11-17",
+  "related_urls": [
+    {
+      "label": "Event schedule",
+      "url": "https://web.archive.org/web/20140626165416/http://ar.pycon.org/2012/schedule/index"
+    },
+    {
+      "label": "PyCon Argentina 2012 Brouchure",
+      "url": "https://es.scribd.com/document/116769116/PyCon-Argentina-2012-Brouchure"
+    }
+  ],
+  "speakers": [
+    "Dino Viehland"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/TIgurDsHVJo/maxresdefault.jpg",
+  "title": "Building a Kinect game with Python",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=TIgurDsHVJo"
+    }
+  ]
+}

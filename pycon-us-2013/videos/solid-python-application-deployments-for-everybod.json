@@ -16,11 +16,10 @@
   "tags": [
     "talk"
   ],
-  "thumbnail_url": "http://i3.ytimg.com/vi/voq4Mm58NY0/hqdefault.jpg",
+  "thumbnail_url": "https://i3.ytimg.com/vi/voq4Mm58NY0/hqdefault.jpg",
   "title": "Solid Python Application Deployments For Everybody",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Solid_Python_Application_Deplo.mp4?Signature=VkGz52wEDrVa6j6hycujnccl%2BbI%3D&Expires=1363808351&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

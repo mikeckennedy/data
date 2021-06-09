@@ -16,11 +16,10 @@
   "tags": [
     "django"
   ],
-  "thumbnail_url": "http://i2.ytimg.com/vi/AkELl59QjoE/hqdefault.jpg",
+  "thumbnail_url": "https://i2.ytimg.com/vi/AkELl59QjoE/hqdefault.jpg",
   "title": "Der Django-Admin-Bereich im \u00dcberblick",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Der_DjangoAdminBereich.mp4?Signature=XePYCt3VJwV%2FARB894BijUqxV7Q%3D&Expires=1351867061&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

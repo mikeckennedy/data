@@ -14,11 +14,10 @@
   ],
   "summary": "Python Packaging has had a more than less than ideal evolution. This\ntalk aims to clarify this evolution and where packaging is headed in the\nfuture.\n",
   "tags": [],
-  "thumbnail_url": "http://i1.ytimg.com/vi/lpBaZKSODFA/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/lpBaZKSODFA/hqdefault.jpg",
   "title": "Twisted History of Python Packaging",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/Twisted_History_of_Python_Packaging.mp4?Signature=5kGRNooAp%2FeNiMXpuYtDOyQZClk%3D&Expires=1352840953&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

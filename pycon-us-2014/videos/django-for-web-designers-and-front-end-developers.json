@@ -1,7 +1,7 @@
 {
   "alias": "video/2624/django-for-web-designers-and-front-end-developers",
   "category": "PyCon US 2014",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2624,
@@ -15,13 +15,13 @@
   ],
   "summary": "Traditional tutorials for Django usually assume some programming\nexperience, but what if someone is learning Python and Django with a\nHTML/CSS background? This tutorial focuses on the web-based features of\nDjango \u2014 templates and the admin \u2014 and goes over the basic building\nblocks of Django programming to get web designers excited and interested\nin learning more.\n",
   "tags": [],
-  "thumbnail_url": "http://i1.ytimg.com/vi/-l3ILra8ewI/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/-l3ILra8ewI/hqdefault.jpg",
   "title": "Django for Web Designers and Front End Developers",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=-l3ILra8ewI"
+      "url": "https://www.youtube.com/watch?v=-l3ILra8ewI"
     }
   ]
 }

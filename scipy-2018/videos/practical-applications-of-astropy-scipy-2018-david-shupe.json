@@ -1,0 +1,29 @@
+{
+  "copyright_text": null,
+  "description": "In this talk intended for the astronomy mini-symposium, I will highlight\nhow capabilities in Astropy are used to solve computational problems in\ntwo current projects. Coordinate matching, world coordinate systems, and\ndata manipulation are used heavily in parts of the data system for the\nZwicky Transient Facility, which processes 1 terabyte of images per\nnight, within 10 minutes of receipt of each exposure. Astropy units and\nquantities, and the cosmology module, enabled the rapid development of a\nweb application for the proposed Origins Space Telescope.Presenter(s):\nSpeaker: David Shupe, Caltech/IPAC\n",
+  "duration": 1401,
+  "language": "eng",
+  "recorded": "2018-07-11",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://scipy2018.scipy.org/ehome/299527/721463/"
+    },
+    {
+      "label": "Conference slides",
+      "url": "https://github.com/deniederhut/Slides-SciPyConf-2018"
+    }
+  ],
+  "speakers": [
+    "David Shupe"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/2GTLkH5sfJc/maxresdefault.jpg",
+  "title": "Practical Applications of Astropy",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=2GTLkH5sfJc"
+    }
+  ]
+}

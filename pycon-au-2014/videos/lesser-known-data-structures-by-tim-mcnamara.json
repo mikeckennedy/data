@@ -14,18 +14,17 @@
   ],
   "summary": "",
   "tags": [],
-  "thumbnail_url": "http://i.ytimg.com/vi/QQkbiGIQi4g/hqdefault.jpg",
+  "thumbnail_url": "https://i.ytimg.com/vi/QQkbiGIQi4g/hqdefault.jpg",
   "title": "Lesser known data structures by Tim McNamara",
   "videos": [
     {
-      "length": null,
       "type": "ogv",
       "url": "http://mirror.linux.org.au/pub/pycon-au/pyconau2014/20-out.ogv"
     },
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=QQkbiGIQi4g"
+      "url": "https://www.youtube.com/watch?v=QQkbiGIQi4g"
     }
   ]
 }

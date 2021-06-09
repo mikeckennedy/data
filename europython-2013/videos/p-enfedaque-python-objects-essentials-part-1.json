@@ -1,0 +1,29 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 5472,
+  "language": "eng",
+  "recorded": "2013-07-02",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.pycon.it/en/ep2013/"
+    }
+  ],
+  "speakers": [
+    "Pablo Enfedaque"
+  ],
+  "tags": [
+    "super",
+    "principles",
+    "datamodel"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/SwSQ-hTiBW0/hqdefault.jpg",
+  "title": "Python objects essentials - Part 1",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=SwSQ-hTiBW0"
+    }
+  ]
+}

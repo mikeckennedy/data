@@ -1,0 +1,32 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2756,
+  "language": "eng",
+  "recorded": "2018-08-18",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://pybay.com/schedule/"
+    }
+  ],
+  "speakers": [
+    "Katy Lee",
+    "Salar Rahmanian",
+    "Sean Gonzalez",
+    "Rahul Gupta",
+    "Dennis O'Brien",
+    "Brian Spiering",
+    "Simon Willison",
+    "Rahul Maldonado"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/KqqMSB0eyhk/maxresdefault.jpg",
+  "title": "Lightning Talks Day 3 Round 1",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=KqqMSB0eyhk"
+    }
+  ]
+}

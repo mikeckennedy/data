@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 312,
+  "language": "eng",
+  "recorded": "2018-10-24",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://de.pycon.org/schedule/"
+    }
+  ],
+  "speakers": [
+    "Ruud Van Der Ham"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/I74j2KtGouA/maxresdefault.jpg",
+  "title": "Salabim, Discrete Event Simulation In Python",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=I74j2KtGouA"
+    }
+  ]
+}

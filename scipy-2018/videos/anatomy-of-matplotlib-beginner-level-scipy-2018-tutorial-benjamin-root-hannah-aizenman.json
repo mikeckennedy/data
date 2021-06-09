@@ -1,0 +1,30 @@
+{
+  "copyright_text": null,
+  "description": "This tutorial will be the introduction to Matplotlib. Users will learn\nthe types of plots and experiment with them. Then the fundamental\nconcepts and terminologies of Matplotlib are introduced. Next, we will\nlearn how to change the \"look and feel\" of plots. The concepts taught in\nthis tutorial will lay the foundations understanding how to plot using\nthis essential library.Presenter(s): Speaker: Ben Root, Atmospheric and\nEnvironmental Research, Inc/Matplotlib Speaker: Hannah Aizenman, City\nUniversity of New York\n",
+  "duration": 11773,
+  "language": "eng",
+  "recorded": "2018-07-10",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://scipy2018.scipy.org/ehome/299527/721463/"
+    },
+    {
+      "label": "Conference slides",
+      "url": "https://github.com/deniederhut/Slides-SciPyConf-2018"
+    }
+  ],
+  "speakers": [
+    "Benjamin Root",
+    "Hannah Aizenman"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/6gdNUDs6QPc/maxresdefault.jpg",
+  "title": "Anatomy of Matplotlib (Beginner Level)",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=6gdNUDs6QPc"
+    }
+  ]
+}

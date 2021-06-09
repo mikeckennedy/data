@@ -1,0 +1,19 @@
+{
+  "description": "Lightning Talk - Marcel",
+  "duration": 139,
+  "recorded": "2016-10-15",
+  "speakers": [
+    "Marcel"
+  ],
+  "tags": [
+    "lightning talks"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/yoCpjyBOZEg/maxresdefault.jpg",
+  "title": "Lightning Talk - Marcel",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=yoCpjyBOZEg"
+    }
+  ]
+}

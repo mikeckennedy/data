@@ -1,0 +1,31 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2327,
+  "language": "ita",
+  "recorded": "2013-07-04",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.pycon.it/en/ep2013/"
+    }
+  ],
+  "speakers": [
+    "Simone Orsi"
+  ],
+  "tags": [
+    "video",
+    "sharing",
+    "youtube",
+    "open-source",
+    "community"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/W7MbKypiVvA/hqdefault.jpg",
+  "title": "Costruisci la tua piattaforma open-source di video-sharing in Python",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=W7MbKypiVvA"
+    }
+  ]
+}

@@ -17,11 +17,10 @@
   "tags": [
     "talk"
   ],
-  "thumbnail_url": "http://i.ytimg.com/vi/VpTPAJ0rvq8/hqdefault.jpg",
+  "thumbnail_url": "https://i.ytimg.com/vi/VpTPAJ0rvq8/hqdefault.jpg",
   "title": "Visualizing Github, Part I: Data to Information",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Visualizing_Github_Part_I_Data.mp4?Signature=OdsG%2Be2s%2FBzqWOdYBU21t0WG5LA%3D&Expires=1363845766&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

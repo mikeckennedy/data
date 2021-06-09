@@ -10,18 +10,21 @@
     "Elizabeth Wehner",
     "Brendan Killalea",
     "Ryder",
-    "Ernest W. Durbin",
+    "Ernest W. Durbin III",
     "Cameron Dershem",
     "Catherine Devlin",
     "Randy Syring",
     "Matt McElheny"
+  ],
+  "tags": [
+    "lightning talks"
   ],
   "thumbnail_url": "https://i.ytimg.com/vi/54ke0EFBnF4/maxresdefault.jpg",
   "title": "Saturday Lightning Talks",
   "videos": [
     {
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=54ke0EFBnF4"
+      "url": "https://www.youtube.com/watch?v=54ke0EFBnF4"
     }
   ]
 }

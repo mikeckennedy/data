@@ -1,0 +1,27 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "Labeling sequences (any kind of sequences), using Python. E.g. using python-crfsuite, sklearn-crfsuite, PyStruct, pytorch-crf, and others. Not as trendy as \"deep learning\", but:\n- quite reliable, used in leading linguistic packages,\n- can give good results on limited training data (provided you can specify features, which requires domain knowledge),\n- but computationally intensive.\n\nColab Notebook: https://bit.ly/crf-wordseg https://bit.ly/crf-wordseg-slides ",
+  "duration": 438,
+  "language": "eng",
+  "recorded": "2018-06-16",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://th.pycon.org/en/schedule/"
+    }
+  ],
+  "speakers": [
+    "Arthit Suriywongkul"
+  ],
+  "tags": [
+    "lightning talk"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/s4hZplSq-jo/maxresdefault.jpg",
+  "title": "Sequence Labeling with python-crfsuite",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=s4hZplSq-jo"
+    }
+  ]
+}

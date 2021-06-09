@@ -1,0 +1,31 @@
+{
+  "alias": "video/3121/django-miniconf-lightning-talks",
+  "category": "PyCon AU 2014",
+  "copyright_text": "https://www.youtube.com/t/terms",
+  "description": "",
+  "duration": null,
+  "id": 3121,
+  "language": "eng",
+  "quality_notes": "",
+  "recorded": "2014-08-07",
+  "slug": "django-miniconf-lightning-talks",
+  "speakers": [
+    "Various speakers"
+  ],
+  "tags": [
+    "lightning talks"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/MoQs_4DO-h4/hqdefault.jpg",
+  "title": "Django MiniConf: Lightning talks",
+  "videos": [
+    {
+      "type": "ogv",
+      "url": "http://mirror.linux.org.au/pub/pycon-au/pyconau2014/120-out.ogv"
+    },
+    {
+      "length": 0,
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=MoQs_4DO-h4"
+    }
+  ]
+}

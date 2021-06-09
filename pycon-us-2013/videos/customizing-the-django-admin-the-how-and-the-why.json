@@ -16,11 +16,10 @@
   "tags": [
     "talk"
   ],
-  "thumbnail_url": "http://i.ytimg.com/vi/ICgMg70aV7U/hqdefault.jpg",
+  "thumbnail_url": "https://i.ytimg.com/vi/ICgMg70aV7U/hqdefault.jpg",
   "title": "Customizing the Django Admin: The How and the Why",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Customizing_the_Django_Admin_T.mp4?Signature=bePdKYypv64MNXR1dAraGIqRbZc%3D&Expires=1363662766&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

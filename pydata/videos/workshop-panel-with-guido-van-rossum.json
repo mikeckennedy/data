@@ -17,13 +17,13 @@
     "science",
     "scientific"
   ],
-  "thumbnail_url": "http://img.youtube.com/vi/QjXJLVINsSA/hqdefault.jpg",
+  "thumbnail_url": "https://img.youtube.com/vi/QjXJLVINsSA/hqdefault.jpg",
   "title": "Workshop Panel with Guido van Rossum",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=QjXJLVINsSA"
+      "url": "https://www.youtube.com/watch?v=QjXJLVINsSA"
     }
   ]
 }

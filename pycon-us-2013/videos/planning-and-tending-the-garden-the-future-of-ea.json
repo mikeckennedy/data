@@ -16,11 +16,10 @@
   "tags": [
     "talk"
   ],
-  "thumbnail_url": "http://i.ytimg.com/vi/op61s-QHryk/hqdefault.jpg",
+  "thumbnail_url": "https://i.ytimg.com/vi/op61s-QHryk/hqdefault.jpg",
   "title": "Planning and Tending the Garden: The Future of Early Childhood Python Education",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Planning_and_Tending_the_Garde.mp4?Signature=fP0zVYdd0qUX4Ph%2BH1KYQeJOJSQ%3D&Expires=1363842009&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

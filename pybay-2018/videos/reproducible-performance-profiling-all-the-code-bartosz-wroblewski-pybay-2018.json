@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1639,
+  "language": "eng",
+  "recorded": "2018-08-18",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://pybay.com/schedule/"
+    }
+  ],
+  "speakers": [
+    "Bartosz Wroblewski"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/X-bR_8uDmvw/maxresdefault.jpg",
+  "title": "Reproducible Performance - Profiling All the Code, All the Time, for Free",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=X-bR_8uDmvw"
+    }
+  ]
+}

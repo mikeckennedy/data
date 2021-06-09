@@ -1,0 +1,27 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 174,
+  "language": "eng",
+  "recorded": "2018-10-24",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://de.pycon.org/schedule/"
+    }
+  ],
+  "speakers": [
+    "Ruud Van Der Ham"
+  ],
+  "tags": [
+    "lightning talk"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/htMH_b-Ofw0/maxresdefault.jpg",
+  "title": "Python On iOS",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=htMH_b-Ofw0"
+    }
+  ]
+}

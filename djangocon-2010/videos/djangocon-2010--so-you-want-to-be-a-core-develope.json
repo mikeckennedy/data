@@ -10,7 +10,7 @@
   "recorded": "2010-09-07",
   "slug": "djangocon-2010--so-you-want-to-be-a-core-develope",
   "speakers": [
-    "Dr. Russell Keith-Magee"
+    "Russell Keith-Magee"
   ],
   "summary": "",
   "tags": [
@@ -24,11 +24,6 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/pyvideo_62___so-you-want-to-be-a-core-developer"
-    },
-    {
-      "length": null,
-      "type": "flv",
-      "url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2010/62_so-you-want-to-be-a-core-developer.flv"
     }
   ]
 }

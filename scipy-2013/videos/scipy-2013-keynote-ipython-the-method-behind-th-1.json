@@ -1,7 +1,7 @@
 {
   "alias": "video/2136/scipy-2013-keynote-ipython-the-method-behind-th-1",
   "category": "SciPy 2013",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2136,
@@ -14,13 +14,13 @@
   "tags": [
     "Tech"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/j9YpkSX7NNM/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/j9YpkSX7NNM/hqdefault.jpg",
   "title": "SciPy 2013 Keynote: IPython: the method behind the madness",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=j9YpkSX7NNM"
+      "url": "https://www.youtube.com/watch?v=j9YpkSX7NNM"
     }
   ]
 }

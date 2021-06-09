@@ -1,0 +1,30 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2396,
+  "language": "eng",
+  "recorded": "2013-07-02",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.pycon.it/en/ep2013/"
+    }
+  ],
+  "speakers": [
+    "Flavio Percoco"
+  ],
+  "tags": [
+    "scm",
+    "cloud",
+    "gerrit",
+    "community"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/7w3eCB3vgig/hqdefault.jpg",
+  "title": "OpenStack: A python based IaaS provider",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=7w3eCB3vgig"
+    }
+  ]
+}

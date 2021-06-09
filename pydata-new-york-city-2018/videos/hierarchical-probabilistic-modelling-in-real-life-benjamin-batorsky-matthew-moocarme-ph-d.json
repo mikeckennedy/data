@@ -1,0 +1,26 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 5334,
+  "language": "eng",
+  "recorded": "2018-08-17",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://pydata.org/nyc2018/schedule/"
+    }
+  ],
+  "speakers": [
+    "Benjamin Batorsky",
+    "Matthew Moocarme"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/bAdHn17IyqA/maxresdefault.jpg",
+  "title": "Hierarchical Probabilistic Modelling in Real Life",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=bAdHn17IyqA"
+    }
+  ]
+}

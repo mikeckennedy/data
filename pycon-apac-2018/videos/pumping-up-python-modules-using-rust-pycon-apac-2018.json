@@ -1,0 +1,25 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "Learn to build high performance and memory safe Python extensions using\nRust. Discover this and more tips to boost up your Python application.\n",
+  "duration": 2133,
+  "language": "eng",
+  "recorded": "2018-06-02",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://pycon.sg/schedule/"
+    }
+  ],
+  "speakers": [
+    "Vigneshwer Dhinakaran"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/rqmGnggorLI/maxresdefault.jpg",
+  "title": "Pumping up Python modules using Rust",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=rqmGnggorLI"
+    }
+  ]
+}

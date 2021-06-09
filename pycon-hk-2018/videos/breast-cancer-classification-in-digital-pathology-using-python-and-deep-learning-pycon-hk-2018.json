@@ -1,0 +1,25 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "Breast cancer is one of the leading cancer-related death causes\nworldwide, specially for women. In this talk, we will talk about how\nDeep Learning & Python could help pathologists to classify breast cancer\nmicroscopic images. The speaker will share his approach that won the\n\u201c\\ `ICIAR 2018 Grand Challenge on Breast Cancer Histology\nimages <https://iciar2018-challenge.grand-challenge.org/Legacy-results/>`__\\ \u201d,\nwhich was implemented in Python.\n\nRefer to the papers for more details:\n\n-  https://arxiv.org/abs/1808.04277\n-  https://link.springer.com/chapter/10.1007/978-3-319-93000-8_106\n\n",
+  "duration": 1712,
+  "language": "eng",
+  "recorded": "2018-11-23",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "http://pycon.hk/schedule-2018/"
+    }
+  ],
+  "speakers": [
+    "Scotty Kwok"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/GVsLSytWcuY/maxresdefault.jpg",
+  "title": "Breast cancer classification in digital pathology using Python and Deep Learning",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=GVsLSytWcuY"
+    }
+  ]
+}

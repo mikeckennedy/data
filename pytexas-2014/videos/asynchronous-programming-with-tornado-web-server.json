@@ -13,18 +13,16 @@
     "Kacie Houser"
   ],
   "summary": "",
-  "tags": [],
+  "tags": [
+    "asynchronous",
+    "tornado"
+  ],
   "thumbnail_url": "https://archive.org/services/img/pyvideo_3192___Asynchronous_Programming_with_Tornado_Web_Server",
   "title": "Asynchronous Programming with Tornado Web Server",
   "videos": [
     {
       "type": "archive.org",
       "url": "https://archive.org/details/pyvideo_3192___Asynchronous_Programming_with_Tornado_Web_Server"
-    },
-    {
-      "length": null,
-      "type": "webm",
-      "url": "http://64966d3674e0a64d8f4a-47c94b14ef8e1f83d5390cdb0629c6ed.r53.cf2.rackcdn.com/pytexas-2014/3192_Asynchronous_Programming_with_Tornado_Web_Server.webm"
     },
     {
       "length": 0,

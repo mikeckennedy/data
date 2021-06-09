@@ -1,0 +1,34 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 5373,
+  "language": "eng",
+  "recorded": "2013-07-04",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.pycon.it/en/ep2013/"
+    }
+  ],
+  "speakers": [
+    "Alessandro Molina"
+  ],
+  "tags": [
+    "web",
+    "WSGI",
+    "sqlalchemy",
+    "HTTP",
+    "turbogears",
+    "mongodb",
+    "html",
+    "python3"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/NqxpRjqvTIA/hqdefault.jpg",
+  "title": "Web Applications on Python3 and Python2 with TurboGears - Part 1",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=NqxpRjqvTIA"
+    }
+  ]
+}

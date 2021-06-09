@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1209,
+  "language": "por",
+  "recorded": "2018-10-17",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://2018.pythonbrasil.org.br/programacao"
+    }
+  ],
+  "speakers": [
+    "Andre\u0301 Claudino"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/dPzd9EuBGOo/maxresdefault.jpg",
+  "title": "Aplica\u00e7\u00f5es Tensorflow para IA com Python",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=dPzd9EuBGOo"
+    }
+  ]
+}

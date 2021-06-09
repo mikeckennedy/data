@@ -1,0 +1,25 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "We can tame the concurrency in Python even through the constraint of GIL\nby using the concept of Communicating Sequential Process (CSP). This is\na sysadmin's sharing on how to tame the bewilderment among various OS's\nin daily tasks by utilizing Python's concurrency libraries and modules.\n",
+  "duration": 2124,
+  "language": "eng",
+  "recorded": "2018-06-01",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://pycon.sg/schedule/"
+    }
+  ],
+  "speakers": [
+    "Tang Ing Wei"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/upopJOxWYNs/maxresdefault.jpg",
+  "title": "Taming System with Python: A Sysadmin perspective",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=upopJOxWYNs"
+    }
+  ]
+}

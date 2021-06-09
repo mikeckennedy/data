@@ -10,19 +10,19 @@
   "recorded": "2012-09-06",
   "slug": "get-off-the-bench-making-the-leap-from-user-to-c",
   "speakers": [
-    "Dr. Russell Keith-Magee"
+    "Russell Keith-Magee"
   ],
   "summary": "Django -- like all Open Source projects -- is only as good as the\ncommunity of people that contribute to it. We have a huge user\ncommunity, but the vast majority of users never make the leap and become\ncontributors. This talk will walk you through the process of making the\ntransition from Django user, to Django Project contributor.\n",
   "tags": [
     "django"
   ],
-  "thumbnail_url": "http://i.ytimg.com/vi/grGIl9gP-iY/hqdefault.jpg",
+  "thumbnail_url": "https://i.ytimg.com/vi/grGIl9gP-iY/hqdefault.jpg",
   "title": "Get off the bench: Making the leap from user to contributor",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=grGIl9gP-iY"
+      "url": "https://www.youtube.com/watch?v=grGIl9gP-iY"
     }
   ]
 }

@@ -1,0 +1,36 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2937,
+  "language": "ita",
+  "recorded": "2013-07-05",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.pycon.it/en/ep2013/"
+    }
+  ],
+  "speakers": [
+    "Alessandro Pisa"
+  ],
+  "tags": [
+    "debugging",
+    "testing",
+    "integration",
+    "scalability",
+    "tdd",
+    "optimization",
+    "design",
+    "software-engineering",
+    "best-practices",
+    "architecture"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/r_-3usncq-4/hqdefault.jpg",
+  "title": "Python: da programmatore a domatore",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=r_-3usncq-4"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "copyright_text": null,
+  "description": "NumPy provides Python with a powerful array processing library and an\nelegant syntax that is well suited to expressing computational\nalgorithms clearly and efficiently. We'll introduce basic array syntax\nand array indexing, review some of the available mathematical functions\nin NumPy, and discuss how to write your own routines. Along the way,\nwe'll learn just enough about matplotlib to display results from our\nexamples.Presenter(s): Speaker: Alexandre Chabot-LeClerc, Enthought\n",
+  "duration": 9573,
+  "language": "eng",
+  "recorded": "2018-07-09",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://scipy2018.scipy.org/ehome/299527/721463/"
+    },
+    {
+      "label": "Conference slides",
+      "url": "https://github.com/deniederhut/Slides-SciPyConf-2018"
+    }
+  ],
+  "speakers": [
+    "Alexandre Chabot-LeClerc"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/V0D2mhVt7NE/maxresdefault.jpg",
+  "title": "Introduction to Numerical Computing with NumPy (Beginner Level)",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=V0D2mhVt7NE"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1437,
+  "language": "por",
+  "recorded": "2018-10-17",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://2018.pythonbrasil.org.br/programacao"
+    }
+  ],
+  "speakers": [
+    "A\u0301lvaro Justen"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/MZZFmucRxoY/hqdefault.jpg",
+  "title": "Brasil.IO: Dados abertos para mais democracia",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=MZZFmucRxoY"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "copyright_text": null,
+  "description": "Dask is a flexible tool for parallelizing Python code on a single\nmachine or across a cluster. It builds upon familiar tools in the SciPy\necosystem (e.g. NumPy and Pandas) while allowing them to scale across\nmultiple cores or machines. This tutorial will cover both the high-level\nuse of dask collections, as well as the low-level use of dask graphs and\nschedulers.Presenter(s): Speaker: James Crist, Anaconda, Inc. Speaker:\nMartin Durant, Anaconda Inc.\n",
+  "duration": 11506,
+  "language": "eng",
+  "recorded": "2018-07-09",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://scipy2018.scipy.org/ehome/299527/721463/"
+    },
+    {
+      "label": "Conference slides",
+      "url": "https://github.com/deniederhut/Slides-SciPyConf-2018"
+    }
+  ],
+  "speakers": [
+    "James Crist",
+    "Martin Durant"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/mqdglv9GnM8/maxresdefault.jpg",
+  "title": "Parallelizing Scientific Python with Dask",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=mqdglv9GnM8"
+    }
+  ]
+}

@@ -19,11 +19,10 @@
   "tags": [
     "General"
   ],
-  "thumbnail_url": "http://i2.ytimg.com/vi/yIO4l0zHGjw/hqdefault.jpg",
+  "thumbnail_url": "https://i2.ytimg.com/vi/yIO4l0zHGjw/hqdefault.jpg",
   "title": "PythonTeX: Fast Access to Python from within LaTeX",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/PythonTeX_Fast_Access_to_Pytho.mp4?Signature=WkwvorcGsMXORDJuJodc52xIzKc%3D&Expires=1346382731&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

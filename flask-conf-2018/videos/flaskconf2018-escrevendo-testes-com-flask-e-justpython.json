@@ -1,0 +1,21 @@
+{
+  "description": "Escrevendo Testes com Flask e #JustPython - Palestra de Eduardo Mendes na Flask Conf 2018.",
+  "language": "por",
+  "recorded": "2018-08-25",
+  "speakers": [
+    "Eduardo Mendes"
+  ],
+  "tags": [
+    "flask",
+    "testes",
+    "python"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/D9dWs_8mXoA/hqdefault.jpg",
+  "title": "Escrevendo Testes com Flask e #JustPython",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=D9dWs_8mXoA"
+    }
+  ]
+}

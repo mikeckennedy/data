@@ -1,7 +1,7 @@
 {
   "alias": "video/2629/introduction-to-docker",
   "category": "PyCon US 2014",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2629,
@@ -14,13 +14,13 @@
   ],
   "summary": "Docker is a tool for sandboxing entire application environments using\nLinux containers. Docker's feature set includes versioning, sharing etc.\nThey are light-weight and fast, you can recreate a deployment\nenvironment in development or push your development containers to\nproduction. Imagine never having to worry about fragmentation of servers\nor syncing the versions of different libraries.\n",
   "tags": [],
-  "thumbnail_url": "http://i1.ytimg.com/vi/9bvdc55xYdo/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/9bvdc55xYdo/hqdefault.jpg",
   "title": "Introduction to Docker",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=9bvdc55xYdo"
+      "url": "https://www.youtube.com/watch?v=9bvdc55xYdo"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2613,
+  "language": "ita",
+  "recorded": "2013-07-03",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.pycon.it/en/ep2013/"
+    }
+  ],
+  "speakers": [
+    "Roberto De Ioris"
+  ],
+  "tags": [
+    "humor"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/hseVV0nXZ6M/hqdefault.jpg",
+  "title": "Corso di sopravvivenza per sviluppatori OpenSource",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=hseVV0nXZ6M"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "copyright_text": null,
+  "description": "Many data scientists do a lot of work on computers besides their\nlaptops. For me, this often takes the form of SSH-ing into remote boxes\nand manually configuring the system with a combination of apt installs,\nConda environments, and bash scripts. In this talk I will introduce\nusers to Ansible scripts for replacing this manual effort with simple,\nreproducible, automated system configuration.Presenter(s): Speaker: Tim\nHopper, Cylance Inc.\n",
+  "duration": 1727,
+  "language": "eng",
+  "recorded": "2018-07-12",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://scipy2018.scipy.org/ehome/299527/721463/"
+    },
+    {
+      "label": "Conference slides",
+      "url": "https://github.com/deniederhut/Slides-SciPyConf-2018"
+    }
+  ],
+  "speakers": [
+    "Tim Hopper"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/LKVtmGtT6qg/maxresdefault.jpg",
+  "title": "Devops Empowered Data Science with Ansible",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=LKVtmGtT6qg"
+    }
+  ]
+}

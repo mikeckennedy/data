@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2716,
+  "language": "por",
+  "recorded": "2017-10-06",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "http://2017.pythonbrasil.org.br/#schedule"
+    }
+  ],
+  "speakers": [
+    "Andrew Godwin (keynote)"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/7y4NbGIxIHU/maxresdefault.jpg",
+  "title": "Concurrency to Channels",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=7y4NbGIxIHU"
+    }
+  ]
+}

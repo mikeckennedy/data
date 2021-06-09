@@ -16,13 +16,13 @@
   "tags": [
     "matplotlib"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/DNRJwENqEUY/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/DNRJwENqEUY/hqdefault.jpg",
   "title": "Advanced matplotlib tutorial with library author John Hunter",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=DNRJwENqEUY"
+      "url": "https://www.youtube.com/watch?v=DNRJwENqEUY"
     }
   ]
 }

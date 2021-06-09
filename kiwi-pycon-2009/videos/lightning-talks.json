@@ -7,11 +7,25 @@
   "id": 132,
   "language": "eng",
   "quality_notes": "",
-  "recorded": null,
+  "recorded": "2009-11-07",
   "slug": "lightning-talks",
-  "speakers": [],
-  "summary": "",
+  "speakers": [
+    "Morris Jones",
+    "John Graves",
+    "Charles Manning",
+    "Raazesh Sainudiin",
+    "Juergen Brendel",
+    "Michael Hoppe",
+    "Carl Cerecke",
+    "Douglas Bagnall",
+    "Peter Harrison",
+    "Jim Tittsler",
+    "David Hood",
+    "Dylan Jay",
+    "Greg Hewgill"
+  ],
   "tags": [
+    "lightning talks",
     "ctypes",
     "flossmanuals",
     "goto",
@@ -28,11 +42,6 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/pyvideo_132___lightning-talks"
-    },
-    {
-      "length": null,
-      "type": "flv",
-      "url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/kiwi-pycon-2009/132_lightning-talks.flv"
     }
   ]
 }

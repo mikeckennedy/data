@@ -16,11 +16,10 @@
   "tags": [
     "Plenary"
   ],
-  "thumbnail_url": "http://i4.ytimg.com/vi/36UDNn_kS7Q/hqdefault.jpg",
+  "thumbnail_url": "https://i4.ytimg.com/vi/36UDNn_kS7Q/hqdefault.jpg",
   "title": "Closing Address",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Closing_Address.mp4?Signature=02AfO9EdkcN9WrD36T2RU09F7LQ%3D&Expires=1363828871&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

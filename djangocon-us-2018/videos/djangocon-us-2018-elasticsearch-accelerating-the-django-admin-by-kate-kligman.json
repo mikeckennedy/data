@@ -1,0 +1,29 @@
+{
+  "copyright_text": null,
+  "description": "The Django Admin offers quick solutions and rapid feature development\nfor new websites. But as your website expands, and datasets grow, it can\nbecome unwieldy and slow. Enter Elasticsearch: an easy way to quickly\naccelerate your Django administration tools and searches.\n\nAt Grove Collaborative, we\u2019ve experimented with Elasticsearch technology\nand developed reusable patterns that brought new life to our aging\nDjango administration system. This presentation will teach you how to\nleverage easy Elasticsearch wins while avoiding common pitfalls.\n",
+  "duration": 2141,
+  "language": "eng",
+  "recorded": "2018-10-15",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://2018.djangocon.us/schedule/"
+    },
+    {
+      "label": "slides",
+      "url": "http://www.katekligman.com/2018/10/elasticsearch-accelerating-the-django-admin-slides/"
+    }
+  ],
+  "speakers": [
+    "Kate Kligman"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/JjjpAYEnK7k/maxresdefault.jpg",
+  "title": "Elasticsearch: Accelerating the Django Admin",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=JjjpAYEnK7k"
+    }
+  ]
+}

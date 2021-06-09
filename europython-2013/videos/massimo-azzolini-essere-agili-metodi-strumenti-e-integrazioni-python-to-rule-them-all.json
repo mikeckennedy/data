@@ -1,0 +1,31 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2733,
+  "language": "ita",
+  "recorded": "2013-07-03",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.pycon.it/en/ep2013/"
+    }
+  ],
+  "speakers": [
+    "Massimo Azzolini"
+  ],
+  "tags": [
+    "application-design",
+    "api",
+    "pyramid",
+    "integration",
+    "trac"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/1WgieCdbKpQ/hqdefault.jpg",
+  "title": "Essere agili? Metodi, strumenti e integrazioni: Python \u201cto rule them all\u201d",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=1WgieCdbKpQ"
+    }
+  ]
+}

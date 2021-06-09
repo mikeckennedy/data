@@ -1,0 +1,27 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "In less than an hour, we will be making a simple game using pygame.\nThere will be live coding and audience participation. Beginners will be\ninspired to take up programming. Non-beginner coders will learn the\nbasics of game programming.\n",
+  "duration": 3416,
+  "language": "eng",
+  "recorded": "2018-06-02",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://pycon.sg/schedule/"
+    }
+  ],
+  "speakers": [
+    "Sony Valdez"
+  ],
+  "tags": [
+    "pygame"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/xP-8SDfqeLk/maxresdefault.jpg",
+  "title": "Game Programming with Python",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=xP-8SDfqeLk"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 716,
+  "language": "por",
+  "recorded": "2018-10-17",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://2018.pythonbrasil.org.br/programacao"
+    }
+  ],
+  "speakers": [
+    "Pedro Kiefer"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/b2igOoRW7xQ/maxresdefault.jpg",
+  "title": "Servindo conte\u00fado em escala na globo.com",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=b2igOoRW7xQ"
+    }
+  ]
+}

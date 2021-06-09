@@ -1,0 +1,25 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "Lightning Talk\nIntroducing regional PyCons and other Python-related events.\n\n\n\n--------\n\nFOSSASIA volunteer.",
+  "duration": 423,
+  "language": "eng",
+  "recorded": "2018-06-16",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://th.pycon.org/en/schedule/"
+    }
+  ],
+  "speakers": [
+    "Noah"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/T10xitkbfEU/maxresdefault.jpg",
+  "title": "Python Events in Asia",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=T10xitkbfEU"
+    }
+  ]
+}

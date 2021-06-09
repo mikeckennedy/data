@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1938,
+  "language": "eng",
+  "recorded": "2018-08-18",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://pybay.com/schedule/"
+    }
+  ],
+  "speakers": [
+    "Rudy Mutter"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/BtgGmEZRMvE/hqdefault.jpg",
+  "title": "Django Channels and Websockets in Production!",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=BtgGmEZRMvE"
+    }
+  ]
+}

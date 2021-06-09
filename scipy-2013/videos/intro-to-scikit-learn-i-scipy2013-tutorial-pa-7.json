@@ -1,7 +1,7 @@
 {
   "alias": "video/2157/intro-to-scikit-learn-i-scipy2013-tutorial-pa-7",
   "category": "SciPy 2013",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2157,
@@ -19,13 +19,13 @@
   "tags": [
     "Tech"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/r4bRUvvlaBw/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/r4bRUvvlaBw/hqdefault.jpg",
   "title": "Intro to scikit-learn (I), SciPy2013 Tutorial, Part 1 of 3",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=r4bRUvvlaBw"
+      "url": "https://www.youtube.com/watch?v=r4bRUvvlaBw"
     }
   ]
 }

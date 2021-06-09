@@ -1,7 +1,7 @@
 {
   "alias": "video/2043/sunpy-python-for-solar-physicists-scipy-2013-p",
   "category": "SciPy 2013",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2043,
@@ -14,13 +14,13 @@
   "tags": [
     "Tech"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/bXPPTCkaVu8/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/bXPPTCkaVu8/hqdefault.jpg",
   "title": "SunPy - Python for Solar Physicists; SciPy 2013 Presentation",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=bXPPTCkaVu8"
+      "url": "https://www.youtube.com/watch?v=bXPPTCkaVu8"
     }
   ]
 }

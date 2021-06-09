@@ -7,7 +7,7 @@
   "id": 76,
   "language": "eng",
   "quality_notes": "",
-  "recorded": null,
+  "recorded": "2011-09-05",
   "slug": "djangocon-2011--making-interactive-maps-for-the-w",
   "speakers": [
     "Zain Memon"
@@ -28,11 +28,6 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/pyvideo_76___making-interactive-maps-for-the-web"
-    },
-    {
-      "length": null,
-      "type": "mp4",
-      "url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/76_making-interactive-maps-for-the-web.m4v"
     }
   ]
 }

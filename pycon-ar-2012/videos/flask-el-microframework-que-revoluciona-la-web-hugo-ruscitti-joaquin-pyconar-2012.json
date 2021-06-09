@@ -1,0 +1,31 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "Flask es un microframework que nos propone una manera distinta de\nconstruir aplicaciones web. Es r\u00e1pido, nos permite elegir nuestros\ncomponentes y resolver sistemas grandes de manera distribuida.\n",
+  "duration": 2786,
+  "language": "spa",
+  "recorded": "2012-11-16",
+  "related_urls": [
+    {
+      "label": "Event schedule",
+      "url": "https://web.archive.org/web/20140626165416/http://ar.pycon.org/2012/schedule/index"
+    },
+    {
+      "label": "PyCon Argentina 2012 Brouchure",
+      "url": "https://es.scribd.com/document/116769116/PyCon-Argentina-2012-Brouchure"
+    }
+  ],
+  "speakers": [
+    "Hugo Ruscitti",
+    "Joaquin Sorianello",
+    "Diego Mascialino"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/uHAf7xBkDDk/maxresdefault.jpg",
+  "title": "Flask, el microframework que revoluciona la web",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=uHAf7xBkDDk"
+    }
+  ]
+}

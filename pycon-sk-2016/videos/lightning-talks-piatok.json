@@ -1,0 +1,19 @@
+{
+  "description": "Lightning talks - Friday session\n",
+  "duration": 1409,
+  "recorded": "2016-03-11",
+  "speakers": [
+    "Various speakers"
+  ],
+  "tags": [
+    "lightning talks"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/xrAREyMGDcc/hqdefault.jpg",
+  "title": "Lightning talks - Friday",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=xrAREyMGDcc"
+    }
+  ]
+}

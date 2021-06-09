@@ -1,0 +1,27 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 176,
+  "language": "eng",
+  "recorded": "2018-10-24",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://de.pycon.org/schedule/"
+    }
+  ],
+  "speakers": [
+    "Cheuk Ting Ho"
+  ],
+  "tags": [
+    "lightning talk"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/oXlb4VG6nuc/maxresdefault.jpg",
+  "title": "Hacktoberfest And You Can Have Pythin In Your Language",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=oXlb4VG6nuc"
+    }
+  ]
+}

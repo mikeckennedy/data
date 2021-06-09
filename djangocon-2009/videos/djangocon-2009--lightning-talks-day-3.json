@@ -13,8 +13,8 @@
     "Armin Ronacher",
     "James Tauber"
   ],
-  "summary": "",
   "tags": [
+    "lightning talks",
     "cnotes",
     "djangocon",
     "djangocon2009",
@@ -27,11 +27,6 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/pyvideo_9___lightning-talks-day-3"
-    },
-    {
-      "length": null,
-      "type": "ogv",
-      "url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2009/9_lightning-talks-day-3.ogv"
     }
   ]
 }

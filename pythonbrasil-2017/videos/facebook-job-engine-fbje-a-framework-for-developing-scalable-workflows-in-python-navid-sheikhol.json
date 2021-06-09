@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2084,
+  "language": "por",
+  "recorded": "2017-10-06",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "http://2017.pythonbrasil.org.br/#schedule"
+    }
+  ],
+  "speakers": [
+    "Navid Sheikhol"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/hYEoFGLJkPQ/maxresdefault.jpg",
+  "title": "Facebook Job Engine (FBJE): a framework for developing scalable workflows in Python",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=hYEoFGLJkPQ"
+    }
+  ]
+}

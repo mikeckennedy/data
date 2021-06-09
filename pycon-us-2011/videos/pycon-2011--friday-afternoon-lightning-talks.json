@@ -9,9 +9,18 @@
   "quality_notes": "",
   "recorded": "2011-03-11",
   "slug": "pycon-2011--friday-afternoon-lightning-talks",
-  "speakers": [],
+  "speakers": [
+    "Paul Smith",
+    "Jeff Daily",
+    "Matt Harrison",
+    "Pete Fein",
+    "Robert Brewer",
+    "Nathan Nichols",
+    "Giles Thomas"
+  ],
   "summary": "Friday afternoon lightning talks\n",
   "tags": [
+    "lightning talks",
     "cpython",
     "ironpython",
     "japan",
@@ -27,11 +36,6 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/pyvideo_360___friday-afternoon-lightning-talks"
-    },
-    {
-      "length": null,
-      "type": "mp4",
-      "url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2011/360_friday-afternoon-lightning-talks.mp4"
     }
   ]
 }

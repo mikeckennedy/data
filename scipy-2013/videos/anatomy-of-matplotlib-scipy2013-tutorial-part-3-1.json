@@ -1,7 +1,7 @@
 {
   "alias": "video/2169/anatomy-of-matplotlib-scipy2013-tutorial-part-3-1",
   "category": "SciPy 2013",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2169,
@@ -17,13 +17,13 @@
   "tags": [
     "Tech"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/UozWLFgF1_E/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/UozWLFgF1_E/hqdefault.jpg",
   "title": "Anatomy of Matplotlib, SciPy2013 Tutorial, Part 3 of 3",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=UozWLFgF1_E"
+      "url": "https://www.youtube.com/watch?v=UozWLFgF1_E"
     }
   ]
 }

@@ -7,25 +7,23 @@
   "id": 136,
   "language": "eng",
   "quality_notes": "",
-  "recorded": null,
+  "recorded": "2009-02-17",
   "related_urls": [
     "http://www.pythononachip.org/"
   ],
   "slug": "pycon-2009--pymite--python-on-a-chip",
-  "speakers": [],
-  "summary": "",
-  "tags": [],
+  "speakers": [
+    "James Snyder"
+  ],
+  "tags": [
+    "lightning talks"
+  ],
   "thumbnail_url": "https://archive.org/services/img/pyvideo_136___pycon-2009-pymite-python-on-a-chip",
   "title": "PyCon 2009: PyMite: Python-on-a-chip",
   "videos": [
     {
       "type": "archive.org",
       "url": "https://archive.org/details/pyvideo_136___pycon-2009-pymite-python-on-a-chip"
-    },
-    {
-      "length": null,
-      "type": "flv",
-      "url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2009/136_pycon-2009-pymite-python-on-a-chip.flv"
     }
   ]
 }

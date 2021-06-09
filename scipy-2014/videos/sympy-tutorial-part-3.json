@@ -1,7 +1,7 @@
 {
   "alias": "video/2707/sympy-tutorial-part-3",
   "category": "SciPy 2014",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2707,
@@ -19,13 +19,13 @@
     "SymPy",
     "tutorial"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/qleGSnrnxgc/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/qleGSnrnxgc/hqdefault.jpg",
   "title": "SymPy Tutorial Part 3",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=qleGSnrnxgc"
+      "url": "https://www.youtube.com/watch?v=qleGSnrnxgc"
     }
   ]
 }

@@ -16,11 +16,10 @@
   "tags": [
     "talk"
   ],
-  "thumbnail_url": "http://i3.ytimg.com/vi/jKBwGlYb13w/hqdefault.jpg",
+  "thumbnail_url": "https://i3.ytimg.com/vi/jKBwGlYb13w/hqdefault.jpg",
   "title": "Awesome Big Data Algorithms",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Awesome_Big_Data_Algorithms.mp4?Signature=v0TDlABlH2SJ7pIuTjnAovX8S%2F0%3D&Expires=1363670524&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

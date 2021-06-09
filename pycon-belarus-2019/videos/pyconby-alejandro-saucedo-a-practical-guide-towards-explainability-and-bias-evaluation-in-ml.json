@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2323,
+  "language": "eng",
+  "recorded": "2019-02-16",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://by.pycon.org/"
+    }
+  ],
+  "speakers": [
+    "Alejandro Saucedo"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/rq95qznOZKw/hqdefault.jpg",
+  "title": "A practical guide towards explainability and bias evaluation in ML",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=rq95qznOZKw"
+    }
+  ]
+}

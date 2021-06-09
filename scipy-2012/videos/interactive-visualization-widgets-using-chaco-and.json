@@ -16,11 +16,10 @@
   "tags": [
     "visualization"
   ],
-  "thumbnail_url": "http://i4.ytimg.com/vi/we6sHcxbG-I/hqdefault.jpg",
+  "thumbnail_url": "https://i4.ytimg.com/vi/we6sHcxbG-I/hqdefault.jpg",
   "title": "Interactive Visualization Widgets Using Chaco and Enable",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Interactive_Visualization_Widgets_Using_Chaco_and_Enable.mp4?Signature=ibuWV9xw9hjHwm4RIn0z53XayBY%3D&Expires=1346382274&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

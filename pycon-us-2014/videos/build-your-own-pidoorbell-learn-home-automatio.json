@@ -1,7 +1,7 @@
 {
   "alias": "video/2621/build-your-own-pidoorbell-learn-home-automatio",
   "category": "PyCon US 2014",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2621,
@@ -15,13 +15,13 @@
   ],
   "summary": "Rupa and Akkana will walk you through the setup/code to build your own\nsuper-cool PiDoorbell project to monitor/notify you about visitors at\nyour house. Learn about the RaspberryPi, PiDoorbell software/hardware\nand build your own PiDoorbell to take home with you! Bring a\nRaspberryPi, power cord, USB cable (USB camera optional). We will\nprovide the rest of the hardware (wifi, prox. sensor etc.).\n",
   "tags": [],
-  "thumbnail_url": "http://i1.ytimg.com/vi/i62piPQkUtA/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/i62piPQkUtA/hqdefault.jpg",
   "title": "Build your own PiDoorbell! - Learn Home Automation with Python",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=i62piPQkUtA"
+      "url": "https://www.youtube.com/watch?v=i62piPQkUtA"
     }
   ]
 }

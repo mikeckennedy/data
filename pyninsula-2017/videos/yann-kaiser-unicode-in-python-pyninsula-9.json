@@ -1,0 +1,29 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "",
+  "duration": 1351,
+  "language": "eng",
+  "recorded": "2018-01-06",
+  "related_urls": [
+    {
+      "label": "Group web",
+      "url": "http://pyninsula.org/"
+    },
+    {
+      "label": "Group meeting schedule",
+      "url": "https://www.meetup.com/Pyninsula-Python-Peninsula-Meetup/"
+    }
+  ],
+  "speakers": [
+    "Yann Kaiser"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/UXcOK7cm_ls/maxresdefault.jpg",
+  "title": "Unicode in Python",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=UXcOK7cm_ls"
+    }
+  ]
+}

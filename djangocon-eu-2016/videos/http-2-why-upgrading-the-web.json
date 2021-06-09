@@ -8,11 +8,12 @@
   "tags": [
     "django"
   ],
+  "thumbnail_url": "https://i.vimeocdn.com/video/700223692.jpg",
   "title": "HTTP/2: why upgrading the web?",
   "videos": [
     {
-      "type": "wistia",
-      "url": "https://fast.wistia.com/embed/iframe/4dhu06wufj"
+      "type": "vimeo",
+      "url": "https://vimeo.com/269306165"
     }
   ]
 }

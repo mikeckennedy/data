@@ -7,7 +7,7 @@
   "id": 550,
   "language": "eng",
   "quality_notes": "",
-  "recorded": null,
+  "recorded": "2011-09-10",
   "slug": "the-magic-of-metaprogramming",
   "speakers": [
     "Jeff Rush"
@@ -20,11 +20,6 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/pyvideo_550___the-magic-of-metaprogramming"
-    },
-    {
-      "length": null,
-      "type": "mp4",
-      "url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pytexas-2011/550_the-magic-of-metaprogramming.m4v"
     }
   ]
 }

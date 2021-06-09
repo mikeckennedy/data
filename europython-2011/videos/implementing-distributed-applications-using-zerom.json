@@ -8,6 +8,9 @@
   "language": "eng",
   "quality_notes": "",
   "recorded": "2011-07-13",
+  "related_urls": [
+    "https://www.slideshare.net/fcrippa/europycon2011-implementing-distributed-application-using-zeromq"
+  ],
   "slug": "implementing-distributed-applications-using-zerom",
   "speakers": [
     "Francesco Crippa"
@@ -18,13 +21,13 @@
     "distributed",
     "zeromq"
   ],
-  "thumbnail_url": "http://i.ytimg.com/vi/pYlKLaqlFj8/hqdefault.jpg",
+  "thumbnail_url": "https://i.ytimg.com/vi/pYlKLaqlFj8/hqdefault.jpg",
   "title": "Implementing distributed applications using ZeroMQ, Python and other bad guys...",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=pYlKLaqlFj8"
+      "url": "https://www.youtube.com/watch?v=pYlKLaqlFj8"
     }
   ]
 }

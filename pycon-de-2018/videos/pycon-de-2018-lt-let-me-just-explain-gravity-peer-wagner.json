@@ -1,0 +1,27 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 213,
+  "language": "eng",
+  "recorded": "2018-10-24",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://de.pycon.org/schedule/"
+    }
+  ],
+  "speakers": [
+    "Peer Wagner"
+  ],
+  "tags": [
+    "lightning talk"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/ylKf5ZyExh8/maxresdefault.jpg",
+  "title": "Let Me Just Explain Gravity",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=ylKf5ZyExh8"
+    }
+  ]
+}

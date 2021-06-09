@@ -1,0 +1,27 @@
+{
+  "copyright_text": null,
+  "description": "Lightning Talks Part 3",
+  "duration": 999,
+  "language": "eng",
+  "recorded": "2019-02-23",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://pycon.python.ph"
+    }
+  ],
+  "speakers": [
+    "Various speakers"
+  ],
+  "tags": [
+    "lightning talks"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/crDr-lus0sg/maxresdefault.jpg",
+  "title": "Lightning Talks Part 3",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=crDr-lus0sg"
+    }
+  ]
+}

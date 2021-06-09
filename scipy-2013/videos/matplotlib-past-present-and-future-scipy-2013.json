@@ -1,7 +1,7 @@
 {
   "alias": "video/2036/matplotlib-past-present-and-future-scipy-2013",
   "category": "SciPy 2013",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2036,
@@ -14,13 +14,13 @@
   "tags": [
     "Tech"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/gj5i_19Bftk/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/gj5i_19Bftk/hqdefault.jpg",
   "title": "Matplotlib: past, present and future; SciPy 2013 Presentation",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=gj5i_19Bftk"
+      "url": "https://www.youtube.com/watch?v=gj5i_19Bftk"
     }
   ]
 }

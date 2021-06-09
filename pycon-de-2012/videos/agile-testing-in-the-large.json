@@ -16,11 +16,10 @@
   "tags": [
     "testing"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/0ZZOjS6HV54/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/0ZZOjS6HV54/hqdefault.jpg",
   "title": "Agile testing in the large",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Agile_testing_in_the_l.mp4?Signature=CWYbwsaWbMOjxJK5080zIFhwqNI%3D&Expires=1351853321&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

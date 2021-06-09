@@ -1,0 +1,76 @@
+{
+  "copyright_text": "Standard YouTube License",
+  "description": ".. list-table:: Lightning Talks\n   :widths: 10 30 60\n   :header-rows: 1\n\n\n   * - Time\n     - Speaker\n     - Title\n   * - 00:00_\n     - Stephane\n     - Python debugger\n   * - 04:55_\n     - Larry Hastings\n     - Pyweek\n   * - 08:12_\n     - Jaime Buelta\n     - ffind\n   * - 10:12_\n     - Przemyslaw Pietrzak\n     - Monadic Error Handling in Python\n   * - 15:28_\n     - Jacobo de Vera\n     - A surreptitious injection of Python at work\n   * - 20:38_\n     - Lilly Ryan\n     - Towns I wish I Could Visit\n   * - 24:38_\n     - Unknown\n     - Pycon Italy\n   * - 25:22_\n     - Unknown\n     - NodeRed with python\n   * - 31:22_\n     - Max\n     - pilgrim logger (in micropython)\n\n\n.. _00:00: https://www.youtube.com/watch?v=Kxn3xXvBjqw&t=00m00s\n.. _04:55: https://www.youtube.com/watch?v=Kxn3xXvBjqw&t=04m55s\n.. _08:12: https://www.youtube.com/watch?v=Kxn3xXvBjqw&t=08m12s\n.. _10:12: https://www.youtube.com/watch?v=Kxn3xXvBjqw&t=10m12s\n.. _15:28: https://www.youtube.com/watch?v=Kxn3xXvBjqw&t=15m28s\n.. _20:38: https://www.youtube.com/watch?v=Kxn3xXvBjqw&t=20m38s\n.. _24:38: https://www.youtube.com/watch?v=Kxn3xXvBjqw&t=24m38s\n.. _25:22: https://www.youtube.com/watch?v=Kxn3xXvBjqw&t=25m22s\n.. _31:22: https://www.youtube.com/watch?v=Kxn3xXvBjqw&t=31m22s\n",
+  "duration": 2190,
+  "language": "eng",
+  "recorded": "2017-10-21",
+  "related_urls": [
+    {
+      "label": "event schedule",
+      "url": "http://schedule.pycon.python.ie/"
+    },
+    {
+      "label": "pyweek game: My Sincerest Apologies...",
+      "url": "https://pyweek.org/e/wasabi24/"
+    },
+    {
+      "label": "ffind",
+      "url": "https://pypi.org/pypi/ffind/1.2.0"
+    },
+    {
+      "label": "Slides: Monadic Error Handling in Python",
+      "url": "https://przemyslawjanpietrzak.github.io/impress/monadic-error-handling/"
+    },
+    {
+      "label": "argcomplete",
+      "url": "https://pypi.org/pypi/argcomplete/"
+    },
+    {
+      "label": "jOOQ (java)",
+      "url": "https://github.com/jOOQ/jOOQ"
+    },
+    {
+      "label": "pex",
+      "url": "https://pypi.org/project/pex/"
+    },
+    {
+      "label": "pipenv",
+      "url": "https://docs.pipenv.org/"
+    },
+    {
+      "label": "nodered",
+      "url": "https://nodered.org/"
+    },
+    {
+      "label": "node-red-contrib-python-function",
+      "url": "https://www.npmjs.com/package/node-red-contrib-python-function"
+    },
+    {
+      "label": "Raspberry Pi Wearable Time Lapse Camera (adafruit)",
+      "url": "https://learn.adafruit.com/raspberry-pi-wearable-time-lapse-camera"
+    },
+    {
+      "label": "openstreetmap",
+      "url": "https://www.openstreetmap.org"
+    }
+  ],
+  "speakers": [
+    "Larry Hastings",
+    "Jaime Buelta",
+    "Przemyslaw Pietrzak",
+    "Jacobo de Vera",
+    "Lilly Ryan",
+    "Various speakers"
+  ],
+  "tags": [
+    "lightning talks"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/Kxn3xXvBjqw/maxresdefault.jpg",
+  "title": "Lightning Talks",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=Kxn3xXvBjqw"
+    }
+  ]
+}

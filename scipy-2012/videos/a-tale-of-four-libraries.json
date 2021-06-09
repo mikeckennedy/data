@@ -17,11 +17,10 @@
   "tags": [
     "General"
   ],
-  "thumbnail_url": "http://i3.ytimg.com/vi/BqMD0PE-akQ/hqdefault.jpg",
+  "thumbnail_url": "https://i3.ytimg.com/vi/BqMD0PE-akQ/hqdefault.jpg",
   "title": "A tale of four libraries",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/A_tale_of_four_libraries.mp4?Signature=ISV7dA31tpzM%2BiwMs5xiUQ%2BkADo%3D&Expires=1346381648&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

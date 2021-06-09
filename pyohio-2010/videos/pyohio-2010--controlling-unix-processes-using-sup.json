@@ -7,7 +7,7 @@
   "id": 509,
   "language": "eng",
   "quality_notes": "",
-  "recorded": null,
+  "recorded": "2010-07-31",
   "slug": "pyohio-2010--controlling-unix-processes-using-sup",
   "speakers": [
     "Calvin Hendryx-Parker"
@@ -24,11 +24,6 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/pyvideo_509___pyohio-2010-controlling-unix-processes-using-supervisor"
-    },
-    {
-      "length": null,
-      "type": "flv",
-      "url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/509_pyohio-2010-controlling-unix-processes-using-supervisor.flv"
     }
   ]
 }

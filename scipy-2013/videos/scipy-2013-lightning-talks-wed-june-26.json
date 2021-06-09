@@ -1,7 +1,7 @@
 {
   "alias": "video/2067/scipy-2013-lightning-talks-wed-june-26",
   "category": "SciPy 2013",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2067,
@@ -9,18 +9,21 @@
   "quality_notes": "",
   "recorded": "2013-07-02",
   "slug": "scipy-2013-lightning-talks-wed-june-26",
-  "speakers": [],
+  "speakers": [
+    "Various speakers"
+  ],
   "summary": "Lightning Talks for Wed June 26:\n",
   "tags": [
+    "lightning talks",
     "Tech"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/LQdezCPT6Qg/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/LQdezCPT6Qg/hqdefault.jpg",
   "title": "SciPy 2013 Lightning Talks, Wed June 26",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=LQdezCPT6Qg"
+      "url": "https://www.youtube.com/watch?v=LQdezCPT6Qg"
     }
   ]
 }

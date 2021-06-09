@@ -1,0 +1,29 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2436,
+  "language": "ita",
+  "recorded": "2013-07-04",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.pycon.it/en/ep2013/"
+    }
+  ],
+  "speakers": [
+    "Davide Corio"
+  ],
+  "tags": [
+    "openerp",
+    "integration",
+    "webservices"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/TlFdveHBUIU/hqdefault.jpg",
+  "title": "OpenERP nel paese delle meraviglie",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=TlFdveHBUIU"
+    }
+  ]
+}

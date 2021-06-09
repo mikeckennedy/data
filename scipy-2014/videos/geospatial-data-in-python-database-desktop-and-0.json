@@ -1,7 +1,7 @@
 {
   "alias": "video/2710/geospatial-data-in-python-database-desktop-and-0",
   "category": "SciPy 2014",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2710,
@@ -18,13 +18,13 @@
     "gis",
     "tutorial"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/t-BJnls4o_s/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/t-BJnls4o_s/hqdefault.jpg",
   "title": "Geospatial data in Python: Database, Desktop, and the Web part 2",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=t-BJnls4o_s"
+      "url": "https://www.youtube.com/watch?v=t-BJnls4o_s"
     }
   ]
 }

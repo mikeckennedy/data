@@ -1,0 +1,30 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2225,
+  "language": "eng",
+  "recorded": "2013-07-04",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.pycon.it/en/ep2013/"
+    }
+  ],
+  "speakers": [
+    "Giorgio Salluzzo",
+    "Andrea De Marco"
+  ],
+  "tags": [
+    "testing",
+    "socket",
+    "tdd"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/-LvXbl5d02U/hqdefault.jpg",
+  "title": "Mocket: a Socket Mock Framework",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=-LvXbl5d02U"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2069,
+  "language": "eng",
+  "recorded": "2018-08-18",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://pybay.com/schedule/"
+    }
+  ],
+  "speakers": [
+    "Paul Bailey"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/5eRxMyf_2Rc/maxresdefault.jpg",
+  "title": "Building Google Assistant Apps with Python",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=5eRxMyf_2Rc"
+    }
+  ]
+}

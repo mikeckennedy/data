@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1309,
+  "language": "por",
+  "recorded": "2018-10-17",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://2018.pythonbrasil.org.br/programacao"
+    }
+  ],
+  "speakers": [
+    "Andressa Nepomuceno"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/aov_Hj5Jqmk/maxresdefault.jpg",
+  "title": "Reconhecimento de palavras em pt-br",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=aov_Hj5Jqmk"
+    }
+  ]
+}

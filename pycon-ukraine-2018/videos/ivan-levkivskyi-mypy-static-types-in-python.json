@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "Large Python code bases can be hard to maintain. Static types is one of\nremedies that can improve readability, stability, and maintainability in\nsuch situations. I will discuss how to use this tool efficiently and\nwithout problems.",
+  "duration": 3240,
+  "language": "rus",
+  "recorded": "2018-04-28",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://2018.uapycon.org/#schedule"
+    }
+  ],
+  "speakers": [
+    "Ivan Levkivskyi"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/WbdFXxNdSgc/maxresdefault.jpg",
+  "title": "mypy: static types in Python",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=WbdFXxNdSgc"
+    }
+  ]
+}

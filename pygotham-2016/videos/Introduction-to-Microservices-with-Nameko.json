@@ -8,11 +8,9 @@
     "https://2016.pygotham.org/talks/313/introduction-to-microserv/"
   ],
   "speakers": [
-    " Thomas Peterson"
+    "Thomas Peterson"
   ],
-  "tags": [
-    ""
-  ],
+  "tags": [],
   "thumbnail_url": "https://i.ytimg.com/vi/0ih4SBxCL3I/maxresdefault.jpg",
   "title": "Introduction to Microservices with Nameko",
   "videos": [

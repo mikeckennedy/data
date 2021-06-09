@@ -1,7 +1,7 @@
 {
   "alias": "video/2574/decorators-a-powerful-weapon-in-your-python",
   "category": "PyCon US 2014",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2574,
@@ -14,13 +14,13 @@
   ],
   "summary": "Decorators are an invaluable addition to anyone's arsenal of python\ntools and tricks. We will learn what a decorator is, how decorators are\ncreated, and then explore some of the cooler applications for decorators\nin our everyday projects.\n",
   "tags": [],
-  "thumbnail_url": "http://i1.ytimg.com/vi/9oyr0mocZTg/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/9oyr0mocZTg/hqdefault.jpg",
   "title": "Decorators: A Powerful Weapon in your Python Arsenal",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=9oyr0mocZTg"
+      "url": "https://www.youtube.com/watch?v=9oyr0mocZTg"
     }
   ]
 }

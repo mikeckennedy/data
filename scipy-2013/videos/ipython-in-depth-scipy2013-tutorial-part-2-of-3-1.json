@@ -1,7 +1,7 @@
 {
   "alias": "video/2167/ipython-in-depth-scipy2013-tutorial-part-2-of-3-1",
   "category": "SciPy 2013",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2167,
@@ -18,13 +18,13 @@
   "tags": [
     "Tech"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/A8VbS-YX2Lo/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/A8VbS-YX2Lo/hqdefault.jpg",
   "title": "IPython in Depth, SciPy2013 Tutorial, Part 2 of 3",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=A8VbS-YX2Lo"
+      "url": "https://www.youtube.com/watch?v=A8VbS-YX2Lo"
     }
   ]
 }

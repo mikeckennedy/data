@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1576,
+  "language": "por",
+  "recorded": "2018-10-17",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://2018.pythonbrasil.org.br/programacao"
+    }
+  ],
+  "speakers": [
+    "Hans Ragas"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/_NG8USzD6sM/maxresdefault.jpg",
+  "title": "A Maelstrom of Pythons (using Python in disaster recovery at scale)",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=_NG8USzD6sM"
+    }
+  ]
+}

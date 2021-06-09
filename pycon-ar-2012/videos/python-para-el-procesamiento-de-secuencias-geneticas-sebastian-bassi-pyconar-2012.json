@@ -1,0 +1,29 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "La charla mostrar\u00e1 cual es el rol actual de Python en bioinform\u00e1tica,\nespecificamente en el procesamiento de secuencias de ADN.\n",
+  "duration": 3075,
+  "language": "spa",
+  "recorded": "2012-11-16",
+  "related_urls": [
+    {
+      "label": "Event schedule",
+      "url": "https://web.archive.org/web/20140626165416/http://ar.pycon.org/2012/schedule/index"
+    },
+    {
+      "label": "PyCon Argentina 2012 Brouchure",
+      "url": "https://es.scribd.com/document/116769116/PyCon-Argentina-2012-Brouchure"
+    }
+  ],
+  "speakers": [
+    "Sebastian Bassi"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/hD1JJjIlNxU/maxresdefault.jpg",
+  "title": "Python para el procesamiento de secuencias gen\u00e9ticas",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=hD1JJjIlNxU"
+    }
+  ]
+}

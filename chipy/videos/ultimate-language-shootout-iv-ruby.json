@@ -14,11 +14,10 @@
   ],
   "summary": "Ruby, what you need to know\n",
   "tags": [],
-  "thumbnail_url": "http://i3.ytimg.com/vi/NP0-Df2tISA/hqdefault.jpg",
+  "thumbnail_url": "https://i3.ytimg.com/vi/NP0-Df2tISA/hqdefault.jpg",
   "title": "Ultimate Language Shootout IV: Ruby",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/ndvchipy/Ultimate_Language_Shootout_IV_.mp4"
     },

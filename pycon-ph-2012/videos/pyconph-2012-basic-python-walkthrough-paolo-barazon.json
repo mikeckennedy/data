@@ -1,0 +1,31 @@
+{
+  "copyright_text": null,
+  "description": "A broad overview introduction to Python",
+  "duration": 1017,
+  "language": "eng",
+  "recorded": "2012-06-30",
+  "related_urls": [
+    {
+      "label": "Conference schedule (external web)",
+      "url": "https://www.pydanny.com/pycon-philippines-day-1.html"
+    },
+    {
+      "label": "Speaker Twitter",
+      "url": "https://twitter.com/titopao"
+    }
+  ],
+  "speakers": [
+    "Paolo Barazon"
+  ],
+  "tags": [
+    "introduction"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/OCCtsz0CjNA/hqdefault.jpg",
+  "title": "Basic Python Walkthrough",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=OCCtsz0CjNA"
+    }
+  ]
+}

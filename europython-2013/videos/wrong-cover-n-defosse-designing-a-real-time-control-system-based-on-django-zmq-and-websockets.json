@@ -1,0 +1,31 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2538,
+  "language": "eng",
+  "recorded": "2013-07-04",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.pycon.it/en/ep2013/"
+    }
+  ],
+  "speakers": [
+    "Nahuel Defoss\u00e9"
+  ],
+  "tags": [
+    "web",
+    "async",
+    "twisted",
+    "embedding",
+    "django"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/3uqA5hiyg78/hqdefault.jpg",
+  "title": "Designing a Real Time Control System based on Django, ZMQ and WebSockets (wrong cover)",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=3uqA5hiyg78"
+    }
+  ]
+}

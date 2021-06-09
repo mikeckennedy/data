@@ -1,0 +1,34 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2639,
+  "language": null,
+  "recorded": "2018-11-14",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "http://pyparis.org/static/pdf/Schedule-PyParis-2018.pdf"
+    },
+    {
+      "label": "Conference web",
+      "url": "http://pyparis.org/"
+    },
+    {
+      "label": "slides",
+      "url": "http://pyparis.org/static/slides/Maarten%20Breddels+Jovan%20Veljanoski-a00dc422.pdf"
+    }
+  ],
+  "speakers": [
+    "Maarten Breddels",
+    "Jovan Veljanoski"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/TlTcQJPUL3M/maxresdefault.jpg",
+  "title": "Vaex: Out of Core Dataframes for Python",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=TlTcQJPUL3M"
+    }
+  ]
+}

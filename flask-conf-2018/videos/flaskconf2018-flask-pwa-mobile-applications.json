@@ -1,0 +1,21 @@
+{
+  "description": "Flask + PWA - Mobile Applications - Palestra de Luiz Lima na Flask Conf 2018.",
+  "language": "por",
+  "recorded": "2018-08-25",
+  "speakers": [
+    "Luiz Lima"
+  ],
+  "tags": [
+    "flask",
+    "pwa",
+    "mobile"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/JprZ6hYXgA4/hqdefault.jpg",
+  "title": "Flask + PWA - Mobile Applications",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=JprZ6hYXgA4"
+    }
+  ]
+}

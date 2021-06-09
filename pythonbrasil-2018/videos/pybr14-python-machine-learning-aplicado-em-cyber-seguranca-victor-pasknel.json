@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1300,
+  "language": "por",
+  "recorded": "2018-10-17",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://2018.pythonbrasil.org.br/programacao"
+    }
+  ],
+  "speakers": [
+    "Victor Pasknel"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/kAp5OOJHP6w/hqdefault.jpg",
+  "title": "Python + Machine Learning aplicado em Cyber-Seguran\u00e7a",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=kAp5OOJHP6w"
+    }
+  ]
+}

@@ -18,11 +18,10 @@
   "tags": [
     "tutorial"
   ],
-  "thumbnail_url": "http://i.ytimg.com/vi/D8NqF2jOuuw/hqdefault.jpg",
+  "thumbnail_url": "https://i.ytimg.com/vi/D8NqF2jOuuw/hqdefault.jpg",
   "title": "Python beyond the CPU",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Python_beyond_the_CPU.mp4?Signature=ld9AdNnMKpc1htKuisgOCml9PsA%3D&Expires=1364749634&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

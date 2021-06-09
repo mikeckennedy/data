@@ -1,0 +1,27 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 213,
+  "language": "eng",
+  "recorded": "2018-10-24",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://de.pycon.org/schedule/"
+    }
+  ],
+  "speakers": [
+    "Johannes Frank"
+  ],
+  "tags": [
+    "lightning talk"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/F5DSt6YMib8/maxresdefault.jpg",
+  "title": "Decrypting SSL With Python/Tshark",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=F5DSt6YMib8"
+    }
+  ]
+}

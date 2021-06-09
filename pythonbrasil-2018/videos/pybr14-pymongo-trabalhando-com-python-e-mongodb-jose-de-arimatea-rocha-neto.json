@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1500,
+  "language": "por",
+  "recorded": "2018-10-17",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://2018.pythonbrasil.org.br/programacao"
+    }
+  ],
+  "speakers": [
+    "Jose\u0301 de Arimatea Rocha Neto"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/G1BcihQuV8k/hqdefault.jpg",
+  "title": "PyMongo: Trabalhando com Python e MongoDB",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=G1BcihQuV8k"
+    }
+  ]
+}

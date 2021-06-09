@@ -16,13 +16,13 @@
   "tags": [
     "talk"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/Rfjfdc9Mupw/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/Rfjfdc9Mupw/hqdefault.jpg",
   "title": "Saturday Morning BreakfastSerial: Hacking Arduinos in Python",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=Rfjfdc9Mupw"
+      "url": "https://www.youtube.com/watch?v=Rfjfdc9Mupw"
     }
   ]
 }

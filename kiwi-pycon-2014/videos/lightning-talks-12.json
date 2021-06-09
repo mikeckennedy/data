@@ -9,16 +9,40 @@
   "quality_notes": "",
   "recorded": "2014-09-14",
   "slug": "lightning-talks-12",
-  "speakers": [],
-  "summary": "",
-  "tags": [],
-  "thumbnail_url": "http://i.ytimg.com/vi/JX8VYXfVcrg/hqdefault.jpg",
+  "speakers": [
+    "Jen Zajac",
+    "Steven Ellis",
+    "Jay Gattuso",
+    "James Polly",
+    "Aurynn Shaw",
+    "Ronen Baram",
+    "Douglas Bagnall",
+    "Grant Paton-Simpson",
+    "Richard Shea",
+    "Elliot Paton-Simpson",
+    "Danny Adair",
+    "Thomi Richards",
+    "Ben Olsen",
+    "Tim Penhey",
+    "Hamish Campbell",
+    "Nick Wareing",
+    "Giovanni Moretti",
+    "Robert Coup",
+    "Juergen Brendel",
+    "Tobi Wulff",
+    "Sanjay Wadhwa",
+    "Chris McDowall"
+  ],
+  "tags": [
+    "lightning talks"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/JX8VYXfVcrg/hqdefault.jpg",
   "title": "Lightning Talks",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=JX8VYXfVcrg"
+      "url": "https://www.youtube.com/watch?v=JX8VYXfVcrg"
     }
   ]
 }

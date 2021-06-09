@@ -16,11 +16,10 @@
   "tags": [
     "talk"
   ],
-  "thumbnail_url": "http://i4.ytimg.com/vi/kwu9Itn8Ylc/hqdefault.jpg",
+  "thumbnail_url": "https://i4.ytimg.com/vi/kwu9Itn8Ylc/hqdefault.jpg",
   "title": "The Magic of Metaprogramming",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/The_Magic_of_Metaprogramming.mp4?Signature=%2BjcZWMxtrxJlyoTsRFIATtbEuHU%3D&Expires=1363653495&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

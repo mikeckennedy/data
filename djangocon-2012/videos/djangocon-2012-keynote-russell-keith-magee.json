@@ -10,19 +10,19 @@
   "recorded": "2012-10-06",
   "slug": "djangocon-2012-keynote-russell-keith-magee",
   "speakers": [
-    "Dr. Russell Keith-Magee"
+    "Russell Keith-Magee"
   ],
   "summary": "DjangoCon 2012 - Keynote - Russell Keith-Magee\n",
   "tags": [
     "django"
   ],
-  "thumbnail_url": "http://i.ytimg.com/vi/KSednnZNJ04/hqdefault.jpg",
+  "thumbnail_url": "https://i.ytimg.com/vi/KSednnZNJ04/hqdefault.jpg",
   "title": "DjangoCon 2012 Keynote - Russell Keith-Magee",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=KSednnZNJ04"
+      "url": "https://www.youtube.com/watch?v=KSednnZNJ04"
     }
   ]
 }

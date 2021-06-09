@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1518,
+  "language": "por",
+  "recorded": "2018-10-17",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://2018.pythonbrasil.org.br/programacao"
+    }
+  ],
+  "speakers": [
+    "Gustavo Soares"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/4q0wdOTv6TE/maxresdefault.jpg",
+  "title": "Medindo o preconceito no aprendizado de m\u00e1quinas",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=4q0wdOTv6TE"
+    }
+  ]
+}

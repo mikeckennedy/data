@@ -16,11 +16,10 @@
   "tags": [
     "talk"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/dQHPV6sVlls/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/dQHPV6sVlls/hqdefault.jpg",
   "title": "Building full-stack scientific applications in Python",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Building_fullstack_scientific_.mp4?Signature=UiaN0L3QQMRfPIxd2pzo9KlV%2Fdg%3D&Expires=1363809374&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

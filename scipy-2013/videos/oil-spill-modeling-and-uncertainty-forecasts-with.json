@@ -1,7 +1,7 @@
 {
   "alias": "video/1984/oil-spill-modeling-and-uncertainty-forecasts-with",
   "category": "SciPy 2013",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 1984,
@@ -14,13 +14,13 @@
   "tags": [
     "Tech"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/lorRZWM-dSc/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/lorRZWM-dSc/hqdefault.jpg",
   "title": "Oil spill modeling and uncertainty forecasts with Python; SciPy 2013 Presentation",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=lorRZWM-dSc"
+      "url": "https://www.youtube.com/watch?v=lorRZWM-dSc"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 326,
+  "language": "eng",
+  "recorded": "2018-05-08",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "http://www.writethedocs.org/conf/portland/2018/schedule/"
+    }
+  ],
+  "speakers": [
+    "Eric Nambs"
+  ],
+  "tags": [
+    "Lightning Talk"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/zFaRfv8pmbk/hqdefault.jpg",
+  "title": "Virtue Based Accessibility",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=zFaRfv8pmbk"
+    }
+  ]
+}

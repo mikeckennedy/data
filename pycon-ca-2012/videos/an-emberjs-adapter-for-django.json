@@ -14,11 +14,10 @@
   ],
   "summary": "Ember is a JS framework based on established conventions that allows\nwriting complex applications with a small amount of code. Ember-data is\nthe component that connects this framework with a REST API.\nUnfortunately, the conventions followed by its community are not\ncompatible with Tastypie, one of the most widely used Django libraries.\nThis adapter makes all these technologies work together.\n",
   "tags": [],
-  "thumbnail_url": "http://i3.ytimg.com/vi/2SXtNV_knDk/hqdefault.jpg",
+  "thumbnail_url": "https://i3.ytimg.com/vi/2SXtNV_knDk/hqdefault.jpg",
   "title": "An Ember.js adapter for Django",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/An_Emberjs_adapter_for_Django.mp4?Signature=LgqYMSIM%2BF%2B10lOFmSQyZIoO%2BfI%3D&Expires=1352841411&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

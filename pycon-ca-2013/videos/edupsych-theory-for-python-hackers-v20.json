@@ -16,13 +16,13 @@
   "tags": [
     "talk"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/Q75_0-TiZmY/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/Q75_0-TiZmY/hqdefault.jpg",
   "title": "EduPsych Theory for Python Hackers v.2.0",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=Q75_0-TiZmY"
+      "url": "https://www.youtube.com/watch?v=Q75_0-TiZmY"
     }
   ]
 }

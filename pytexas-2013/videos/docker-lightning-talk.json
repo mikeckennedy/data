@@ -1,0 +1,19 @@
+{
+  "description": "Mark Allen introduces Docker.",
+  "duration": 228,
+  "recorded": "2013-08-17",
+  "speakers": [
+    "Mark Allen"
+  ],
+  "tags": [
+    "lightning talks"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/m-YyWw12fTc/hqdefault.jpg",
+  "title": "Docker (Lightning Talk)",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=m-YyWw12fTc"
+    }
+  ]
+}

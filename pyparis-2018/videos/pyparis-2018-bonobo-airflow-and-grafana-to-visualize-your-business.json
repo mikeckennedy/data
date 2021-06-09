@@ -1,0 +1,33 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1967,
+  "language": null,
+  "recorded": "2018-11-14",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "http://pyparis.org/static/pdf/Schedule-PyParis-2018.pdf"
+    },
+    {
+      "label": "Conference web",
+      "url": "http://pyparis.org/"
+    },
+    {
+      "label": "slides",
+      "url": "http://pyparis.org/static/slides/Romain%20Dorgueil-44be21ce.pdf"
+    }
+  ],
+  "speakers": [
+    "Romain Dorgueil"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/dwa8mxIbSvM/maxresdefault.jpg",
+  "title": "Bonobo, Airflow and Grafana to visualize your business",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=dwa8mxIbSvM"
+    }
+  ]
+}

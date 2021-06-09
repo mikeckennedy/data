@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 212,
+  "language": "eng",
+  "recorded": "2018-10-24",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://de.pycon.org/schedule/"
+    }
+  ],
+  "speakers": [
+    "Andreas Bunkahle"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/gL4df19JNPU/maxresdefault.jpg",
+  "title": "Python & Javascript = Transcrypt",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=gL4df19JNPU"
+    }
+  ]
+}

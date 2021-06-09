@@ -1,7 +1,7 @@
 {
   "alias": "video/2014/the-open-science-framework-improving-by-opening",
   "category": "SciPy 2013",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2014,
@@ -17,13 +17,13 @@
   "tags": [
     "Tech"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/WRadGRdkAIQ/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/WRadGRdkAIQ/hqdefault.jpg",
   "title": "The Open Science Framework: Improving, by Opening, Science; SciPy 2013 Presentation",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=WRadGRdkAIQ"
+      "url": "https://www.youtube.com/watch?v=WRadGRdkAIQ"
     }
   ]
 }

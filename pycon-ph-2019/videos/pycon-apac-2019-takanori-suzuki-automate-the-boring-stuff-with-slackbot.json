@@ -1,0 +1,28 @@
+{
+  "copyright_text": null,
+  "description": "In this talk, Takanori-san will first explain how to create a chatbot using slackbot (https://github.com/lins05/slackbot). He will tell you how to register bot's integration on Slack and how to create a simple bot in Python that responds to specific keywords.",
+  "duration": 2366,
+  "language": "eng",
+  "recorded": "2019-02-23",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://pycon.python.ph"
+    }
+  ],
+  "speakers": [
+    "Takanori Suzuki"
+  ],
+  "tags": [
+    "slackbot",
+    "bot"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/iex9DAGxl_o/maxresdefault.jpg",
+  "title": "Automate the Boring Stuff with Slackbot",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=iex9DAGxl_o"
+    }
+  ]
+}

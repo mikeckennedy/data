@@ -1,0 +1,29 @@
+{
+  "copyright_text": null,
+  "description": "In this talk we describe cis\\_interface, an open-source Python framework\nfor combining scientific models across programming languages and scales\nto simulate complex systems. Motivated by the goal of combining\nbiological models to recreate crops in silico, cis\\_interface\norchestrates asynchronous communication between models running in\nparallel without the need for major changes to the model code,\nsupporting scientific collaboration and leveraging the wealth of\nexisting computational models.Presenter(s): Speaker: Meagan Lang,\nUniversity of Illinois, Champaign-Urbana\n",
+  "duration": 1562,
+  "language": "eng",
+  "recorded": "2018-07-11",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://scipy2018.scipy.org/ehome/299527/721463/"
+    },
+    {
+      "label": "Conference slides",
+      "url": "https://github.com/deniederhut/Slides-SciPyConf-2018"
+    }
+  ],
+  "speakers": [
+    "Meagan Lang"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/Vv6Ksqitfc8/maxresdefault.jpg",
+  "title": "cis_interface: A Python Package for Connecting Scientific Models across Scales and Languages",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=Vv6Ksqitfc8"
+    }
+  ]
+}

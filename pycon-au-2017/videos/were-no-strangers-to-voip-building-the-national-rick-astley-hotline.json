@@ -1,0 +1,17 @@
+{
+  "description": "We're no strangers to VoIP\nYou know XML, and so do I\nA full implementation's what I'm thinking of\nYou wouldn't get this from any other talk\n\nI just gotta tell you how to code this\nGotta make you understand\n\nLearn how to set VoIP up\nLearn how to tear calls down\nLearn how to run high availability, and stateless\nLearn how tech makes you cry\nLearn how to make upgrades on the fly\nLearn how your call will be monitored for quality assurance and training purposes\n\nWe've known VoIP exists for so long\nYou've got an idea but\nYou're too shy to code it\nInside we know it's just a SMOC\nWe know the rules and we're gonna code it\n\nAnd if you ask me how I'm feeling\nI'll cover status APIs\n\nLearn how to set VoIP up\nLearn how to tear calls down\nLearn how to run high availability, and stateless\nLearn how tech makes you cry\nLearn how to make upgrades on the fly\nLearn how your call is important to us and will be answered shortly",
+  "duration": 1960,
+  "language": "eng",
+  "recorded": "2017-08-05",
+  "speakers": [
+    "Paul '@pjf' Fenwick"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/S2FbzZiycsM/hqdefault.jpg",
+  "title": "We're no strangers to VoIP: Building the National Rick Astley Hotline",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=S2FbzZiycsM"
+    }
+  ]
+}

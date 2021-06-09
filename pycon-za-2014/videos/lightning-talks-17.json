@@ -9,25 +9,30 @@
   "quality_notes": "",
   "recorded": "2014-10-02",
   "slug": "lightning-talks-17",
-  "speakers": [],
+  "speakers": [
+    "Mike Jones",
+    "Richard Larkin",
+    "Adam Jorgensen",
+    "Simon de Haan",
+    "Jonathan Endersby"
+  ],
   "summary": "Lightning Talks are fun, short, five-minute (or less) talks. Ideally\neach talk should make a single point, often in a fun, quirky or\nover-the-top way.\n",
   "tags": [
+    "lightning talks",
     "kivy",
     "pyconza",
     "pyconza2014"
   ],
-  "thumbnail_url": "http://archive.org/download/pyconza2014-lightning-talks/pyconza2014-lightning-talks.thumbs/6%20A%20Lightning%20Talks_000870.jpg",
+  "thumbnail_url": "https://archive.org/download/pyconza2014-lightning-talks/pyconza2014-lightning-talks.thumbs/6%20A%20Lightning%20Talks_000870.jpg",
   "title": "Lightning Talks",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
-      "url": "http://archive.org/download/pyconza2014-lightning-talks/6%20A%20Lightning%20Talks.mp4"
+      "url": "https://archive.org/download/pyconza2014-lightning-talks/6%20A%20Lightning%20Talks.mp4"
     },
     {
-      "length": null,
       "type": "ogv",
-      "url": "http://archive.org/download/pyconza2014-lightning-talks/6%20A%20Lightning%20Talks.ogv"
+      "url": "https://archive.org/download/pyconza2014-lightning-talks/6%20A%20Lightning%20Talks.ogv"
     }
   ]
 }

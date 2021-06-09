@@ -1,0 +1,27 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "I'm an educator with a background in computer science. I've worked as a firmware engineer at a large corporation and as a software developer at a small firm and taught at innovative high schools teaching mathematics and CS. I'm currently teaching at an international school in Bangkok. I am part Thai but born and raised in America in the state of Kentucky.",
+  "duration": 251,
+  "language": "tha",
+  "recorded": "2018-06-16",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://th.pycon.org/en/schedule/"
+    }
+  ],
+  "speakers": [
+    "Michael Delfino"
+  ],
+  "tags": [
+    "lightning talk"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/4SJXvbsACwo/maxresdefault.jpg",
+  "title": "Studying Thai with programming",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=4SJXvbsACwo"
+    }
+  ]
+}

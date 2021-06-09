@@ -1,0 +1,27 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 3274,
+  "language": "spa",
+  "recorded": "2018-02-09",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://2018.pycon.co/#tab-2018-02-09"
+    }
+  ],
+  "speakers": [
+    "Deborah Hanus"
+  ],
+  "tags": [
+    "keynote"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/jdkR-zQJ_r4/maxresdefault.jpg",
+  "title": "With great machine learning comes great responsability!",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=jdkR-zQJ_r4"
+    }
+  ]
+}

@@ -18,11 +18,10 @@
   "tags": [
     "talk"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/poBc5__tKgU/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/poBc5__tKgU/hqdefault.jpg",
   "title": "Python at Netflix",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Advanced_Django_Forms_Usage.mp4?Signature=ndHFHflQ0qFNLMEWBmCMjn5fI5U%3D&Expires=1363660832&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

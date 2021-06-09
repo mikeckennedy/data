@@ -14,11 +14,10 @@
   ],
   "summary": "Use iPython, matplotlib, and Pandas to slice, dice, and visualise your\napplication's behaviour through its logs.\n",
   "tags": [],
-  "thumbnail_url": "http://i3.ytimg.com/vi/ZOpR3P-jAno/hqdefault.jpg",
+  "thumbnail_url": "https://i3.ytimg.com/vi/ZOpR3P-jAno/hqdefault.jpg",
   "title": "Server Log Analysis with Pandas",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/Server_Log_Analysis_with_Pandas.mp4?Signature=pDAjBpEs4Hc0R9nynWGgDUwnjO8%3D&Expires=1352840091&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "Proper load distribution is one of the keys to ensure smooth, safe and\ncost- effective operation. However, heterogeneous environments turn this\neasy at first sight task into a challenge that becomes more complicated\nin cases of microservice architectures. There is a way to solve it with\nasyncio.",
+  "duration": 2558,
+  "language": "rus",
+  "recorded": "2018-04-28",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://2018.uapycon.org/#schedule"
+    }
+  ],
+  "speakers": [
+    "Roman Prykhodchenko"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/Y40sC4omK-E/maxresdefault.jpg",
+  "title": "Load distribution in heterogeneous microservice environments",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=Y40sC4omK-E"
+    }
+  ]
+}

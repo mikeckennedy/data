@@ -1,7 +1,7 @@
 {
   "alias": "video/2097/os-deduplication-with-sidus-single-instance-dist-1",
   "category": "SciPy 2013",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2097,
@@ -14,13 +14,13 @@
   "tags": [
     "Tech"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/J5myH0y_bks/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/J5myH0y_bks/hqdefault.jpg",
   "title": "OS deduplication with SIDUS (single-instance distributing universal system); SciPy 2013 Presentation",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=J5myH0y_bks"
+      "url": "https://www.youtube.com/watch?v=J5myH0y_bks"
     }
   ]
 }

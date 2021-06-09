@@ -8,9 +8,12 @@
     "https://github.com/ocefpaf/talk_folium"
   ],
   "speakers": [
-    "Various speakers"
+    "Filipe Pires",
+    "Alvarenga Fernandes"
   ],
-  "tags": [],
+  "tags": [
+    "lightning talks"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/GetieJYDbPA/maxresdefault.jpg",
   "title": "Lighning Talks - 18/05/2016",
   "videos": [

@@ -16,13 +16,13 @@
   "tags": [
     "talk"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/bMV1bGb0THg/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/bMV1bGb0THg/hqdefault.jpg",
   "title": "Python and Hadoop: Big Data Application Development with PyCascading",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=bMV1bGb0THg"
+      "url": "https://www.youtube.com/watch?v=bMV1bGb0THg"
     }
   ]
 }

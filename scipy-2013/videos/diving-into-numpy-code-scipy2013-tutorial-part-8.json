@@ -1,7 +1,7 @@
 {
   "alias": "video/2159/diving-into-numpy-code-scipy2013-tutorial-part-8",
   "category": "SciPy 2013",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2159,
@@ -17,13 +17,13 @@
   "tags": [
     "Tech"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/33hJRdaQFgA/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/33hJRdaQFgA/hqdefault.jpg",
   "title": "Diving into NumPy Code, SciPy2013 Tutorial, Part 2 of 4",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=33hJRdaQFgA"
+      "url": "https://www.youtube.com/watch?v=33hJRdaQFgA"
     }
   ]
 }

@@ -16,13 +16,13 @@
   "tags": [
     "talk"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/FVEEndIwOSA/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/FVEEndIwOSA/hqdefault.jpg",
   "title": "Skyfield and 15 Years of Bad APIs",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=FVEEndIwOSA"
+      "url": "https://www.youtube.com/watch?v=FVEEndIwOSA"
     }
   ]
 }

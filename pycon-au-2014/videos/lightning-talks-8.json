@@ -1,7 +1,7 @@
 {
   "alias": "video/3124/lightning-talks-8",
   "category": "PyCon AU 2014",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 3124,
@@ -9,21 +9,23 @@
   "quality_notes": "",
   "recorded": "2014-08-07",
   "slug": "lightning-talks-8",
-  "speakers": [],
-  "summary": "",
-  "tags": [],
-  "thumbnail_url": "http://i.ytimg.com/vi/J2ppW681A8M/hqdefault.jpg",
+  "speakers": [
+    "Various speakers"
+  ],
+  "tags": [
+    "lightning talks"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/J2ppW681A8M/hqdefault.jpg",
   "title": "Lightning talks",
   "videos": [
     {
-      "length": null,
       "type": "ogv",
       "url": "http://mirror.linux.org.au/pub/pycon-au/pyconau2014/66-out.ogv"
     },
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=J2ppW681A8M"
+      "url": "https://www.youtube.com/watch?v=J2ppW681A8M"
     }
   ]
 }

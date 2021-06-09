@@ -7,16 +7,20 @@
   "id": 74,
   "language": "eng",
   "quality_notes": "",
-  "recorded": null,
+  "recorded": "2011-09-05",
   "related_urls": [
     "http://dotcloud.com/",
     "http://prezi.com/",
     "http://pushcode.wallrazer.com/"
   ],
   "slug": "djangocon-2011--lightning-talks---wednesday-morni",
-  "speakers": [],
-  "summary": "",
+  "speakers": [
+    "Steve Ivy",
+    "Jacob Kaplan-Moss",
+    "Gabriel Grant"
+  ],
   "tags": [
+    "lightning talks",
     "djangocon",
     "djangocon2011",
     "dotcloud",
@@ -30,11 +34,6 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/pyvideo_74___lightning-talks-wednesday-morning"
-    },
-    {
-      "length": null,
-      "type": "mp4",
-      "url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/74_lightning-talks-wednesday-morning.m4v"
     }
   ]
 }

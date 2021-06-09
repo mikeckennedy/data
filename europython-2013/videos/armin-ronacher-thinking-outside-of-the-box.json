@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2071,
+  "language": "eng",
+  "recorded": "2013-07-01",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.pycon.it/en/ep2013/"
+    }
+  ],
+  "speakers": [
+    "Armin Ronacher"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/5pZVqBFtuLk/hqdefault.jpg",
+  "title": "Thinking outside the Box",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=5pZVqBFtuLk"
+    }
+  ]
+}

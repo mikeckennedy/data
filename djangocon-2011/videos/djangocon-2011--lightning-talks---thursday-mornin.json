@@ -7,7 +7,7 @@
   "id": 70,
   "language": "eng",
   "quality_notes": "",
-  "recorded": null,
+  "recorded": "2011-09-05",
   "related_urls": [
     "http://bit.ly/emacs-psa",
     "http://bit.ly/fabulaws",
@@ -21,9 +21,26 @@
     "https://github.com/mjumbewu/django-model-blocks"
   ],
   "slug": "djangocon-2011--lightning-talks---thursday-mornin",
-  "speakers": [],
-  "summary": "",
+  "speakers": [
+    "Jason Boyer",
+    "Vicky Tuite",
+    "Katie Cunningham",
+    "Shawn Milo",
+    "Graham King",
+    "Tobias McNulty",
+    "Harris Lapiroff",
+    "Tim White",
+    "Matt Lauber",
+    "Kenneth Love",
+    "Todd Davies",
+    "Sebastian Serrano",
+    "Steve Ivy",
+    "Chris Jones",
+    "Brian Davis",
+    "Mjumbe Poe"
+  ],
   "tags": [
+    "lightning talks",
     "activitystreams",
     "backbone.js",
     "banana-py",
@@ -54,11 +71,6 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/pyvideo_70___lightning-talks-thursday-morning"
-    },
-    {
-      "length": null,
-      "type": "mp4",
-      "url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/djangocon-2011/70_lightning-talks-thursday-morning.mp4"
     }
   ]
 }

@@ -1,0 +1,30 @@
+{
+  "copyright_text": null,
+  "description": "This tutorial is an introduction to using widgets in Jupyter and JupyterLab to provide a rich interface for interactive data visualization.",
+  "duration": 10721,
+  "language": "eng",
+  "recorded": "2019-07-10",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.scipy2019.scipy.org/confschedule"
+    }
+  ],
+  "speakers": [
+    "Maarten Breddels",
+    "Matt Craig",
+    "Jason Grout",
+    "Martin Renou"
+  ],
+  "tags": [
+    "tutorial"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/HaSpqsKaRbo/maxresdefault.jpg",
+  "title": "The Jupyter Interactive Widget Ecosystem",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=HaSpqsKaRbo"
+    }
+  ]
+}

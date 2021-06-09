@@ -16,11 +16,10 @@
   "tags": [
     "Geophysics Mini-Symposia"
   ],
-  "thumbnail_url": "http://i2.ytimg.com/vi/qOPNbjx5uhM/hqdefault.jpg",
+  "thumbnail_url": "https://i2.ytimg.com/vi/qOPNbjx5uhM/hqdefault.jpg",
   "title": "ALGES: Geostatistics and Python",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/ALGES_Geostatistics_and_Python.mp4?Signature=SY9wk52zGieTkNTs9q5txKugp1A%3D&Expires=1346381755&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

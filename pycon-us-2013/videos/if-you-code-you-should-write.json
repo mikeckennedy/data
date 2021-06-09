@@ -16,11 +16,10 @@
   "tags": [
     "talk"
   ],
-  "thumbnail_url": "http://i3.ytimg.com/vi/BBfW3m3TK0w/hqdefault.jpg",
+  "thumbnail_url": "https://i3.ytimg.com/vi/BBfW3m3TK0w/hqdefault.jpg",
   "title": "If You Code, You Should Write",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/If_You_Code_You_Should_Write.mp4?Signature=sINS9PNerHnxQB5VBG89Vr3Wtxk%3D&Expires=1363671350&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

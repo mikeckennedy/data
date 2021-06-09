@@ -8,11 +8,12 @@
   "tags": [
     "django"
   ],
+  "thumbnail_url": "https://i.vimeocdn.com/video/700218140.jpg",
   "title": "Hermione Granger and the Wizard Information System",
   "videos": [
     {
-      "type": "wistia",
-      "url": "https://fast.wistia.com/embed/iframe/5yy4ust1ol"
+      "type": "vimeo",
+      "url": "https://vimeo.com/269301409"
     }
   ]
 }

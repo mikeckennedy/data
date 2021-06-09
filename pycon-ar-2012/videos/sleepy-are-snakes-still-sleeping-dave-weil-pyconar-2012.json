@@ -1,0 +1,29 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "Con la proliferaci\u00f3n de servicios de cloud-computing se han vuelto\ncomunes los ambientes de ejecuci\u00f3n limitados, acotando la potencia del\nsoftware implementable y forzando un modelo de ejecuci\u00f3n no continuo\n(lineal/imperativa). En esta charla presentaremos una implementaci\u00f3n\ntentativa de continuations en pure-cpython, y mostraremos algunos de los\nproblemas y sus soluciones que encontramos desarrollando este framework.\n",
+  "duration": 2949,
+  "language": "spa",
+  "recorded": "2012-11-17",
+  "related_urls": [
+    {
+      "label": "Event schedule",
+      "url": "https://web.archive.org/web/20140626165416/http://ar.pycon.org/2012/schedule/index"
+    },
+    {
+      "label": "PyCon Argentina 2012 Brouchure",
+      "url": "https://es.scribd.com/document/116769116/PyCon-Argentina-2012-Brouchure"
+    }
+  ],
+  "speakers": [
+    "Dave Weil"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/XXqo-vrrUk4/maxresdefault.jpg",
+  "title": "sleepy: are snakes still sleeping?",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=XXqo-vrrUk4"
+    }
+  ]
+}

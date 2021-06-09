@@ -1,0 +1,30 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 773,
+  "language": "eng",
+  "recorded": "2013-07-05",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.pycon.it/en/ep2013/"
+    }
+  ],
+  "speakers": [
+    "Muharem Hrnjadovic"
+  ],
+  "tags": [
+    "best-practices",
+    "storage",
+    "architecture",
+    "cloud"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/PV6-pgemKRA/hqdefault.jpg",
+  "title": "Get up to speed with OpenStack! - Part 3",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=PV6-pgemKRA"
+    }
+  ]
+}

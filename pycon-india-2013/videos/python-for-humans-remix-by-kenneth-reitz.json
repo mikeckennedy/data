@@ -1,0 +1,27 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2461,
+  "language": "eng",
+  "recorded": "2013-09-01",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://in.pycon.org/2013/index.html#schedule"
+    }
+  ],
+  "speakers": [
+    "Kenneth Reitz"
+  ],
+  "tags": [
+    "keynote"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/ri_gJ-Q9GlM/maxresdefault.jpg",
+  "title": "Python for Humans - Remix!",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=ri_gJ-Q9GlM"
+    }
+  ]
+}

@@ -16,11 +16,10 @@
   "tags": [
     "Astronomy Mini-Symposia"
   ],
-  "thumbnail_url": "http://i4.ytimg.com/vi/cgRouxz0y_4/hqdefault.jpg",
+  "thumbnail_url": "https://i4.ytimg.com/vi/cgRouxz0y_4/hqdefault.jpg",
   "title": "A Unified Release of Python & IRAF software for astronomy",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/A_Unified_Release_of_Python_IRAF_software_for_astronomy.mp4?Signature=oCxI%2FyHw3t0nEcCFJ7AYbMa1YWQ%3D&Expires=1346381851&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

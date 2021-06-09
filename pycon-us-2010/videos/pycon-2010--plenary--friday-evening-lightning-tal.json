@@ -19,16 +19,27 @@
     "http://www.third-bit.com/)"
   ],
   "slug": "pycon-2010--plenary--friday-evening-lightning-tal",
-  "speakers": [],
-  "summary": "",
+  "speakers": [
+    "Jacob Kaplan-Moss",
+    "Van Lindberg",
+    "Greg Wilson",
+    "Moshe Zadka",
+    "Ned Batchelder",
+    "Mike Maccana",
+    "Trent Mick",
+    "Daniel Holth",
+    "Dave Malcolm",
+    "David Huggins-Daines",
+    "Lucio Torre"
+  ],
   "tags": [
+    "lightning talks",
     "activestate",
     "bigapps",
     "cmusphinx",
     "coverage.py",
     "cpython",
     "lawyers",
-    "lightningtalks",
     "programmingbook",
     "pycon",
     "pycon2010",
@@ -42,16 +53,6 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/pyvideo_354___plenary-friday-evening-lightning-talks"
-    },
-    {
-      "length": null,
-      "type": "mp4",
-      "url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/354_plenary-friday-evening-lightning-talks.m4v"
-    },
-    {
-      "length": 483744206,
-      "type": "ogv",
-      "url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/354_plenary-friday-evening-lightning-talks.ogv"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "alias": "video/2100/complex-experiment-configuration-using-robot-1",
   "category": "SciPy 2013",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2100,
@@ -14,13 +14,13 @@
   "tags": [
     "Tech"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/marMd_K8Z1M/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/marMd_K8Z1M/hqdefault.jpg",
   "title": "Complex Experiment Configuration ... using Robot Operating System (ROS); SciPy 2013 Presentation",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=marMd_K8Z1M"
+      "url": "https://www.youtube.com/watch?v=marMd_K8Z1M"
     }
   ]
 }

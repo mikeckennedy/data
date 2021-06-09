@@ -8,11 +8,12 @@
   "tags": [
     "django"
   ],
+  "thumbnail_url": "https://i.vimeocdn.com/video/702202058.jpg",
   "title": "Safe-Ish by Default: The Django Security Model and How to Make it Better",
   "videos": [
     {
-      "type": "wistia",
-      "url": "https://fast.wistia.com/embed/iframe/gn5e8nhk6y"
+      "type": "vimeo",
+      "url": "https://vimeo.com/271025903"
     }
   ]
 }

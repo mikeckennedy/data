@@ -29,8 +29,14 @@ For example, here's a JSON object containing data about a talk at PyGotham 2015:
         "language": "eng",
         "recorded": "2015-08-10",
         "related_urls": [
-            "http://example.com/the/slide/deck.pdf",
-            "http://example.com/a/notebook.nb"
+            {
+              "label": "talk slides",
+              "url": "https://example.com/the/slide/deck.pdf"
+            },
+            {
+              "label": "example notebook",
+              "url": "https://example.com/a/notebook.nb"
+            }
         ],
         "speakers": [
             "Eric Schles"
@@ -41,12 +47,12 @@ For example, here's a JSON object containing data about a talk at PyGotham 2015:
         "videos": [
             {
                 "type": "youtube",
-                "url": "http://youtu.be/APC5HvHZaf0"
+                "url": "https://youtu.be/APC5HvHZaf0"
             },
             {
                 "size": 123456789,
                 "type": "mp4",
-                "url": "http://example.com/some/place/on/the/web.mp4"
+                "url": "https://example.com/some/place/on/the/web.mp4"
             }
         ]
         ...
@@ -85,20 +91,13 @@ quality_notes                          string
 ----------------------------------     ----------------------------------     ----------------------------------
 related_urls                           array of strings
 ----------------------------------     ----------------------------------     ----------------------------------
-tags                                   array of strings
+tags                                   array of strings                       (see below)
 ==================================     ==================================     ==================================
 
 For a full schema of a video JSON object, please see
 https://github.com/pyvideo/data/blob/master/.schemas/video.json
 
-.. _ISO 639-3: https://en.wikipedia.org/wiki/ISO_639-3
-
-*Title*
-
-Since the list of speakers, event name, and other metadata are captured elsewhere in each video's JSON object,
-it is suggested that the value of the ``title`` string contain only the title of the video and not contain any
-other information about the video.
-
+.. _ISO 639-3: https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 
 *Requirements of the Description String*
 
@@ -122,11 +121,65 @@ these resources:
 - Sphinx's reStructuredText Primer (http://www.sphinx-doc.org/en/stable/rest.html)
 - reStructuredText Markup Specification (http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html)
 
+Title
+^^^^^
+
+Since the list of speakers, event name, and other metadata are captured elsewhere in each video's JSON object,
+it is suggested that the value of the ``title`` string contain only the title of the video and not contain any
+other information about the video.
+
+Speakers
+^^^^^^^^
+
+If a speaker has multiple names - for instance, their speaker profile includes both the Chinese character representation
+and the Latin alphabet representation of their name - each variation on their name should be recorded as a separate list
+item. This enables users to search by all variations of the speaker's name in our web interface.
+
+Tags
+^^^^
+
+For consistency, tag strings should be:
+
+-  lowercase
+-  space separated
+
+Even in the case of proper nouns or brand names, tag strings should be lowercase. Also, if adding a tag, `use existing tags <https://pyvideo.org/tags.html>`_ where possible, to improve consistency. If an existing tag does not comply with the standards listed above, please create a new tag that does. Correcting the non-compliant tag would also be greatly appreciated, but that can be a separate step/commit.
+
+Examples:
+
+-  `docker`
+-  `lightning talks`
+-  `keynote`
+-  `continuous integration`
+
+
 *Related URLs*
 
 If there are other resources available and related to the video (slide decks, etc),
 it is suggested that they are referenced in the ``related_urls`` array of URLs
 rather than in the description.
+
+Data Completeness
+~~~~~~~~~~~~~~~~~
+
+If an issue is tagged as `minimal download` in the Issue Tracker, some data has been loaded, but is incomplete.
+To address the ticket edit the data (try editing with `pyvideo_lektor`_) and check the following requirements to consider talk data reasonably complete:
+
+* `Title`: Only contains the actual talk title (No speaker name, no year, no conference name)
+* `Description`: Correct restructured text (`pyvideo_lektor`_ will be very helpful here), only describing the talk content (no speaker name/bio, no conference name/data)
+* `Tags`: Definitely tag a video if it is either a `keynote` or a collection of `lightning talks`
+* `Language` (`ISO 639-3`_ coded)
+* `Speakers`
+
+Even better:
+
+* Add meaningful `tags` related to talk content. No speaker name, no conference/meetup name, no "python" (all videos are about python), ...
+* `Related urls`: Add talk slides or talk repository links where available. When scraped urls are available, take a look if you want to label it more descriptive than the url and if they refer to the talk contents.
+
+Above and beyond:
+
+* `Recorded`: Check to make sure the date is correct (rather than just the estimation from minimal download) or add datetime with time zone
+* `Related urls`: Add any url mentioned in the talk
 
 
 JSON Files
@@ -154,6 +207,7 @@ you can use the following command to re-serialize the whole repo::
 
 .. note:: Before using the tools, you should install some packages. In order to
    obtain them, you can run the following command::
+
        $ pip install -r tools/requirements.txt
 
 Finally, video JSON files should go in a directory called ``videos`` that is
@@ -194,6 +248,15 @@ title                                  string
 
 For a full schema of a category JSON object, please see https://github.com/pyvideo/data/blob/master/.schemas/category.json
 
+Creating Data From Youtube Channel
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Create some basic data from a youtube list with `pyvideo_scrape`_ (See it's README)
+* Find created git branch and directory, and fill in missing data with `pyvideo_lektor`_ (See it's README)
+
+..  _`pyvideo_scrape`: https://github.com/pyvideo/pyvideo_scrape
+..  _`pyvideo_lektor`: https://github.com/pyvideo/pyvideo_lektor
+
 Pull Request
 ~~~~~~~~~~~~
 
@@ -204,6 +267,8 @@ pyvideo's collection, take the following steps:
 #. Clone from your forked repo.
 #. Add your category directory (containing the JSON files) into the root of the repo.
 #. Commit your changes and push them up to your fork.
+#. Run your tests locally by activating your venv and running ``make test``
+#. Address any test failures. Common test failures from the youtube import process come from unescaped special characters and odd description formatting.
 #. Issue a Pull Request of your changes to this repo.
 
 And you're done! So long as you've followed this guide, your Pull Request (PR)

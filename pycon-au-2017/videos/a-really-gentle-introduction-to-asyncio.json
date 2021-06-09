@@ -1,0 +1,17 @@
+{
+  "description": "I/O is slow (so very very slow) and waiting for it takes forever\n(metaphorically speaking). In this session you'll learn how to use\nall that waiting time productively with Python's asyncio module.\n\nFirst you'll find out how to make two things happen at the same time\nwithout those pesky, error-prone, threads and you'll find out what's\ngoing on under the hood with the event loop.\n\nNext you'll get a handle on the future with Futures (no, not the financial\nkind!). Then learn how to move all your data around with transports and\nhow to communicate with protocols.\n\nFinally, put it all together and learn how to fire up a networked application\nand system test it from all sides!",
+  "duration": 1832,
+  "language": "eng",
+  "recorded": "2017-08-05",
+  "speakers": [
+    "Gregory Saunders"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/3mb9jFAHRfw/hqdefault.jpg",
+  "title": "A Really Gentle Introduction to Asyncio",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=3mb9jFAHRfw"
+    }
+  ]
+}

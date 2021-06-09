@@ -1,0 +1,29 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "| Se mostrar\u00e1 algunas de las cosas que est\u00e1n mal en python2 y como se\n  arreglan en python3, explicando porqu\u00e9 est\u00e1n mal.\n| Se presenta python 3 como una cosa con valor propio, que es un\n  lenguaje nuevo y m\u00e1s copado, y no solamente un upgrade gratuitamente\n  incompatible.\n",
+  "duration": 1455,
+  "language": "spa",
+  "recorded": "2012-11-17",
+  "related_urls": [
+    {
+      "label": "Event schedule",
+      "url": "https://web.archive.org/web/20140626165416/http://ar.pycon.org/2012/schedule/index"
+    },
+    {
+      "label": "PyCon Argentina 2012 Brouchure",
+      "url": "https://es.scribd.com/document/116769116/PyCon-Argentina-2012-Brouchure"
+    }
+  ],
+  "speakers": [
+    "Roberto Alsina"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/rCSNh_gwZlM/maxresdefault.jpg",
+  "title": "Python 2 debe morir",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=rCSNh_gwZlM"
+    }
+  ]
+}

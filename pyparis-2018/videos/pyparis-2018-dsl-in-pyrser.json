@@ -1,0 +1,33 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1561,
+  "language": null,
+  "recorded": "2018-11-14",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "http://pyparis.org/static/pdf/Schedule-PyParis-2018.pdf"
+    },
+    {
+      "label": "Conference web",
+      "url": "http://pyparis.org/"
+    },
+    {
+      "label": "slides",
+      "url": "http://pyparis.org/static/slides/Lionel%20Auroux-5d4ebb18.pdf"
+    }
+  ],
+  "speakers": [
+    "Lionel Auroux"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/WjoGXwai8xA/maxresdefault.jpg",
+  "title": "DSL in Pyrser",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=WjoGXwai8xA"
+    }
+  ]
+}

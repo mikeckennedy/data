@@ -8,11 +8,12 @@
   "tags": [
     "django"
   ],
+  "thumbnail_url": "https://i.vimeocdn.com/video/700222117.jpg",
   "title": "How to Upgrade to the Newest and Shiniest Django",
   "videos": [
     {
-      "type": "wistia",
-      "url": "https://fast.wistia.com/embed/iframe/0hnokmkwvy"
+      "type": "vimeo",
+      "url": "https://vimeo.com/269304886"
     }
   ]
 }

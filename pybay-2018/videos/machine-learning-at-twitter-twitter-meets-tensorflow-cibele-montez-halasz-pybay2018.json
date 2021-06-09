@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1490,
+  "language": "eng",
+  "recorded": "2018-08-18",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://pybay.com/schedule/"
+    }
+  ],
+  "speakers": [
+    "Cibele Montez Halasz"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/AXficurkE18/maxresdefault.jpg",
+  "title": "Machine Learning at Twitter - Twitter Meets Tensorflow",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=AXficurkE18"
+    }
+  ]
+}

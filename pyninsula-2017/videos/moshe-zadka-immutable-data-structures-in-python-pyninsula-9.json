@@ -1,0 +1,29 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "",
+  "duration": 1335,
+  "language": "eng",
+  "recorded": "2018-01-06",
+  "related_urls": [
+    {
+      "label": "Group web",
+      "url": "http://pyninsula.org/"
+    },
+    {
+      "label": "Group meeting schedule",
+      "url": "https://www.meetup.com/Pyninsula-Python-Peninsula-Meetup/"
+    }
+  ],
+  "speakers": [
+    "Moshe Zadka"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/WmW8xlKL3EM/maxresdefault.jpg",
+  "title": "Immutable Data Structures in Python",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=WmW8xlKL3EM"
+    }
+  ]
+}

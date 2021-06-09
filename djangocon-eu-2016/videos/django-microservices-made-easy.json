@@ -8,11 +8,12 @@
   "tags": [
     "django"
   ],
+  "thumbnail_url": "https://i.vimeocdn.com/video/702210332.jpg",
   "title": "Django Microservices Made Easy",
   "videos": [
     {
-      "type": "wistia",
-      "url": "https://fast.wistia.com/embed/iframe/dwlenrttup"
+      "type": "vimeo",
+      "url": "https://vimeo.com/271032608"
     }
   ]
 }

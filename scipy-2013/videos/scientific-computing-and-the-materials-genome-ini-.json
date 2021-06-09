@@ -1,7 +1,7 @@
 {
   "alias": "video/2003/scientific-computing-and-the-materials-genome-ini-",
   "category": "SciPy 2013",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2003,
@@ -14,13 +14,13 @@
   "tags": [
     "Tech"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/57hqE4m6Us0/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/57hqE4m6Us0/hqdefault.jpg",
   "title": "Scientific Computing and the Materials Genome Initiative; SciPy 2013 Presentation",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=57hqE4m6Us0"
+      "url": "https://www.youtube.com/watch?v=57hqE4m6Us0"
     }
   ]
 }

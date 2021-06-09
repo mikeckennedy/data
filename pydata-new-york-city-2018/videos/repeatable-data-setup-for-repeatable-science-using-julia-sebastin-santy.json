@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1556,
+  "language": "eng",
+  "recorded": "2018-08-17",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://pydata.org/nyc2018/schedule/"
+    }
+  ],
+  "speakers": [
+    "Sebastin Santy"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/eMtuzjn_Xks/maxresdefault.jpg",
+  "title": "Repeatable Data Setup for Repeatable Science using Julia",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=eMtuzjn_Xks"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2266,
+  "language": "ita",
+  "recorded": "2013-07-02",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.pycon.it/en/ep2013/"
+    }
+  ],
+  "speakers": [
+    "Alessio Siniscalchi"
+  ],
+  "tags": [
+    "quality-assurance",
+    "automation",
+    "sensor networks",
+    "realtime"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/BpjgoYxt6Yg/hqdefault.jpg",
+  "title": "Flussi di dati GPS in near real-time",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=BpjgoYxt6Yg"
+    }
+  ]
+}

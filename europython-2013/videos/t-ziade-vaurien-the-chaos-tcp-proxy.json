@@ -1,0 +1,30 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2137,
+  "language": "eng",
+  "recorded": "2013-07-04",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.pycon.it/en/ep2013/"
+    }
+  ],
+  "speakers": [
+    "Tarek Ziad\u00e9"
+  ],
+  "tags": [
+    "sysadmin",
+    "web",
+    "quality-assurance",
+    "testing"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/3dCK0xI4054/hqdefault.jpg",
+  "title": "Vaurien The Chaos TCP Proxy",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=3dCK0xI4054"
+    }
+  ]
+}

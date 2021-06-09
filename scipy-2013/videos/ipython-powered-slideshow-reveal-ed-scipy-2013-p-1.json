@@ -1,7 +1,7 @@
 {
   "alias": "video/2119/ipython-powered-slideshow-reveal-ed-scipy-2013-p-1",
   "category": "SciPy 2013",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2119,
@@ -14,13 +14,13 @@
   "tags": [
     "Tech"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/rBS6hmiK-H8/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/rBS6hmiK-H8/hqdefault.jpg",
   "title": "IPython-powered Slideshow Reveal-ed; SciPy 2013 Presentation",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=rBS6hmiK-H8"
+      "url": "https://www.youtube.com/watch?v=rBS6hmiK-H8"
     }
   ]
 }

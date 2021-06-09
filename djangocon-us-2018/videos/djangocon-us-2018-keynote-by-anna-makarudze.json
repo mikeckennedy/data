@@ -1,0 +1,31 @@
+{
+  "copyright_text": null,
+  "description": "Anna\u2019s keynote will dive into her journey with coding, what got her\ninterested in programming and why she chose Python despite the language\nnot being popular in her region. She will also talk about her journey\nlearning to code in Python and how her involvement in the Python\ncommunity as a beginner has helped her grow and develop her coding\nskills. She will share what mentorship means to her and how positive\nmentorship can impact the lives of many beginner coders.\n",
+  "duration": 2311,
+  "language": "eng",
+  "recorded": "2018-10-16",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://2018.djangocon.us/schedule/"
+    },
+    {
+      "label": "slides",
+      "url": "https://speakerdeck.com/amakarudze/my-journey-with-code"
+    }
+  ],
+  "speakers": [
+    "Anna Makarudze"
+  ],
+  "tags": [
+    "keynote"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/9UGziEknY8I/maxresdefault.jpg",
+  "title": "My Journey With Code",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=9UGziEknY8I"
+    }
+  ]
+}

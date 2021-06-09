@@ -8,11 +8,12 @@
   "tags": [
     "django"
   ],
+  "thumbnail_url": "https://i.vimeocdn.com/video/699882074.jpg",
   "title": "Introducing Django To The Foreign World",
   "videos": [
     {
-      "type": "wistia",
-      "url": "https://fast.wistia.com/embed/iframe/k3icisez2z"
+      "type": "vimeo",
+      "url": "https://vimeo.com/269013801"
     }
   ]
 }

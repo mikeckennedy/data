@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 911,
+  "language": "por",
+  "recorded": "2018-10-17",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://2018.pythonbrasil.org.br/programacao"
+    }
+  ],
+  "speakers": [
+    "Ciro Valente Filho"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/S8egx3NS8sQ/maxresdefault.jpg",
+  "title": "Apresentando graphene uma lib graphql para o django",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=S8egx3NS8sQ"
+    }
+  ]
+}

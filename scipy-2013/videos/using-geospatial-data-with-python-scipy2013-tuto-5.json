@@ -1,7 +1,7 @@
 {
   "alias": "video/2069/using-geospatial-data-with-python-scipy2013-tuto-5",
   "category": "SciPy 2013",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2069,
@@ -14,13 +14,13 @@
   "tags": [
     "Tech"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/LDwqkV8gdpM/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/LDwqkV8gdpM/hqdefault.jpg",
   "title": "Using Geospatial Data with Python, SciPy2013 Tutorial, Part 6 of 6",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=LDwqkV8gdpM"
+      "url": "https://www.youtube.com/watch?v=LDwqkV8gdpM"
     }
   ]
 }

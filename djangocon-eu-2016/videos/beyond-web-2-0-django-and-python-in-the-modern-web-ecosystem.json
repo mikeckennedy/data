@@ -3,16 +3,17 @@
   "language": "eng",
   "recorded": "2016-04-01",
   "speakers": [
-    "Dr. Russell Keith-Magee"
+    "Russell Keith-Magee"
   ],
   "tags": [
     "django"
   ],
+  "thumbnail_url": "https://i.vimeocdn.com/video/702212138.jpg",
   "title": "Beyond Web 2.0 - Django and Python in the modern web ecosystem",
   "videos": [
     {
-      "type": "wistia",
-      "url": "https://fast.wistia.com/embed/iframe/w5dpd2z3ym"
+      "type": "vimeo",
+      "url": "https://vimeo.com/271034035"
     }
   ]
 }

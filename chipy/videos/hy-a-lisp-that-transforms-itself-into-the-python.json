@@ -14,11 +14,10 @@
   ],
   "summary": "",
   "tags": [],
-  "thumbnail_url": "http://i1.ytimg.com/vi/SB9TWabor1k/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/SB9TWabor1k/hqdefault.jpg",
   "title": "Hy: A Lisp that transforms itself into the Python AST. ",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/ndvchipy/Hy_a_lisp_that_transforms_itse.mp4"
     },

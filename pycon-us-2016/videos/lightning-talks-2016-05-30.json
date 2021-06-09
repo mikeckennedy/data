@@ -7,8 +7,23 @@
   "recorded": "2016-05-30",
   "related_urls": [],
   "slug": "lightning-talks-2016-05-30",
-  "speakers": [],
-  "tags": [],
+  "speakers": [
+    "Ka-Ping Yee",
+    "Travis Morton",
+    "Trey Hunner",
+    "Terian Koscik",
+    "Russell Keith-Magee",
+    "Amit Saha",
+    "Cameron Dershem",
+    "Renzo Nuccitelli",
+    "Rami Chowdhury",
+    "Erin Braswell",
+    "Doug Matzke",
+    "Justin Myles Holmes"
+  ],
+  "tags": [
+    "lightning talks"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/yC9m2GInXqU/maxresdefault.jpg",
   "title": "Lightning Talks - 2016-05-30",
   "videos": [

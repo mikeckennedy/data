@@ -1,0 +1,30 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1785,
+  "language": "eng",
+  "recorded": "2013-07-05",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.pycon.it/en/ep2013/"
+    }
+  ],
+  "speakers": [
+    "Petr Viktorin"
+  ],
+  "tags": [
+    "tui",
+    "urwid",
+    "ui",
+    "unix"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/BErOaezd4Hw/hqdefault.jpg",
+  "title": "Terminals, command lines, and text interfaces",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=BErOaezd4Hw"
+    }
+  ]
+}

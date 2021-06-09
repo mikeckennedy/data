@@ -1,0 +1,35 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2409,
+  "language": "eng",
+  "recorded": "2013-07-04",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.pycon.it/en/ep2013/"
+    }
+  ],
+  "speakers": [
+    "Mike M\u00fcller"
+  ],
+  "tags": [
+    "debugging",
+    "metaprogramming",
+    "testing",
+    "principles",
+    "refactoring",
+    "application-design",
+    "architecture",
+    "validation",
+    "software-engineering"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/F3IQUzik3k4/hqdefault.jpg",
+  "title": "Meta Programming - Some Use Cases for Everyday Programming",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=F3IQUzik3k4"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "description": "Pr\u00e9sentation d'airobot, une biblioth\u00e8que asynchrone pour interagir avec un robot de dessin assimilable au module turtle de Python",
+  "duration": 2152,
+  "language": "fra",
+  "recorded": "2021-03-17",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://discuss.afpy.org/t/conferences-du-mercredi-17-mars-2021-19h00/"
+    }
+  ],
+  "speakers": [
+    "Antoine \"entwanne\" Rozo"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/MqSmfWajIJY/hqdefault.jpg",
+  "title": "Dessine-moi une tortue",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=MqSmfWajIJY"
+    },
+    {
+      "size": 59816443,
+      "type": "mp4",
+      "url": "https://dl.afpy.org/en-attendant-la-pycon-fr-2020-2021/2021-03%20Dessine-moi%20une%20tortue%20-%20Antoine%20%27entwanne%27%20Rozo.mp4"
+    },
+    {
+      "type": "peertube",
+      "url": "https://bittube.video/videos/watch/f7804af2-43b9-493a-8fea-9f68624d8498"
+    }
+  ]
+}

@@ -19,11 +19,10 @@
   "tags": [
     "General"
   ],
-  "thumbnail_url": "http://i2.ytimg.com/vi/-cQpExBrh74/hqdefault.jpg",
+  "thumbnail_url": "https://i2.ytimg.com/vi/-cQpExBrh74/hqdefault.jpg",
   "title": "nD image segmentation using learned region agglomeration with the Ray Python library",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/nD_image_segmentation_using_le.mp4?Signature=c9cvY2RhvdhwqRDhvE48%2BgY%2Ftp4%3D&Expires=1346444687&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

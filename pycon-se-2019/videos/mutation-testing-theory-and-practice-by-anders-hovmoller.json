@@ -1,0 +1,28 @@
+{
+  "copyright_text": null,
+  "description": "What is mutation testing? How does it work in practice? What is it like to actually do it? These questions will be answered! ",
+  "duration": 1981,
+  "language": "eng",
+  "recorded": "2019-10-31",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "http://www.pycon.se/index.html#talks"
+    }
+  ],
+  "speakers": [
+    "Anders Hovm\u00f6ller"
+  ],
+  "tags": [
+    "testing",
+    "mutation testing"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/fZwB1gQBwnU/maxresdefault.jpg",
+  "title": "Mutation Testing - Theory and Practice",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=fZwB1gQBwnU"
+    }
+  ]
+}

@@ -16,13 +16,13 @@
   "tags": [
     "talk"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/R31NRWgoIWM/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/R31NRWgoIWM/hqdefault.jpg",
   "title": "From Source to Code: How CPython's Compiler Works",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=R31NRWgoIWM"
+      "url": "https://www.youtube.com/watch?v=R31NRWgoIWM"
     }
   ]
 }

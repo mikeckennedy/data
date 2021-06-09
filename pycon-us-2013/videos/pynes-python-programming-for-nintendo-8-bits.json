@@ -16,11 +16,10 @@
   "tags": [
     "talk"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/daJ1Q4GG9jw/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/daJ1Q4GG9jw/hqdefault.jpg",
   "title": "PyNES: Python programming for Nintendo 8 bits.",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/PyNES_Python_programming_for_N.mp4?Signature=uUJl1qkYf5v7Fp8maSNV9G7JKpo%3D&Expires=1363825128&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

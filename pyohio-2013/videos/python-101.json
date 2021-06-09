@@ -16,13 +16,13 @@
   "tags": [
     "tutorial"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/WmAEG1M8NpI/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/WmAEG1M8NpI/hqdefault.jpg",
   "title": "Python 101",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=WmAEG1M8NpI"
+      "url": "https://www.youtube.com/watch?v=WmAEG1M8NpI"
     }
   ]
 }

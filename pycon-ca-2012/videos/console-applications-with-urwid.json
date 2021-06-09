@@ -14,11 +14,10 @@
   ],
   "summary": "Demonstration of some of the best Python console applications written\n\nusing Urwid:\n\n-  bpython-urwid\n-  videotop\n-  alot\n-  turses\n-  hachoir-urwid\n-  speedometer\n-  pudb\n\n",
   "tags": [],
-  "thumbnail_url": "http://i1.ytimg.com/vi/4UwhXC1OP2A/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/4UwhXC1OP2A/hqdefault.jpg",
   "title": "Console Applications with Urwid",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/pyconca/pyconca2012/Cool_Stuff_You_Can_Do_With_Urwid.mp4?Signature=7EdznvQRc%2FGuV4PEjjUVGYQxf2U%3D&Expires=1352888233&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

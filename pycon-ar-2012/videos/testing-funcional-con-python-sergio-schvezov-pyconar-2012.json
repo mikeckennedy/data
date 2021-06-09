@@ -1,0 +1,29 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "| Usando python y unittest/testtools como framework para pruebas\n  funcionales contra productos como Unity (Ubuntu) o aplicaciones en\n  general.\n| Se paseara por un test b\u00e1sico, el uso de Xpresser para validaciones\n  gr\u00e1ficas para los casos que se lo merecen y el uso de autopilot que es\n  usado para probar Unity.\n",
+  "duration": 1570,
+  "language": "spa",
+  "recorded": "2012-11-17",
+  "related_urls": [
+    {
+      "label": "Event schedule",
+      "url": "https://web.archive.org/web/20140626165416/http://ar.pycon.org/2012/schedule/index"
+    },
+    {
+      "label": "PyCon Argentina 2012 Brouchure",
+      "url": "https://es.scribd.com/document/116769116/PyCon-Argentina-2012-Brouchure"
+    }
+  ],
+  "speakers": [
+    "Sergio Schvezov"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/BWF9N18Qy2Q/maxresdefault.jpg",
+  "title": "Testing funcional con python",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=BWF9N18Qy2Q"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 3066,
+  "language": "spa",
+  "recorded": "2018-02-09",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://2018.pycon.co/#tab-2018-02-09"
+    }
+  ],
+  "speakers": [
+    "Lorena Mesa"
+  ],
+  "tags": [
+    "keynote"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/uWoN0b5Sxrk/maxresdefault.jpg",
+  "title": "Your model is bias, but so is your data. The case for ethics in data science.",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=uWoN0b5Sxrk"
+    }
+  ]
+}

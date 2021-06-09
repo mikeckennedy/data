@@ -1,0 +1,29 @@
+{
+  "copyright_text": null,
+  "description": "We present \u201cScikit-build\u201d, an improved build system generator for\nCPython C/C++/Fortran/Cython extensions. It provides improved support\nfor additional compilers, build systems, cross compilation, and locating\ndependencies and determining their build requirements over\ndistutils/setuptools. We also describe how ITK and VTK C++ scientific\nlibraries were updated to make use of scikit-build to ultimately be\npublished as wheels.Presenter(s): Speaker: Jean- Christophe\nFillion-Robin, Kitware, Inc. Speaker: Matthew McCormick, Kitware, Inc.\nSpeaker: Omar Padron, Kitware, Inc. Speaker: Max Smolens, Kitware, Inc.\nSpeaker: Michael Grauer, Kitware, Inc. Speaker: Michael Sarahan,\nAnaconda, Inc.\n",
+  "duration": 1696,
+  "language": "eng",
+  "recorded": "2018-07-11",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://scipy2018.scipy.org/ehome/299527/721463/"
+    },
+    {
+      "label": "Conference slides",
+      "url": "https://github.com/deniederhut/Slides-SciPyConf-2018"
+    }
+  ],
+  "speakers": [
+    "Jean-Christophe Fillion-Robin"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/QVkg-cC5oe4/maxresdefault.jpg",
+  "title": "Scikit-build: A Build System Generator for CPython C/C++/Fortran/Cython Extensions",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=QVkg-cC5oe4"
+    }
+  ]
+}

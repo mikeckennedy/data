@@ -1,0 +1,19 @@
+{
+  "description": "Lightning Talk - Um jornalista dev",
+  "duration": 70,
+  "recorded": "2016-10-15",
+  "speakers": [
+    "Various speakers"
+  ],
+  "tags": [
+    "lightning talks"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/Jaqns8ypjsM/maxresdefault.jpg",
+  "title": "Lightning Talk - Um jornalista dev",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=Jaqns8ypjsM"
+    }
+  ]
+}

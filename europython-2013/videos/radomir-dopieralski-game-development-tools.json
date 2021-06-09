@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1432,
+  "language": "eng",
+  "recorded": "2013-07-05",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.pycon.it/en/ep2013/"
+    }
+  ],
+  "speakers": [
+    "Radomir Dopieralski"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/tNfkslQnFjc/hqdefault.jpg",
+  "title": "Game Development Tools",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=tNfkslQnFjc"
+    }
+  ]
+}

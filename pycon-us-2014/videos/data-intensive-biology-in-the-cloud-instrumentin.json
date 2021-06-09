@@ -1,7 +1,7 @@
 {
   "alias": "video/2697/data-intensive-biology-in-the-cloud-instrumentin",
   "category": "PyCon US 2014",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2697,
@@ -14,13 +14,13 @@
   ],
   "summary": "Cloud computing offers some great opportunities for science, but most\ncloud computing platforms are I/O and memory limited, and hence are poor\nmatches for data-intensive computing. After 4 years of research software\ndevelopment we are now instrumenting and benchmarking our analysis\npipelines; numbers, lessons learned, and future plans will be discussed.\nEverything is open source.\n",
   "tags": [],
-  "thumbnail_url": "http://i1.ytimg.com/vi/RCRbfKK57X8/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/RCRbfKK57X8/hqdefault.jpg",
   "title": "Data intensive biology in the cloud: instrumenting ALL the things",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=RCRbfKK57X8"
+      "url": "https://www.youtube.com/watch?v=RCRbfKK57X8"
     }
   ]
 }

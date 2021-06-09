@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1166,
+  "language": "por",
+  "recorded": "2018-10-17",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://2018.pythonbrasil.org.br/programacao"
+    }
+  ],
+  "speakers": [
+    "Leticia Portella"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/URBE9PyGclU/maxresdefault.jpg",
+  "title": "Que belo dia para a ci\u00eancia!",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=URBE9PyGclU"
+    }
+  ]
+}

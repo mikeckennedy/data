@@ -1,7 +1,7 @@
 {
   "alias": "video/2887/python-community-im-deutschsprachigen-raum",
   "category": "PyCon DE 2011",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2887,
@@ -15,13 +15,13 @@
   ],
   "summary": "Die Python Community im deutschsprachigen Raum ist bisher recht\nzersplittert aufgetreten. Wir wollen einen Weg vorschlagen, wie sich\ndies \u00e4ndern l\u00e4\u00dft.\n",
   "tags": [],
-  "thumbnail_url": "http://i1.ytimg.com/vi/hfkRMN5njs4/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/hfkRMN5njs4/hqdefault.jpg",
   "title": "Python Community im deutschsprachigen Raum",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=hfkRMN5njs4"
+      "url": "https://www.youtube.com/watch?v=hfkRMN5njs4"
     }
   ]
 }

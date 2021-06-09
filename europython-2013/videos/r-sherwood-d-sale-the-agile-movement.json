@@ -1,0 +1,36 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 3307,
+  "language": "eng",
+  "recorded": "2013-07-03",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.pycon.it/en/ep2013/"
+    }
+  ],
+  "speakers": [
+    "Russell Sherwood",
+    "David Sale"
+  ],
+  "tags": [
+    "bdd",
+    "continuous-integration",
+    "project-management",
+    "agile",
+    "testing",
+    "principles",
+    "tdd",
+    "pair-programming",
+    "XP"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/A-Ng73NXcTI/hqdefault.jpg",
+  "title": "The \u2018Agile Movement\u2019",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=A-Ng73NXcTI"
+    }
+  ]
+}

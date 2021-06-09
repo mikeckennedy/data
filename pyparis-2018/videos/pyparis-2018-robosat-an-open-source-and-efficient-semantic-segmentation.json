@@ -1,0 +1,33 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1067,
+  "language": null,
+  "recorded": "2018-11-14",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "http://pyparis.org/static/pdf/Schedule-PyParis-2018.pdf"
+    },
+    {
+      "label": "Conference web",
+      "url": "http://pyparis.org/"
+    },
+    {
+      "label": "slides",
+      "url": "http://pyparis.org/static/slides/Olivier%20Courtin-486f7730.pdf"
+    }
+  ],
+  "speakers": [
+    "Olivier Courtin"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/y-leS9uBl7Y/maxresdefault.jpg",
+  "title": "Robosat: an Open Source and efficient Semantic Segmentation Toolbox for Aerial Imagery",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=y-leS9uBl7Y"
+    }
+  ]
+}

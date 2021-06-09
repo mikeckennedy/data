@@ -1,0 +1,29 @@
+{
+  "copyright_text": null,
+  "description": "Esta charla ofrece una introducci\u00f3n a aprendizaje por refuerzo y c\u00f3mo podemos experimentar con estos algoritmos usando la librer\u00eda OpenAI Gym.",
+  "duration": 2126,
+  "language": "spa",
+  "recorded": "2019-09-27",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://pydata.org/cordoba2019/schedule/"
+    }
+  ],
+  "speakers": [
+    "Ana Laura Diedrichs"
+  ],
+  "tags": [
+    "artificial intelligence",
+    "openai gym",
+    "reinforcement learning"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/kdat0eq5I78/maxresdefault.jpg",
+  "title": "Aprendizaje por refuerzo con OpenAI Gym",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=kdat0eq5I78"
+    }
+  ]
+}

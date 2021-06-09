@@ -1,0 +1,28 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1809,
+  "language": "eng",
+  "recorded": "2013-07-03",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.pycon.it/en/ep2013/"
+    }
+  ],
+  "speakers": [
+    "Dougal Matthews"
+  ],
+  "tags": [
+    "postgresql",
+    "database"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/SB1KfMEgrXk/hqdefault.jpg",
+  "title": "PostgreSQL for Pythonistas.",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=SB1KfMEgrXk"
+    }
+  ]
+}

@@ -13,18 +13,15 @@
     "Jason Wirth"
   ],
   "summary": "Recap of last weeks PyData conference in NYC.\n",
-  "tags": [],
+  "tags": [
+    "lightning talks"
+  ],
   "thumbnail_url": "https://archive.org/services/img/pyvideo_2452___PyData_Recap_Lightning_Talk",
   "title": "PyData Recap Lightning Talk",
   "videos": [
     {
       "type": "archive.org",
       "url": "https://archive.org/details/pyvideo_2452___PyData_Recap_Lightning_Talk"
-    },
-    {
-      "length": null,
-      "type": "mp4",
-      "url": "http://cf9ce50bbcc7255cb659-8cbed8cf7e3a131cd8f1c3e383d10041.r93.stream.cf2.rackcdn.com/chipy/2452_PyData_Recap_Lightning_Talk.mp4"
     },
     {
       "length": 0,

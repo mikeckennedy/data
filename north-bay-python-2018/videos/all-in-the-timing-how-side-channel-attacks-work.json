@@ -1,0 +1,31 @@
+{
+  "abstract": "In this talk, you\u2019ll learn about a category of security issue known as\nside channel attacks. You\u2019ll be amused to see how features like\nautomatic data compression, short-circuit execution, and deterministic\nhashing can be abused to bypass security systems. No security background\nknowledge is required. The talk assumes at least intermediate Python\nexperience.\n\nWe\u2019ll take a tour of real side channel vulnerabilities in open source\nPython codebases, including the patches that fixed them. It also offers\npractical advice for avoiding these issues. My goal is to demystify this\ntopic, even if you aren\u2019t writing security-critical software.\n\nThis talk is for intermediate or higher Python developers who want a\nfoundation for understanding side channel security vulnerabilities. We\nhope to allow software developers without a security background to\nunderstand the security mindset.\n",
+  "copyright_text": null,
+  "description": "In this talk, you\u2019ll learn about a category of security issue known as\nside channel attacks. You\u2019ll be amused to see how features like\nautomatic data compression, short-circuit execution, and deterministic\nhashing can be abused to bypass security systems. No security background\nknowledge is required. The talk assumes at least intermediate Python\nexperience.\n",
+  "duration": 1625,
+  "language": "eng",
+  "recorded": "2018-11-03",
+  "related_urls": [
+    {
+      "label": "Group web",
+      "url": "https://2018.northbaypython.org/"
+    },
+    {
+      "label": "Group meeting schedule",
+      "url": "https://2018.northbaypython.org/schedule/"
+    }
+  ],
+  "speakers": [
+    "Philip James",
+    "Asheesh Laroia"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/JW81H0R4Chg/maxresdefault.jpg",
+  "title": "All in the timing: How side channel attacks work",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=JW81H0R4Chg"
+    }
+  ]
+}

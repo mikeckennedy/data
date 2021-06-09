@@ -1,0 +1,28 @@
+{
+  "copyright_text": null,
+  "description": "Asyncio (together with async / await syntax) is one of the most exciting new features in Python 3. Marte will detail what it is and how it can be used, together with concepts surrounding it.",
+  "duration": 2969,
+  "language": "eng",
+  "recorded": "2019-02-23",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://pycon.python.ph"
+    }
+  ],
+  "speakers": [
+    "Marte Soliza"
+  ],
+  "tags": [
+    "async",
+    "asyncio"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/zhV-_pkUkyE/maxresdefault.jpg",
+  "title": "Using Asyncio in Python 3",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=zhV-_pkUkyE"
+    }
+  ]
+}

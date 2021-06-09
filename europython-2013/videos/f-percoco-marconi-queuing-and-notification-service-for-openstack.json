@@ -1,0 +1,34 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2310,
+  "language": "eng",
+  "recorded": "2013-07-02",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.pycon.it/en/ep2013/"
+    }
+  ],
+  "speakers": [
+    "Flavio Percoco"
+  ],
+  "tags": [
+    "MessageQueues",
+    "WSGI",
+    "mongodb",
+    "REST",
+    "tdd",
+    "application-design",
+    "architecture",
+    "cloud"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/iNOd7-_TdDo/hqdefault.jpg",
+  "title": "Marconi: Queuing and Notification service for OpenStack",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=iNOd7-_TdDo"
+    }
+  ]
+}

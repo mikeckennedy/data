@@ -16,16 +16,14 @@
   "tags": [
     "tutorial"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/Gp60Qp3GUBU/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/Gp60Qp3GUBU/hqdefault.jpg",
   "title": "A hands-on introduction to Python for beginning programmers",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "https://archive.org/download/1850AHandsonIntroductionToPythonForBeginningPro/1850_A_handson_introduction_to_Python_for_beginning_pro.mp4"
     },
     {
-      "length": null,
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=rkx5_MRAV3A"
     }

@@ -16,11 +16,10 @@
   "tags": [
     "Plenary"
   ],
-  "thumbnail_url": "http://i.ytimg.com/vi/2wr8veJzZiU/hqdefault.jpg",
+  "thumbnail_url": "https://i.ytimg.com/vi/2wr8veJzZiU/hqdefault.jpg",
   "title": "Keynote",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Keynote-0.mp4?Signature=1BehI01RPWL4HryrzApj8Q1EOd0%3D&Expires=1363829412&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

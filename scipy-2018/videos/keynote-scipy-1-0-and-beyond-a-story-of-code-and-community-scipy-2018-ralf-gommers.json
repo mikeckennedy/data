@@ -1,0 +1,31 @@
+{
+  "copyright_text": null,
+  "description": "From humble beginnings in 2001, the SciPy library has grown into one of\nthe cornerstones of the scientific Python ecosystem, and it recently had\na milestone 1.0 release. In this talk I'd like to explore the road to\nthat 1.0 release, as well as some questions and ideas about what's next\nfor the project and community. How do we grow and sustain the project in\nthe future? What is happening around sustainability of projects in the\necosystem? And what does this mean for users and aspiring\ncontributors?Presenter(s): Speaker: Ralf Gommers, FP Innovations, Scion\n",
+  "duration": 3184,
+  "language": "eng",
+  "recorded": "2018-07-11",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://scipy2018.scipy.org/ehome/299527/721463/"
+    },
+    {
+      "label": "Conference slides",
+      "url": "https://github.com/deniederhut/Slides-SciPyConf-2018"
+    }
+  ],
+  "speakers": [
+    "Ralf Gommers"
+  ],
+  "tags": [
+    "keynote"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/oHmm3mPxg6Y/maxresdefault.jpg",
+  "title": "Keynote: SciPy 1.0 and Beyond - a Story of Code and Community",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=oHmm3mPxg6Y"
+    }
+  ]
+}

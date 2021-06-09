@@ -1,7 +1,7 @@
 {
   "alias": "video/2123/using-python-for-structured-prediction-scipy-201-1",
   "category": "SciPy 2013",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2123,
@@ -14,13 +14,13 @@
   "tags": [
     "Tech"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/ItA3K7i2Pa0/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/ItA3K7i2Pa0/hqdefault.jpg",
   "title": "Using Python for Structured Prediction; SciPy 2013 Presentation",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=ItA3K7i2Pa0"
+      "url": "https://www.youtube.com/watch?v=ItA3K7i2Pa0"
     }
   ]
 }

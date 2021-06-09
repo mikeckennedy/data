@@ -21,11 +21,10 @@
   "tags": [
     "tutorial"
   ],
-  "thumbnail_url": "http://i.ytimg.com/vi/bP8ydKBCZiY/hqdefault.jpg",
+  "thumbnail_url": "https://i.ytimg.com/vi/bP8ydKBCZiY/hqdefault.jpg",
   "title": "IPython in-depth: high-productivity interactive and parallel python",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/IPython_indepth_highproductivi.mp4?Signature=6fLwDBJMmt65mqZPzjZlMpQhV2w%3D&Expires=1364728655&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

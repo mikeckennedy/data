@@ -1,0 +1,29 @@
+{
+  "copyright_text": null,
+  "description": "Your user knows they want a healthyish but tasty pasta for dinner but\naren't quite sure exactly which recipe to choose. How can you help\nnarrow their search and show them closely related recipes to give them\nenough options without making their search exhausting? This talk will\nshow you BuzzFeed/Tasty tech's solution to creating a consistent method\nfor finding similar Tasty recipes using word2vec.Presenter(s): Speaker:\nMeghan Heintz, BuzzFeed\n",
+  "duration": 1583,
+  "language": "eng",
+  "recorded": "2018-07-13",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://scipy2018.scipy.org/ehome/299527/721463/"
+    },
+    {
+      "label": "Conference slides",
+      "url": "https://github.com/deniederhut/Slides-SciPyConf-2018"
+    }
+  ],
+  "speakers": [
+    "Meghan Heintz"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/RTyHP_PiX9M/maxresdefault.jpg",
+  "title": "Recipe2Vec: How word2vec Helped us Discover Related Tasty Recipes",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=RTyHP_PiX9M"
+    }
+  ]
+}

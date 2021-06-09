@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1185,
+  "language": "por",
+  "recorded": "2018-10-17",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://2018.pythonbrasil.org.br/programacao"
+    }
+  ],
+  "speakers": [
+    "Fabio Pugliese"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/FnNkoBQe0YE/maxresdefault.jpg",
+  "title": "Open Sourcing The New Test Framework From Facebook",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=FnNkoBQe0YE"
+    }
+  ]
+}

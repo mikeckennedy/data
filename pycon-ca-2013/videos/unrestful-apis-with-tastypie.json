@@ -16,13 +16,13 @@
   "tags": [
     "talk"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/hDpulr7y-uE/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/hDpulr7y-uE/hqdefault.jpg",
   "title": "UnRESTful APIs with Tastypie",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=hDpulr7y-uE"
+      "url": "https://www.youtube.com/watch?v=hDpulr7y-uE"
     }
   ]
 }

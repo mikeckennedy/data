@@ -16,18 +16,17 @@
   "tags": [
     "kivy"
   ],
-  "thumbnail_url": "http://i.ytimg.com/vi/4KPcBOpC-rw/hqdefault.jpg",
+  "thumbnail_url": "https://i.ytimg.com/vi/4KPcBOpC-rw/hqdefault.jpg",
   "title": "Deploy to Android: Adventures of a Hobbyist by Brendan Scott",
   "videos": [
     {
-      "length": null,
       "type": "ogv",
       "url": "http://mirror.linux.org.au/pub/pycon-au/pyconau2014/37-out.ogv"
     },
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=4KPcBOpC-rw"
+      "url": "https://www.youtube.com/watch?v=4KPcBOpC-rw"
     }
   ]
 }

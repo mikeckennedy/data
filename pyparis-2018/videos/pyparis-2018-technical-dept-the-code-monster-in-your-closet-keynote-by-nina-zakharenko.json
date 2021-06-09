@@ -1,0 +1,33 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2982,
+  "language": null,
+  "recorded": "2018-11-14",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "http://pyparis.org/static/pdf/Schedule-PyParis-2018.pdf"
+    },
+    {
+      "label": "Conference web",
+      "url": "http://pyparis.org/"
+    },
+    {
+      "label": "slides",
+      "url": "http://pyparis.org/static/slides/Nina%20Zakharenko-3b99e364.pdf"
+    }
+  ],
+  "speakers": [
+    "Nina Zakharenko"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/oahoZcJaAW0/maxresdefault.jpg",
+  "title": "Technical Debt: the Code Monster in your Closet",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=oahoZcJaAW0"
+    }
+  ]
+}

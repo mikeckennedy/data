@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 317,
+  "language": "eng",
+  "recorded": "2018-10-24",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://de.pycon.org/schedule/"
+    }
+  ],
+  "speakers": [
+    "Radomir Dopieralski"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/6tAxzpBaGHw/maxresdefault.jpg",
+  "title": "PewPew",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=6tAxzpBaGHw"
+    }
+  ]
+}

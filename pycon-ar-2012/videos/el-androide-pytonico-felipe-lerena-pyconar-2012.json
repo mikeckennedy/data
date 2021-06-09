@@ -1,0 +1,29 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "Una charla que explica como desarrollar aplicaciones nativas en Python\npara Android (y multiplataforma) usando Kivy.\n",
+  "duration": 2715,
+  "language": "spa",
+  "recorded": "2012-11-16",
+  "related_urls": [
+    {
+      "label": "Event schedule",
+      "url": "https://web.archive.org/web/20140626165416/http://ar.pycon.org/2012/schedule/index"
+    },
+    {
+      "label": "PyCon Argentina 2012 Brouchure",
+      "url": "https://es.scribd.com/document/116769116/PyCon-Argentina-2012-Brouchure"
+    }
+  ],
+  "speakers": [
+    "Felipe Lerena"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/xn92ZXJMPD0/maxresdefault.jpg",
+  "title": "El Androide Pytonico",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=xn92ZXJMPD0"
+    }
+  ]
+}

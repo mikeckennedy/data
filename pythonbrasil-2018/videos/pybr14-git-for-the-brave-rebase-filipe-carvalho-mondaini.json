@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1125,
+  "language": "por",
+  "recorded": "2018-10-17",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://2018.pythonbrasil.org.br/programacao"
+    }
+  ],
+  "speakers": [
+    "Filipe Carvalho Mondaini"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/H6RLH2kIMdU/maxresdefault.jpg",
+  "title": "Git for the Brave - Rebase",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=H6RLH2kIMdU"
+    }
+  ]
+}

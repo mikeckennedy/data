@@ -9,18 +9,21 @@
   "quality_notes": "",
   "recorded": "2012-10-06",
   "slug": "djangocon-2012-lightning-talks",
-  "speakers": [],
+  "speakers": [
+    "Various speakers"
+  ],
   "summary": "DjangoCon 2012 Lightning Talks\n",
   "tags": [
+    "lightning talks",
     "django"
   ],
-  "thumbnail_url": "http://i.ytimg.com/vi/tXyenP18iUg/hqdefault.jpg",
+  "thumbnail_url": "https://i.ytimg.com/vi/tXyenP18iUg/hqdefault.jpg",
   "title": "DjangoCon 2012 Lightning Talks",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=tXyenP18iUg"
+      "url": "https://www.youtube.com/watch?v=tXyenP18iUg"
     }
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2976,
+  "language": "ita",
+  "recorded": "2013-07-02",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.pycon.it/en/ep2013/"
+    }
+  ],
+  "speakers": [
+    "Fabrizio Manfredi",
+    "Federico Mosca"
+  ],
+  "tags": [
+    "clustering",
+    "HTTP",
+    "parallelization",
+    "distributed",
+    "twisted",
+    "REST",
+    "optimization",
+    "Algorithms",
+    "scalability",
+    "async",
+    "hpc",
+    "performance"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/UOWgwd56Vuw/hqdefault.jpg",
+  "title": "Uno sguardo agli internal di RestFS",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=UOWgwd56Vuw"
+    }
+  ]
+}

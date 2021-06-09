@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2459,
+  "language": "rus",
+  "recorded": "2018-02-24",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://web.archive.org/web/20180720115405/https://by.pycon.org/"
+    }
+  ],
+  "speakers": [
+    "Andrey Vlasovskikh"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/0KMnJm3kRSQ/maxresdefault.jpg",
+  "title": "What Python Can Do with Microcontrollers",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=0KMnJm3kRSQ"
+    }
+  ]
+}

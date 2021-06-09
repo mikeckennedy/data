@@ -1,0 +1,19 @@
+{
+  "description": "Lightining Talks da Flask Conf 2018.",
+  "language": "por",
+  "recorded": "2018-08-25",
+  "speakers": [
+    "Varios"
+  ],
+  "tags": [
+    "lightning talk"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/HoBmynIbdnU/hqdefault.jpg",
+  "title": "Lightning Talks",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=HoBmynIbdnU"
+    }
+  ]
+}

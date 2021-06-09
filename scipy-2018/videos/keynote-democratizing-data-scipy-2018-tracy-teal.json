@@ -1,0 +1,31 @@
+{
+  "copyright_text": null,
+  "description": "Presenter(s): Tracy Teal, Data Carpentry\n",
+  "duration": 2752,
+  "language": "eng",
+  "recorded": "2018-07-12",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://scipy2018.scipy.org/ehome/299527/721463/"
+    },
+    {
+      "label": "Conference slides",
+      "url": "https://github.com/deniederhut/Slides-SciPyConf-2018"
+    }
+  ],
+  "speakers": [
+    "Tracy Teal"
+  ],
+  "tags": [
+    "keynote"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/gMW9ubTvUwQ/maxresdefault.jpg",
+  "title": "Democratizing Data",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=gMW9ubTvUwQ"
+    }
+  ]
+}

@@ -19,11 +19,10 @@
   "tags": [
     "General"
   ],
-  "thumbnail_url": "http://i2.ytimg.com/vi/mSCo09arkY0/hqdefault.jpg",
+  "thumbnail_url": "https://i2.ytimg.com/vi/mSCo09arkY0/hqdefault.jpg",
   "title": "Object Oriented Finite Elements at NIST",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Object_Oriented_Finite_Element.mp4?Signature=UwtvlUJXYHNDjR5nZs59Lt1Fp7Y%3D&Expires=1346383004&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

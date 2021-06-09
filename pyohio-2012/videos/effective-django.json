@@ -14,11 +14,10 @@
   ],
   "summary": "Django is a popular, powerful web framework for Python. It has lots of\n\"batteries\" included, and makes it easy to get up and going. But all of\nthe power means you can write low quality code that still seems to work.\nEffective Django development means building applications that are\ntestable, maintainable, and scalable. This talk-torial will cover the\nskills needed to effective use Django.\n",
   "tags": [],
-  "thumbnail_url": "http://i1.ytimg.com/vi/T0_yaDz8Kd4/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/T0_yaDz8Kd4/hqdefault.jpg",
   "title": "Effective Django",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/pyohio/pyohio_2012/Effective_Django.mp4?Signature=Wa7Duc3ag3CumGD9JbTZAn0UOOQ%3D&Expires=1346610845&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

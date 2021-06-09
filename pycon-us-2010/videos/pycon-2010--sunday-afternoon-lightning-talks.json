@@ -13,9 +13,20 @@
     "https://www.createspace.com/"
   ],
   "slug": "pycon-2010--sunday-afternoon-lightning-talks",
-  "speakers": [],
-  "summary": "",
+  "speakers": [
+    "Steve Holden",
+    "Michael Foord",
+    "Harald Armin Massa",
+    "Peter Fein",
+    "Chris McDonough",
+    "Chris Petrilli",
+    "Godefroid Chapelle",
+    "Jason Huggins",
+    "Noufal Brahim",
+    "Mike M\u00fcller"
+  ],
   "tags": [
+    "lightning talks",
     "celery",
     "euroscipy",
     "euroscipy2010",
@@ -39,16 +50,6 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/pyvideo_260___sunday-afternoon-lightning-talks"
-    },
-    {
-      "length": null,
-      "type": "mp4",
-      "url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/260_sunday-afternoon-lightning-talks.m4v"
-    },
-    {
-      "length": 292349113,
-      "type": "ogv",
-      "url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pycon-us-2010/260_sunday-afternoon-lightning-talks.ogv"
     }
   ]
 }

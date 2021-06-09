@@ -1,0 +1,29 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "",
+  "duration": 1827,
+  "language": "eng",
+  "recorded": "2017-02-22",
+  "related_urls": [
+    {
+      "label": "Group web",
+      "url": "http://pyninsula.org/"
+    },
+    {
+      "label": "Group meeting schedule",
+      "url": "https://www.meetup.com/Pyninsula-Python-Peninsula-Meetup/"
+    }
+  ],
+  "speakers": [
+    "glyph"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/0wOZBpD1VVk/maxresdefault.jpg",
+  "title": "Automat",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=0wOZBpD1VVk"
+    }
+  ]
+}

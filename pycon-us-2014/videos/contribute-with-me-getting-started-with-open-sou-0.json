@@ -1,7 +1,7 @@
 {
   "alias": "video/2586/contribute-with-me-getting-started-with-open-sou-0",
   "category": "PyCon US 2014",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2586,
@@ -14,13 +14,13 @@
   ],
   "summary": "Want to contribute to a Python project or the core language, but not\nsure where to start?\n\nJoin us for 3 hours learning the nuts and bolts of open source\ncontribution. By the end of this tutorial, you'll have the tools and\npractice to confidently contribute to your favorite projects.\n\nBeginning programmers are welcome and encouraged!\n",
   "tags": [],
-  "thumbnail_url": "http://i1.ytimg.com/vi/k17GqN9dT3Q/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/k17GqN9dT3Q/hqdefault.jpg",
   "title": "Contribute with me! Getting started with open source development",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=k17GqN9dT3Q"
+      "url": "https://www.youtube.com/watch?v=k17GqN9dT3Q"
     }
   ]
 }

@@ -16,11 +16,10 @@
   "tags": [
     "metaprogrammierung"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/poBj2-2J5o8/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/poBj2-2J5o8/hqdefault.jpg",
   "title": "Metaprogrammierung, praktisch.",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Vortrag_Metaprogrammierung_pra.mp4?Signature=HveSs9KFpFRtP2heAhqhOzbAZfg%3D&Expires=1352032057&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

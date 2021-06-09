@@ -1,0 +1,27 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 58,
+  "language": "spa",
+  "recorded": "2018-02-09",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://2018.pycon.co/#tab-2018-02-09"
+    }
+  ],
+  "speakers": [
+    "Naomi Ceder"
+  ],
+  "tags": [
+    "introduction"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/ntIh1oef87c/maxresdefault.jpg",
+  "title": "Naomi Ceder",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=ntIh1oef87c"
+    }
+  ]
+}

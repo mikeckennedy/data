@@ -7,7 +7,7 @@
   "id": 501,
   "language": "eng",
   "quality_notes": "",
-  "recorded": null,
+  "recorded": "2010-07-31",
   "related_urls": [
     "http://codespeak.net/lxml/",
     "http://mercurial.selenic.com/",
@@ -17,9 +17,15 @@
     "https://fedorahosted.org/suds/"
   ],
   "slug": "pyohio-2010--lightning-talks",
-  "speakers": [],
-  "summary": "",
+  "speakers": [
+    "Eric Floehr",
+    "Greg Malcolm",
+    "John Nielsen",
+    "Calvin Hendryx-Parker",
+    "Gloria Jacobs"
+  ],
   "tags": [
+    "lightning talks",
     "concurrency",
     "gil",
     "lxml",
@@ -36,11 +42,6 @@
     {
       "type": "archive.org",
       "url": "https://archive.org/details/pyvideo_501___pyohio-2010-lightning-talks"
-    },
-    {
-      "length": null,
-      "type": "flv",
-      "url": "http://05d2db1380b6504cc981-8cbed8cf7e3a131cd8f1c3e383d10041.r93.cf2.rackcdn.com/pyohio-2010/501_pyohio-2010-lightning-talks.flv"
     }
   ]
 }

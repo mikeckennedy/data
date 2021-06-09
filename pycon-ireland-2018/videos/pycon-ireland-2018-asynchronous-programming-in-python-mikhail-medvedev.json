@@ -1,0 +1,28 @@
+{
+  "copyright_text": null,
+  "description": "Asynchronous programming can have many advantages, but may be awfully complicated. It also requires a developer to think differently. In this talk I will go through what async programming is, when you should or should not use it, and what we can do to avoid getting lost. I will also explore various approaches and tools available in Python.",
+  "duration": 2064,
+  "language": "eng",
+  "recorded": "2018-11-10",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "http://schedule.pycon18.python.ie/"
+    }
+  ],
+  "speakers": [
+    "Mikhail Medvedev"
+  ],
+  "tags": [
+    "async",
+    "asynchronous"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/Xupl1Y44q9U/maxresdefault.jpg",
+  "title": "Asynchronous programming in Python",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=Xupl1Y44q9U"
+    }
+  ]
+}

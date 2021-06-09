@@ -1,0 +1,30 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 3081,
+  "language": "eng",
+  "recorded": "2013-07-03",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.pycon.it/en/ep2013/"
+    }
+  ],
+  "speakers": [
+    "Tarek Ziad\u00e9"
+  ],
+  "tags": [
+    "sysadmin",
+    "web",
+    "service-orchestration",
+    "servers"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/_e1-8owBC98/hqdefault.jpg",
+  "title": "Circus, process and socket manager",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=_e1-8owBC98"
+    }
+  ]
+}

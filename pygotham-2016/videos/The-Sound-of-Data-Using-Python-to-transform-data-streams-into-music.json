@@ -8,11 +8,9 @@
     "https://2016.pygotham.org/talks/368/probabilistic-graphical-models-in-python"
   ],
   "speakers": [
-    " Gabriel Levine"
+    "Gabriel Levine"
   ],
-  "tags": [
-    ""
-  ],
+  "tags": [],
   "thumbnail_url": "https://i.ytimg.com/vi/vb9c_WFMYeI/maxresdefault.jpg",
   "title": "The Sound of Data: Using Python to transform data streams into music.",
   "videos": [

@@ -1,0 +1,31 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2475,
+  "language": "eng",
+  "recorded": "2013-07-02",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.pycon.it/en/ep2013/"
+    }
+  ],
+  "speakers": [
+    "Hynek Schlawack"
+  ],
+  "tags": [
+    "best-practices",
+    "software-engineering",
+    "project-management",
+    "principles",
+    "automation"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/RvbDCzroavY/hqdefault.jpg",
+  "title": "Solid Python Application Deployments For Everybody",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=RvbDCzroavY"
+    }
+  ]
+}

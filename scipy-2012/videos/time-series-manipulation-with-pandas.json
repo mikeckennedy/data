@@ -16,11 +16,10 @@
   "tags": [
     "General"
   ],
-  "thumbnail_url": "http://i3.ytimg.com/vi/bgfLrKpc4jA/hqdefault.jpg",
+  "thumbnail_url": "https://i3.ytimg.com/vi/bgfLrKpc4jA/hqdefault.jpg",
   "title": "Time Series Manipulation with pandas",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/Time_Series_Manipulation_with_pandas.mp4?Signature=uouD0GXIhu8nr6a8Eaa5lldrkgc%3D&Expires=1346381459&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

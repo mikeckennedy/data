@@ -1,7 +1,7 @@
 {
   "alias": "video/2051/python-and-the-ska-scipy-2013-presentation",
   "category": "SciPy 2013",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2051,
@@ -14,13 +14,13 @@
   "tags": [
     "Tech"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/dRFiI29y7KA/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/dRFiI29y7KA/hqdefault.jpg",
   "title": "Python and the SKA; SciPy 2013 Presentation",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=dRFiI29y7KA"
+      "url": "https://www.youtube.com/watch?v=dRFiI29y7KA"
     }
   ]
 }

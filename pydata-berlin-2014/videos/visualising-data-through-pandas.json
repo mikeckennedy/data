@@ -10,22 +10,21 @@
   "recorded": "2014-07-26",
   "slug": "visualising-data-through-pandas",
   "speakers": [
-    "Vincent Warmerdam"
+    "Vincent D. Warmerdam"
   ],
   "summary": "pandas & ggplot: quick analysis with python and friends\n",
   "tags": [],
-  "thumbnail_url": "http://i.ytimg.com/vi/ZW8Aei2wlsM/hqdefault.jpg",
+  "thumbnail_url": "https://i.ytimg.com/vi/ZW8Aei2wlsM/hqdefault.jpg",
   "title": "Visualising Data through Pandas",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://video.ep14.c3voc.de/20269.mp4"
     },
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=ZW8Aei2wlsM"
+      "url": "https://www.youtube.com/watch?v=ZW8Aei2wlsM"
     }
   ]
 }

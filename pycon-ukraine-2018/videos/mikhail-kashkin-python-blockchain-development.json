@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "In this talk, I want to show that Python is a first class citizen in the\nworld of blockchains. What basic concepts you need to know to make your\nown first smart contract in Etherium blockchain. And maybe, will show\nhow to run your own first ICO in full python.",
+  "duration": 2961,
+  "language": "rus",
+  "recorded": "2018-04-28",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://2018.uapycon.org/#schedule"
+    }
+  ],
+  "speakers": [
+    "Mikhail Kashkin"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/t-M10LRMpOc/maxresdefault.jpg",
+  "title": "Python Blockchain development",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=t-M10LRMpOc"
+    }
+  ]
+}

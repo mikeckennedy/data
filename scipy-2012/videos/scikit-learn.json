@@ -16,11 +16,10 @@
   "tags": [
     "advanced"
   ],
-  "thumbnail_url": "http://i4.ytimg.com/vi/33L_EXLtJPE/hqdefault.jpg",
+  "thumbnail_url": "https://i4.ytimg.com/vi/33L_EXLtJPE/hqdefault.jpg",
   "title": "scikit-learn",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/enthought/scipy_2012/scikitlearn.mp4?Signature=S8FD%2F6oDUdQrSUxkjgrepB2ZVbY%3D&Expires=1346988563&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

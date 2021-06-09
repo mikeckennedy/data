@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1509,
+  "language": "por",
+  "recorded": "2018-10-17",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://2018.pythonbrasil.org.br/programacao"
+    }
+  ],
+  "speakers": [
+    "Givanaldo Rocha"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/njqevdVkY6s/maxresdefault.jpg",
+  "title": "Pensamento Computacional com Blocos e Python",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=njqevdVkY6s"
+    }
+  ]
+}

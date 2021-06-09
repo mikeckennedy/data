@@ -3,15 +3,19 @@
   "language": "eng",
   "recorded": "2016-03-31",
   "slug": "djangocon-eu-2016-lightning-talks-day-2",
-  "speakers": [],
+  "speakers": [
+    "Various speakers"
+  ],
   "tags": [
+    "lightning talks",
     "django"
   ],
+  "thumbnail_url": "https://i.vimeocdn.com/video/699877155.jpg",
   "title": "Lightning talks, day 2",
   "videos": [
     {
-      "type": "wistia",
-      "url": "https://fast.wistia.com/embed/iframe/21hz7hsp5j"
+      "type": "vimeo",
+      "url": "https://vimeo.com/269018266"
     }
   ]
 }

@@ -9,14 +9,16 @@
   "quality_notes": "",
   "recorded": "2012-10-30",
   "slug": "lightning-talks-dienstag",
-  "speakers": [],
-  "summary": "\n\n",
-  "tags": [],
-  "thumbnail_url": "http://i1.ytimg.com/vi/d8pGnZVONgI/hqdefault.jpg",
+  "speakers": [
+    "Various speakers"
+  ],
+  "tags": [
+    "lightning talks"
+  ],
+  "thumbnail_url": "https://i1.ytimg.com/vi/d8pGnZVONgI/hqdefault.jpg",
   "title": "Lightning Talks (Dienstag)",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/pyconde/pyconde2012/Lightning_Talks_Dienstag.mp4?Signature=fuq4BMW%2FLrryxba9g0Ry%2BHy3TGg%3D&Expires=1353015278&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

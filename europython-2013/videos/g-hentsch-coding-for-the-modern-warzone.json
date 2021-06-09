@@ -1,0 +1,33 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2339,
+  "language": "eng",
+  "recorded": "2013-07-03",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://www.pycon.it/en/ep2013/"
+    }
+  ],
+  "speakers": [
+    "Gemma Hentsch"
+  ],
+  "tags": [
+    "udp",
+    "networking",
+    "flask",
+    "tcp",
+    "application-design",
+    "architecture",
+    "resilience"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/9tiY-Sni04w/hqdefault.jpg",
+  "title": "Coding for the Modern Warzone",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=9tiY-Sni04w"
+    }
+  ]
+}

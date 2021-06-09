@@ -1,0 +1,29 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "Tomar ventaja del multiprocesamiento de los sistemas modernos en sus\nvarias formas es todo un reto. Esta charla revisar\u00e1 las varias t\u00e9cnicas\ndisponibles a los desarrolladores, y las lecciones aprendidas mediante\nla experiencia ganada al enfrentar estos problemas en Livra.com,\nnotoriamente, una manera de conseguir concurrencia real utilizando\nmultithreading y CPython, junto con formas de comunicaci\u00f3n interproceso\neficientes cuando multithreading simplemente no es suficiente.\n",
+  "duration": 2668,
+  "language": "spa",
+  "recorded": "2012-11-17",
+  "related_urls": [
+    {
+      "label": "Event schedule",
+      "url": "https://web.archive.org/web/20140626165416/http://ar.pycon.org/2012/schedule/index"
+    },
+    {
+      "label": "PyCon Argentina 2012 Brouchure",
+      "url": "https://es.scribd.com/document/116769116/PyCon-Argentina-2012-Brouchure"
+    }
+  ],
+  "speakers": [
+    "Claudio Freire"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/ZH4z4KbbpVk/maxresdefault.jpg",
+  "title": "Multiprocesamiento en python",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=ZH4z4KbbpVk"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "copyright_text": null,
+  "description": "Building correct concurrent or distributed systems is hard and very\nchallenging task. In my talk I will show how model checking tools can\nhelp to ensure correctness of algorithms used in such systems.",
+  "duration": 2702,
+  "language": "rus",
+  "recorded": "2018-04-28",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://2018.uapycon.org/#schedule"
+    }
+  ],
+  "speakers": [
+    "Nikolay Novik"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/gRr9ymtAN6E/maxresdefault.jpg",
+  "title": "Verification of Concurrent and Distributed Systems",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=gRr9ymtAN6E"
+    }
+  ]
+}

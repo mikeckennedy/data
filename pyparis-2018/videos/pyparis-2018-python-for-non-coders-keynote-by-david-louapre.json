@@ -1,0 +1,33 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2298,
+  "language": null,
+  "recorded": "2018-11-14",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "http://pyparis.org/static/pdf/Schedule-PyParis-2018.pdf"
+    },
+    {
+      "label": "Conference web",
+      "url": "http://pyparis.org/"
+    },
+    {
+      "label": "slides",
+      "url": "http://pyparis.org/static/slides/David%20Louapre-629a77af.pdf"
+    }
+  ],
+  "speakers": [
+    "David Louapre"
+  ],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/WlUknaAasZw/maxresdefault.jpg",
+  "title": "Python for non-coders",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=WlUknaAasZw"
+    }
+  ]
+}

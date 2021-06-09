@@ -1,0 +1,16 @@
+{
+  "description": "Traditional web frameworks are over. Done. Right? Wrong! In this talk I\nwill show you how I combined an excellent Single Page Application\nJavaScript framework (Vue.js) with Django and the amazing Django Rest\nFramework to get the best possible results, after evaluating other\nlanguages and frameworks.",
+  "language": "eng",
+  "recorded": "2017-10-07",
+  "speakers": [
+    "Bo Milanovich"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/DrPRM9pO6oo/hqdefault.jpg",
+  "title": "Using Django with Modern SPA Frameworks",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=DrPRM9pO6oo"
+    }
+  ]
+}

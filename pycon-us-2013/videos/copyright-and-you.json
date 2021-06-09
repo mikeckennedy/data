@@ -16,11 +16,10 @@
   "tags": [
     "talk"
   ],
-  "thumbnail_url": "http://i4.ytimg.com/vi/3J3bpgIZ9cM/hqdefault.jpg",
+  "thumbnail_url": "https://i4.ytimg.com/vi/3J3bpgIZ9cM/hqdefault.jpg",
   "title": "Copyright and You",
   "videos": [
     {
-      "length": null,
       "type": "mp4",
       "url": "http://s3.us.archive.org/nextdayvideo/psf/pycon2013/Copyright_and_You.mp4?Signature=iXWD7Dk30HEoMpdZ9Z9N4Z7mTiA%3D&Expires=1363651774&AWSAccessKeyId=FEWGReWX3QbNk0h3"
     },

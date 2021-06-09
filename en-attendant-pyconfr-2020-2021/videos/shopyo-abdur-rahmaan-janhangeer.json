@@ -1,0 +1,32 @@
+{
+  "description": "Pr\u00e9sentation de Shopyo, un framework pour construire des sites avec Flask",
+  "duration": 3085,
+  "language": "fra",
+  "recorded": "2021-03-17",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://discuss.afpy.org/t/conferences-du-mercredi-17-mars-2021-19h00/"
+    }
+  ],
+  "speakers": [
+    "Abdur-Rahmaan Janhangeer"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/v3lmgMuWo-U/hqdefault.jpg",
+  "title": "Shopyo: Flasquer Flask",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=v3lmgMuWo-U"
+    },
+    {
+      "size": 154030595,
+      "type": "mp4",
+      "url": "https://dl.afpy.org/en-attendant-la-pycon-fr-2020-2021/2021-03%20Shopyo%3A%20Flasquer%20Flask%20-%20Abdur-Rahmaan%20Janhangeer.mp4"
+    },
+    {
+      "type": "peertube",
+      "url": "https://bittube.video/videos/watch/42fcd816-735d-40f8-90f3-b7407fbf2422"
+    }
+  ]
+}

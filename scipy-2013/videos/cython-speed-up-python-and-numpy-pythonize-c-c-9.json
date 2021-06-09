@@ -1,7 +1,7 @@
 {
   "alias": "video/2164/cython-speed-up-python-and-numpy-pythonize-c-c-9",
   "category": "SciPy 2013",
-  "copyright_text": "http://www.youtube.com/t/terms",
+  "copyright_text": "https://www.youtube.com/t/terms",
   "description": "",
   "duration": null,
   "id": 2164,
@@ -17,13 +17,13 @@
   "tags": [
     "Tech"
   ],
-  "thumbnail_url": "http://i1.ytimg.com/vi/6ukI-NlIzqY/hqdefault.jpg",
+  "thumbnail_url": "https://i1.ytimg.com/vi/6ukI-NlIzqY/hqdefault.jpg",
   "title": "Cython: Speed up Python and NumPy, Pythonize C, C++, and Fortran, SciPy2013 Tutorial, Part 3 of 4",
   "videos": [
     {
       "length": 0,
       "type": "youtube",
-      "url": "http://www.youtube.com/watch?v=6ukI-NlIzqY"
+      "url": "https://www.youtube.com/watch?v=6ukI-NlIzqY"
     }
   ]
 }
