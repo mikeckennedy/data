@@ -1,19 +1,20 @@
-import os
-import glob
+from pathlib import Path
 import re
 
-from jinja2 import Markup
+from jinja2.utils import markupsafe
 import six
 
 
 def get_json_files(root, exclude=None):
     exclude = exclude if exclude else set()
 
-    category_pattern = os.path.join(root, '**/category.json')
-    video_pattern = os.path.join(root, '**/videos/*.json')
+    root_path = Path(root)
 
-    category = [path for path in glob.iglob(category_pattern) if path not in exclude]
-    video = [path for path in glob.iglob(video_pattern) if path not in exclude]
+    categories = root_path.rglob('category.json')
+    videos = root_path.rglob('videos/*.json')
+
+    category = [path for path in categories if path not in exclude]
+    video = [path for path in videos if path not in exclude]
 
     return category, video
 
@@ -26,7 +27,7 @@ def slugify(value, substitutions=()):
     Taken from Pelican sources.
     """
     # TODO Maybe steal again from current Django 1.5dev
-    value = Markup(value).striptags()
+    value = markupsafe.Markup(value).striptags()
     # value must be unicode per se
     import unicodedata
     from unidecode import unidecode
@@ -60,8 +61,8 @@ def slugify(value, substitutions=()):
             replace = replace and not skip
 
     if replace:
-        value = re.sub('[^\w\s-]', '', value).strip()
-        value = re.sub('[-\s]+', '-', value)
+        value = re.sub(r'[^\w\s-]', '', value).strip()
+        value = re.sub(r'[-\s]+', '-', value)
     else:
         value = value.strip()
 
@@ -69,4 +70,3 @@ def slugify(value, substitutions=()):
     value = value.encode('ascii', 'ignore')
     # but Pelican should generally use only unicode
     return value.decode('ascii')
-

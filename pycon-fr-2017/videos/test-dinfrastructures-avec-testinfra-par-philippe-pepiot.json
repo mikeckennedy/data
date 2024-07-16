@@ -1,6 +1,7 @@
 {
   "description": "Testinfra est un outil pour \u00e9crire des tests d'infrastructure en python. Il permet d'\u00e9crire de tests pour vos recettes \u00e9crites avec Puppet, Ansible, Chef ou encore Salt, ces tests sont alors r\u00e9utilisables pour faire du monitoring.\n\nhttps://testinfra.readthedocs.io/en/latest/",
   "duration": 1613,
+  "language": "fra",
   "recorded": "2017-09-24",
   "speakers": [
     "Philippe Pepiot"
@@ -11,6 +12,10 @@
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=GQIf0Zmfxbo"
+    },
+    {
+      "type": "mkv",
+      "url": "https://dl.afpy.org/pycon-fr-17/Test%20d%E2%80%99infrastructures%20avec%20testinfra%20par%20Philippe%20Pepiot.mkv"
     }
   ]
 }

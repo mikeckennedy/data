@@ -1,6 +1,7 @@
 {
   "description": "\u00c9crire des sc\u00e9narios de test est souvent fastidieux, on \u00e9crit le sc\u00e9nario o\u00f9 tous ce passe bien, et on n\u00e9glige les sc\u00e9narios d'erreur. Lorsque l'on a le courage d'\u00e9crire les sc\u00e9narios d'erreur, on a du mal \u00e0 g\u00e9rer la masse de code en commun entre chaque sc\u00e9nario de test. Dans cette pr\u00e9sentation on va voir l'utilisation de Cricri, qui permet de faciliter l'\u00e9criture de sc\u00e9nario et de faire des tests hauts niveaux gr\u00e2ce au client REST.",
   "duration": 1076,
+  "language": "fra",
   "recorded": "2017-09-23",
   "speakers": [
     "Vincent Maillol"
@@ -11,6 +12,10 @@
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=VkM93Jbe8Ew"
+    },
+    {
+      "type": "mkv",
+      "url": "https://dl.afpy.org/pycon-fr-17/G%C3%A9n%C3%A9rer%20ses%20sc%C3%A9narios%20de%20test%20par%20Vincent%20Maillol.mkv"
     }
   ]
 }

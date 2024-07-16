@@ -1,6 +1,7 @@
 {
   "description": "Python is a good language to write highly distributed applications, such as ones you can run on cloud computing platform. In this talk, I'll introduce different mechanisms, tools, and libraries that can be leveraged by Python to run code across multiple nodes and to spread workloads and handle high availability.\nWe'll see the traps that developers should not fall into and what are the good practice and design to distribute applications.",
   "duration": 3228,
+  "language": "fra",
   "recorded": "2017-09-23",
   "speakers": [
     "Julien Danjou"
@@ -11,6 +12,10 @@
     {
       "type": "youtube",
       "url": "https://www.youtube.com/watch?v=p7VZXaKB9L0"
+    },
+    {
+      "type": "mkv",
+      "url": "https://dl.afpy.org/pycon-fr-17/Scalable%20and%20distributed%20applications%20in%20Python%20par%20Julien%20Danjou.mkv"
     }
   ]
 }
